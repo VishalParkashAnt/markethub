@@ -537,6 +537,7 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
                   echo '<input type="hidden" id="logguserid" value="'.$loguser['id'].'">';
                 }
                 ?> -->
+                
                  <?php
                 if(count($loguser)>0){
 
