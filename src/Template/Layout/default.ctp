@@ -144,6 +144,9 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
         <?= $this->fetch('css') ?>
         <?= $this->fetch('script') ?>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pushbar.js@1.0.0/src/pushbar.min.css">
+        <?= $this->Html->css('custom_style.css') ?>
+        <?= $this->Html->css('custom_ui_ux.css') ?>
+        <?= $this->Html->css('media.css') ?>
         <style type="text/css">
           .test
           {
@@ -165,9 +168,9 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
         <header>
       
       <nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container-fluid navHeader">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
+          <div class="container-fluid navHeader d-flex align-items-center">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
           <div data-pushbar-id="sidepushbar" data-pushbar-direction="left" class="mob_sidebar">
             <!-- <button data-pushbar-close class="close_btn">Close</button> -->
             <div class="profile-section">
@@ -175,26 +178,19 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
                  <?php if(count($userDetailss)==0){
                     $img=SITE_URL.'/img/profile@2x.png';
                     $user_imges = "usrimg.jpg";
-                    $name="Guest";
-                    
+                    $name="Guest"; 
                   } 
                   else{
                     $user_imges = $userDetailss['profile_image'];
                     $name=$userDetailss['first_name'];
                   }
-
-             
                   ?>
-
                 <div class="profile-circle"><span class="">
                     <img src="<?php echo SITE_URL.'media/avatars/thumb70/'.$user_imges;?>" style="width:100%;height:100%;">
                   </span></div>
                 <div class="welcome-text">
-
                   <div class="welcome">Welcome</div>
-                 
                   <div class="name"><?php echo $name;?></div>
-
                 </div>
               </div>
             </div>
@@ -353,10 +349,10 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
             <a href="<?php echo SITE_URL;?>" class=""> <img src="<?php echo SITE_URL.'/img/Logo@2x.png';?>"
                 alt="homepage" class="logo"></a>
             <!-- <a href="http://services.hitasoft.in/dev/stratus/" > -->
-            <a href="#" id="logo_dropdown" class="dropdown-toggle loGo" data-toggle="dropdown" role="button"
+            <!-- <a href="#" id="logo_dropdown" class="dropdown-toggle loGo" data-toggle="dropdown" role="button"
               aria-haspopup="true" aria-expanded="false">
-              <div class="logoArrow "><i class="fa fa-angle-down"></i></div><!--  </a> -->
-            </a>
+              <div class="logoArrow "><i class="fa fa-angle-down"></i></div>
+            </a> -->
             
             <ul class="dropdown-menu logoDropDown">
               <li><a href="<?php echo SITE_URL.'merchant';?>"><span class="headImg"><img
@@ -378,18 +374,27 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
             </ul>
 
           </li>
-           <span class="navbar-form navbar-left searchBar" style="border:none;">
-            <div class="form-group inputSearch">
-              <input id="search-query" name="q" class="form-control" autocomplete="off" onkeyup="indexSearch(event);"
-                type="text" placeholder="<?php echo __d('user','Search for products, brands and more...');?>">
-              <div class="feed-search nodisply" style="display: none;">
-                <ul id="usesrch" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front custom_search_dropdown_content"
-                  style="display: none;"></ul>
+           <span class="navbar-form navbar-left searchBar header_cmn_wraper" style="border:none;">
+            <div class="header_back_btn">
+                <a href="javascript:window.history.back()" class="back_btn  headerBackButtonGlobal"><i
+                class="fa fa-chevron-left"></i> <span>Back</span></a>
               </div>
-            </div>
-            <div class="searchHeader">
-              <button type="submit" class="btn btn-default search1" onclick="indcall(event);"><?php echo __d('user','Search');?></button>
-            </div>
+              <div class="form-group inputSearch search_wrapper">
+              <form class="header-search-form" role="search"method="GET">
+              <div class="search-input-icon">
+                <img itemprop="" src="https://videohub.stratus-stage.xyz//themes/default/img/svg_img/Search2.svg" alt="{{CONFIG title}}">
+              </div>
+                  <input id="search-query" name="q" class="form-control" autocomplete="off" onkeyup="indexSearch(event);"
+                    type="text" placeholder="<?php echo __d('user','Search for products, brands and more...');?>">
+                  <div class="feed-search nodisply" style="display: none;">
+                    <ul id="usesrch" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front custom_search_dropdown_content"
+                        style="display: none;"></ul>
+                  </div>
+              </div>
+              <div class="searchHeader">
+                  <button type="submit" class="btn btn-default search1" onclick="indcall(event);"><?php echo __d('user','Search');?></button>
+              </div>
+            </form>
           </span>
         </div>
 
@@ -431,7 +436,7 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
               <img src="./img/Currency@2x.png" alt="Affiliate">
               <span class="currText">Currency</span>
             </li> -->
-            <li class="currenCy">
+            <!-- <li class="currenCy">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               <img src="<?php echo SITE_URL.'/img/Currency@2x.png';?>" alt="Affiliate" />
               
@@ -442,14 +447,12 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
                         echo $_SESSION['currency_code'];
                       else
                       {
-                       //echo '<pre>';print_r($languages[0]);die;
                         echo $languages[0]['countrycode'];
                       }
                       ?></span>
               </a>
               <ul class="dropdown-menu currencyDropDown">
                 <?php
-                /* latest fixes 4.1 */
                 $uniquecountrycodes = array();
                 foreach ($languages as $lang) {
                   if (!in_array($lang['countrycode'], $uniquecountrycodes)) {
@@ -457,11 +460,25 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
                     array_push($uniquecountrycodes, $lang['countrycode']);
                   }
                 }
-                /* latest fixes 4.1 */
                 ?>
               </ul>
+            </li> -->
 
-            </li>
+            <a class="cmn_icon_style" href="#">
+              <li class="plus_icon">
+                    <span class="svg_icon">
+                        <img src="http://localhost/markethub//img/svg_icon/plus_icon.svg" alt="Affiliate">
+                    </span>
+              </li>
+            </a>
+            <a class="cmn_icon_style" href="#">
+              <li class="email_icon">
+                    <span class="svg_icon">
+                        <img src="http://localhost/markethub//img/svg_icon/Email_icon.svg" alt="Affiliate">
+                    </span>
+              </li>
+            </a>
+
             <?php 
             if(count($loguser)==0){ 
               echo '<a href="'.SITE_URL.'login"><li class="pRofile">
@@ -472,14 +489,10 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
               </li></a>';
             }
             else{
-
              //  echo '<li class="affi"><a href="'.SITE_URL.'people/'.$loguser['username_url'].'"><img src="'.SITE_URL.'/img/profile@2x.png" alt="Profile"><span class="pRofileText"></span></a></li>';
-            }
-
+              }
                ?>
-
-           
-            <?php
+            <!-- <?php
               if(count($loguser)>0)
               {
                 echo '<li class="dropdown caRt" style="cursor:pointer;">
@@ -523,7 +536,7 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
                   </li>';
                   echo '<input type="hidden" id="logguserid" value="'.$loguser['id'].'">';
                 }
-                ?>
+                ?> -->
                  <?php
                 if(count($loguser)>0){
 
@@ -542,7 +555,7 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
               if ($user_imges == "") $user_imges = "usrimg.jpg";
               else $user_imges = $userDetailss['profile_image'];
                ?>
-                <li class="userProfDrop">
+                <li class="userProfDrop cmn_icon_style">
                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                      <div class="prOfileDropdown">
                        <img src="<?php echo SITE_URL.'media/avatars/thumb70/'.$user_imges ;?>" alt="user">
@@ -565,7 +578,7 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
 
                    </ul>
                 </li>
-                <li class="notiFicationHead dropdown notif" >
+                <li class="notiFicationHead dropdown notif cmn_icon_style" >
                   <!-- <a class="nav-menu-padding" href="javascript:void(0)" data-toggle="dropdown" onclick="shownoti();"><img src="<?php //echo SITE_URL.'/img/Notification@2x.png'?>" alt="Notification"> -->
 
                    <a class="nav-menu-padding" href="<?php echo SITE_URL.'push_notifications'?>" onclick="shownoti();" ><img src="<?php echo SITE_URL.'/img/Notification@2x.png'?>" alt="Notification">
