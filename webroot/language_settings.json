@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "default": "eng",
+        "total": "3",
+        "multilingual": "yes"
+    },
+    "languages": {
+        "English": "eng",
+        "French": "fra",
+        "Deutch": "deu"
+    }
+}

@@ -1,0 +1,5240 @@
+msgid "Dashboard" 
+msgstr "Tablero"
+
+msgid "Welcome" 
+msgstr "Bienvenido"
+
+msgid "Admin!" 
+msgstr "¡Administración!"
+
+msgid "Users" 
+msgstr "usuarios"
+
+msgid "Active Users" 
+msgstr "Los usuarios activos"
+
+msgid "Total Items" 
+msgstr "Articulos totales"
+
+msgid "Merchandize value" 
+msgstr "valor de mercancías"
+
+msgid "Completed Transctions" 
+msgstr "Transctions completadas"
+
+msgid "Total Revenue" 
+msgstr "Los ingresos totales"
+
+msgid "New Orders Today" 
+msgstr "Nuevos pedidos hoy"
+
+msgid "Delivered Orders Today" 
+msgstr "Órdenes del día de hoy"
+
+msgid "First Name" 
+msgstr "Nombre de pila"
+
+msgid "Username" 
+msgstr "Nombre de usuario"
+
+msgid "Send Push Notification" 
+msgstr "Enviar notificaciones push"
+
+msgid "More..." 
+msgstr "Más..."
+
+msgid "Message" 
+msgstr "Mensaje"
+
+msgid "Send" 
+msgstr "Enviar"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "About" 
+msgstr "Acerca de"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Product" 
+msgstr "Producto"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Disputes" 
+msgstr "disputas"
+
+msgid "Manage Disputes" 
+msgstr "Manejo de Conflictos"
+
+msgid "Active Disputes" 
+msgstr "Las disputas activas"
+
+msgid "Order ID" 
+msgstr "Solicitar ID"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Dispute Type" 
+msgstr "Tipo de controversias"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Current Status" 
+msgstr "Estado actual"
+
+msgid "Change Status" 
+msgstr "Cambiar Estado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Banner Name" 
+msgstr "Nombre Banner"
+
+msgid "product" 
+msgstr "producto"
+
+msgid "shop" 
+msgstr "tienda"
+
+msgid "Active" 
+msgstr "Activo"
+
+msgid "Inactive" 
+msgstr "Inactivo"
+
+msgid "Html Source:" 
+msgstr "Html Fuente:"
+
+msgid "findfriends" 
+msgstr "encontrar amigos"
+
+msgid "invitefriends" 
+msgstr "invitar a amigos"
+
+msgid "giftcard" 
+msgstr "tarjeta de regalo"
+
+msgid "Banner" 
+msgstr "Bandera"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Banner" 
+msgstr "Añadir Banner"
+
+msgid "Banner Place : Gift Card (Max-width:314px)" 
+msgstr "Banner Lugar: tarjeta de regalo (Max-width: 314px)"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Active" 
+msgstr "Activo"
+
+msgid "De-active" 
+msgstr "De-activo"
+
+msgid "Banner Place : Product page (Max-width:314px)" 
+msgstr "Banner Lugar: Página del producto (Max-width: 314px)"
+
+msgid "Banner Place : Shop / Recommendations (Width:960px;Height:200px)" 
+msgstr "Banner Lugar: Shop / Recomendaciones (Ancho: 960px Alto: 200px;)"
+
+msgid "Banner Place : Find Friends (Width:960px;Height:200px)" 
+msgstr "Banner Lugar: Encuentra Amigos (Ancho: 960px; Altura: 200 píxeles)"
+
+msgid "Banner Place : Invite Friends (Width:960px;Height:200px)" 
+msgstr "Banner Lugar: Invitar Amigos (Ancho: 960px; Altura: 200 píxeles)"
+
+msgid "-- Select Main Category --" 
+msgstr "- Seleccionar Categoría principal -"
+
+msgid "Category Name" 
+msgstr "nombre de la categoría"
+
+msgid "Submit" 
+msgstr "Enviar"
+
+msgid "Categories" 
+msgstr "categorías"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Category" 
+msgstr "añadir categoría"
+
+msgid "Note : if you select the main category, the below category will be treated as subcategory." 
+msgstr "Nota: si selecciona la categoría principal, la categoría a continuación será tratado como subcategoría."
+
+msgid "Add another Sub category" 
+msgstr "Añadir otra categoría Sub"
+
+msgid "Color Name" 
+msgstr "Nombre del color"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Colors" 
+msgstr "Colores"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Color" 
+msgstr "Añadir color"
+
+msgid "RGB Range" 
+msgstr "Rango RGB"
+
+msgid "Add Coupon" 
+msgstr "Añadir Cupón"
+
+msgid "Restrict to one time use for one user" 
+msgstr "Restringir a un uso del tiempo para un usuario"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Coupons" 
+msgstr "Cupones"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Coupon Code" 
+msgstr "Código promocional"
+
+msgid "Coupon Usage" 
+msgstr "el uso de cupones"
+
+msgid "Start date" 
+msgstr "Fecha de inicio"
+
+msgid "Expire date" 
+msgstr "Fecha de caducidad"
+
+msgid "Discount percentage(%):" 
+msgstr "Porcentaje de descuento (%):"
+
+msgid "Select Currency" 
+msgstr "Seleccione el tipo de moneda"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Rate (Equivalent)" 
+msgstr "Tasa (Equivalente)"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Currency" 
+msgstr "Añadir moneda"
+
+msgid "FAQ Question" 
+msgstr "Preguntas pregunta"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "FAQ" 
+msgstr "Preguntas más frecuentes"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add FAQ" 
+msgstr "Añadir FAQ"
+
+msgid "FAQ Answer" 
+msgstr "FAQ respuesta"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Languages" 
+msgstr "Manejo de Idiomas"
+
+msgid "Add Language" 
+msgstr "Agregar idioma"
+
+msgid "Country" 
+msgstr "País"
+
+msgid "Select a location..." 
+msgstr "Seleccione una ubicación ..."
+
+msgid "Language Code" 
+msgstr "Código de lenguaje"
+
+msgid "Language Name" 
+msgstr "Nombre del lenguaje"
+
+msgid "Select Currency" 
+msgstr "Seleccione el tipo de moneda"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add User" 
+msgstr "Agregar usuario"
+
+msgid "Name" 
+msgstr "Nombre"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "E-Mail" 
+msgstr "Correo electrónico"
+
+msgid "Password" 
+msgstr "Contraseña"
+
+msgid "Confirm Password" 
+msgstr "Confirmar contraseña"
+
+msgid "User Type" 
+msgstr "Tipo de usuario"
+
+msgid "Select User Type" 
+msgstr "Tipo de usuario"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Moderator" 
+msgstr "Moderador"
+
+msgid "Restriction" 
+msgstr "Restricción"
+
+msgid "Add Member" 
+msgstr "Añadir miembro"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Contacts" 
+msgstr "Añadir contactos"
+
+msgid "Select all emails" 
+msgstr "Seleccionar todos los mensajes de correo electrónico"
+
+msgid "Add" 
+msgstr "Añadir"
+
+msgid "Select a Email" 
+msgstr "Seleccionar un correo electrónico"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Prices" 
+msgstr "Precios"
+
+msgid "Add Price" 
+msgstr "Añadir Precio"
+
+msgid "Price Range From" 
+msgstr "Personalizar de"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Recipients" 
+msgstr "administrar los destinatarios"
+
+msgid "Add Recipient" 
+msgstr "Agregar destinatario"
+
+msgid "Recipient Name" 
+msgstr "Nombre del Recipiente"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Manage Landing Page" 
+msgstr "Manejo de la página de destino"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Slider" 
+msgstr "Añadir deslizante"
+
+msgid "Select Slider Image" 
+msgstr "Seleccione Image Slider"
+
+msgid "Custom Sliders Already Active" 
+msgstr "Sliders personalizada ya está activo"
+
+msgid "Slider Image" 
+msgstr "regulador de la imagen"
+
+msgid "Slider Link" 
+msgstr "deslizador de Enlace"
+
+msgid "No Sliders Found" 
+msgstr "No hay Sliders encontrados"
+
+msgid "Select slider effect" 
+msgstr "Selecciona el efecto deslizante"
+
+msgid "Contact Seller Subject" 
+msgstr "Asunto de contacto del vendedor"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Subject" 
+msgstr "Añadir tema"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Tax Rates" 
+msgstr "Las tasas de impuestos"
+
+msgid "Taxes" 
+msgstr "Impuestos"
+
+msgid "Add Tax" 
+msgstr "Añadir Tributaria"
+
+msgid "Country" 
+msgstr "País"
+
+msgid "Select a location..." 
+msgstr "Seleccione una ubicación ..."
+
+msgid "Tax Name:" 
+msgstr "Nombre de impuestos:"
+
+msgid "Percentage (%) :" 
+msgstr "Porcentaje (%) :"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Quantity only" 
+msgstr "Sólo Cantidad"
+
+msgid "available" 
+msgstr "disponible"
+
+msgid "Likes" 
+msgstr "Gustos"
+
+msgid "Sold By" 
+msgstr "Vendido por"
+
+msgid "Ratings" 
+msgstr "calificaciones"
+
+msgid "Description:" 
+msgstr "Descripción:"
+
+msgid "Admin Settings" 
+msgstr "Configuración del administrador"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Profile" 
+msgstr "Perfil"
+
+msgid "First Name" 
+msgstr "Nombre de pila"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Password" 
+msgstr "Contraseña"
+
+msgid "Products" 
+msgstr "productos"
+
+msgid "Manage Approved Items" 
+msgstr "Gestionar Elementos Aprobados"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Search by Date:" 
+msgstr "Búsqueda por fecha:"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Seller Email" 
+msgstr "vendedor de correo electrónico"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Quantity" 
+msgstr "Cantidad"
+
+msgid "Size Options" 
+msgstr "Opciones de tamaño"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Mark Featured" 
+msgstr "Marcos destacados"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Approved orders" 
+msgstr "pedidos aprobados"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Shipped Status" 
+msgstr "Estado enviado"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Delivered Date" 
+msgstr "Fecha de entrega"
+
+msgid "Paid Amount" 
+msgstr "Monto de pago"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "No Results Found" 
+msgstr "No se han encontrado resultados"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Manage Seller" 
+msgstr "Manejo del vendedor"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Approved Seller" 
+msgstr "aprobado vendedor"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Brand Name" 
+msgstr "Nombre de la marca"
+
+msgid "Payment Details" 
+msgstr "Detalles del pago"
+
+msgid "Bank Acc. No." 
+msgstr "Banco Acc. No."
+
+msgid "Phone No." 
+msgstr "Telefono no."
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Type" 
+msgstr "Tipo"
+
+msgid "Payment Gateway" 
+msgstr "pasarela de pago"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Braintree" 
+msgstr "Braintree"
+
+msgid "Braintree(Live)" 
+msgstr "Braintree (Live)"
+
+msgid "Sandbox(Test)" 
+msgstr "Zona de pruebas (Test)"
+
+msgid "Braintree Public Key" 
+msgstr "Braintree clave pública"
+
+msgid "Braintree Merchant Id" 
+msgstr "Braintree comerciante Id"
+
+msgid "Braintree Private Key" 
+msgstr "Braintree clave privada"
+
+msgid "Update" 
+msgstr "Actualizar"
+
+msgid "Disputes" 
+msgstr "disputas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Disputes" 
+msgstr "Manejo de Conflictos"
+
+msgid "Cancel Disputes" 
+msgstr "Cancelar Diferencias Relativas"
+
+msgid "Order ID" 
+msgstr "Solicitar ID"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Dispute Type" 
+msgstr "Tipo de controversias"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Current Status" 
+msgstr "Estado actual"
+
+msgid "Change Status" 
+msgstr "Cambiar Estado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Product" 
+msgstr "Producto"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Cancelled orders" 
+msgstr "Los pedidos cancelados"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Shipped Status" 
+msgstr "Estado enviado"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Delivered Date" 
+msgstr "Fecha de entrega"
+
+msgid "Paid Amount" 
+msgstr "Monto de pago"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "No Results Found" 
+msgstr "No se han encontrado resultados"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Paid" 
+msgstr "Pagado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Returned" 
+msgstr "devuelto"
+
+msgid "Claimed" 
+msgstr "reclamado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Claimed orders" 
+msgstr "órdenes reclamadas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Shipped Status" 
+msgstr "Estado enviado"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Delivered Date" 
+msgstr "Fecha de entrega"
+
+msgid "Paid Amount" 
+msgstr "Monto de pago"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Refund" 
+msgstr "Reembolso"
+
+msgid "Solve" 
+msgstr "Resolver"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "No Results Found" 
+msgstr "No se han encontrado resultados"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Paid" 
+msgstr "Pagado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Returned" 
+msgstr "devuelto"
+
+msgid "Claimed" 
+msgstr "reclamado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Disputes" 
+msgstr "disputas"
+
+msgid "Manage Disputes" 
+msgstr "Manejo de Conflictos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Closed Disputes" 
+msgstr "Las disputas cerradas"
+
+msgid "Order ID" 
+msgstr "Solicitar ID"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Dispute Type" 
+msgstr "Tipo de controversias"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Current Status" 
+msgstr "Estado actual"
+
+msgid "Change Status" 
+msgstr "Cambiar Estado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Product" 
+msgstr "Producto"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Commission" 
+msgstr "Comisión"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Commission" 
+msgstr "Añadir Comisión"
+
+msgid "Seller" 
+msgstr "Vendedor"
+
+msgid "Min Range in" 
+msgstr "Margen mínimo de"
+
+msgid "Max Range in" 
+msgstr "Alcance máximo en"
+
+msgid "Commission Amount in %" 
+msgstr "Monto Comisión en%"
+
+msgid "Commission Details" 
+msgstr "Detalles Comisión"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Contact Address" 
+msgstr "dirección de contacto"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Email Address" 
+msgstr "Dirección de correo electrónico"
+
+msgid "Mobile Number" 
+msgstr "Número de teléfono móvil"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Manage Seller Chat" 
+msgstr "Manejo de vendedor de Chat"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Message Lists" 
+msgstr "Listas de avisos"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Chats" 
+msgstr "chats"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Users List" 
+msgstr "Lista de usuarios"
+
+msgid "Contact Seller Subjects" 
+msgstr "Los sujetos de contacto del vendedor"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Subject" 
+msgstr "Añadir tema"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Subject" 
+msgstr "Tema"
+
+msgid "Actions" 
+msgstr "Comportamiento"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Copyright Policy" 
+msgstr "política de derechos de autor"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Coupon Logs" 
+msgstr "Registros de cupones"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Coupons" 
+msgstr "Cupones"
+
+msgid "Coupon Logs" 
+msgstr "Registros de cupones"
+
+msgid "S.No" 
+msgstr "S.No"
+
+msgid "Coupon Code" 
+msgstr "Código promocional"
+
+msgid "Username" 
+msgstr "Nombre de usuario"
+
+msgid "Order Id" 
+msgstr "Solicitar ID"
+
+msgid "Order Status" 
+msgstr "Estado del pedido"
+
+msgid "Date" 
+msgstr "Fecha"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Category" 
+msgstr "Categoría"
+
+msgid "Submit" 
+msgstr "Enviar"
+
+msgid "Delivered orders" 
+msgstr "pedidos entregados"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Delivered Date" 
+msgstr "Fecha de entrega"
+
+msgid "Total" 
+msgstr "Total"
+
+msgid "Discount" 
+msgstr "Descuento"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "Except Commission" 
+msgstr "excepto Comisión"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Payment" 
+msgstr "Pago"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Confirm" 
+msgstr "Confirmar"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Approve" 
+msgstr "Aprobar"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Paid" 
+msgstr "Pagado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Returned" 
+msgstr "devuelto"
+
+msgid "Claimed" 
+msgstr "reclamado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Dispute Problem List" 
+msgstr "Disputar lista de problemas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Problem List" 
+msgstr "Lista problema"
+
+msgid "Add Problem Question" 
+msgstr "Añadir Problema Pregunta"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Documentation" 
+msgstr "Documentación"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Categories" 
+msgstr "categorías"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Categories" 
+msgstr "categorías"
+
+msgid "Edit Category" 
+msgstr "Editar categoría"
+
+msgid "Main Category" 
+msgstr "categoria principal"
+
+msgid "Sub Category" 
+msgstr "Sub Categoría"
+
+msgid "Add Sub of Sub category" 
+msgstr "Sumar Sub de categoría Sub"
+
+msgid "Add another Sub category" 
+msgstr "Añadir otra categoría Sub"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Colors" 
+msgstr "Colores"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Edit Color" 
+msgstr "Editar color"
+
+msgid "Add Color" 
+msgstr "Añadir color"
+
+msgid "Color Name:" 
+msgstr "Nombre de color:"
+
+msgid "RGB Range" 
+msgstr "Rango RGB"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Commission" 
+msgstr "Comisión"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Commission" 
+msgstr "Añadir Comisión"
+
+msgid "Edit Commission" 
+msgstr "Editar Comisión"
+
+msgid "Apply To" 
+msgstr "Aplicar para"
+
+msgid "Seller" 
+msgstr "Vendedor"
+
+msgid "Commission Type" 
+msgstr "Tipo Comisión"
+
+msgid "Min Range in" 
+msgstr "Margen mínimo de"
+
+msgid "Max Range in" 
+msgstr "Alcance máximo en"
+
+msgid "Commission Amount in %" 
+msgstr "Monto Comisión en%"
+
+msgid "Commission Details" 
+msgstr "Detalles Comisión"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Coupons" 
+msgstr "Cupones"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Coupons" 
+msgstr "Cupones"
+
+msgid "Edit Coupon" 
+msgstr "Editar Cupón"
+
+msgid "Coupon Code" 
+msgstr "Código promocional"
+
+msgid "Coupon Usage" 
+msgstr "el uso de cupones"
+
+msgid "Start date" 
+msgstr "Fecha de inicio"
+
+msgid "Expire date" 
+msgstr "Fecha de caducidad"
+
+msgid "Discount percentage(%):" 
+msgstr "Porcentaje de descuento (%):"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Manage Currency" 
+msgstr "Manejo de divisas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Edit Currency" 
+msgstr "Cambiar la moneda"
+
+msgid "Rate" 
+msgstr "Tarifa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "FAQ" 
+msgstr "Preguntas más frecuentes"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Edit FAQ" 
+msgstr "Editar FAQ"
+
+msgid "Add FAQ" 
+msgstr "Añadir FAQ"
+
+msgid "FAQ Question" 
+msgstr "Preguntas pregunta"
+
+msgid "FAQ Answer" 
+msgstr "FAQ respuesta"
+
+msgid "Edit Item" 
+msgstr "Editar elemento"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Upload Photos" 
+msgstr "Subir fotos"
+
+msgid "Item Title" 
+msgstr "Título del artículo"
+
+msgid "Item Description" 
+msgstr "Descripción del Artículo"
+
+msgid "Type (optional)" 
+msgstr "Tipo (opcional)"
+
+msgid "Category" 
+msgstr "Categoría"
+
+msgid "What is it?" 
+msgstr "¿Qué es?"
+
+msgid "Select a Category" 
+msgstr "Seleccione una categoría"
+
+msgid "What type? (optional)" 
+msgstr "¿Que tipo? (Opcional)"
+
+msgid "Video Url" 
+msgstr "URL del vídeo"
+
+msgid "SKU (Stock Keeping Unit)" 
+msgstr "SKU (Stock Mantener Unidad)"
+
+msgid "Item Color" 
+msgstr "artículo color"
+
+msgid "Auto Detection" 
+msgstr "Detección automática"
+
+msgid "Choose ManuallyShipping" 
+msgstr "Elija ManuallyShipping"
+
+msgid "Select Color" 
+msgstr "Seleccionar el color"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Quantity" 
+msgstr "Cantidad"
+
+msgid "Yes" 
+msgstr "Sí"
+
+msgid "No" 
+msgstr "No"
+
+msgid "Product sizes" 
+msgstr "tamaños de productos"
+
+msgid "Property:" 
+msgstr "Propiedad:"
+
+msgid "Units:" 
+msgstr "Unidades:"
+
+msgid "Price:" 
+msgstr "Precio:"
+
+msgid "Add" 
+msgstr "Añadir"
+
+msgid "Gender" 
+msgstr "Género"
+
+msgid "Which gender the item for ?" 
+msgstr "Que el género del artículo para?"
+
+msgid "Relationship" 
+msgstr "Relación"
+
+msgid "To whom is it for?" 
+msgstr "A quién va dirigido?"
+
+msgid "choose multiple by pressing ctrl" 
+msgstr "elegir múltiples pulsando Ctrl"
+
+msgid "Shipping" 
+msgstr "Envío"
+
+msgid "Processing time" 
+msgstr "Tiempo de procesamiento"
+
+msgid "Ready to ship in..." 
+msgstr "Listo para envio en ..."
+
+msgid "1 business day" 
+msgstr "1 día laboral"
+
+msgid "1-2 business days" 
+msgstr "1-2 días laborales"
+
+msgid "1-3 business days" 
+msgstr "1-3 días laborales"
+
+msgid "3-5 business days" 
+msgstr "3-5 días laborales"
+
+msgid "1-2 weeks" 
+msgstr "1-2 semanas"
+
+msgid "2-3 weeks" 
+msgstr "2-3 semanas"
+
+msgid "3-4 weeks" 
+msgstr "3-4 semanas"
+
+msgid "4-6 weeks" 
+msgstr "4-6 semanas"
+
+msgid "6-8 weeks" 
+msgstr "6-8 semanas"
+
+msgid "From..." 
+msgstr "De..."
+
+msgid "To..." 
+msgstr "A..."
+
+msgid "business days" 
+msgstr "días hábiles"
+
+msgid "weeks" 
+msgstr "semanas"
+
+msgid "Ships from" 
+msgstr "Los barcos de"
+
+msgid "Select a location..." 
+msgstr "Seleccione una ubicación ..."
+
+msgid "Ships to" 
+msgstr "Realiza envíos a"
+
+msgid "Remove" 
+msgstr "retirar"
+
+msgid "Cost" 
+msgstr "Costo"
+
+msgid "Everywhere else" 
+msgstr "En todos lados"
+
+msgid "Prices" 
+msgstr "Precios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Edit Price" 
+msgstr "Editar Precio"
+
+msgid "Price Range From" 
+msgstr "Personalizar de"
+
+msgid "Price Range To" 
+msgstr "Rango de precios Para"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Recipients" 
+msgstr "administrar los destinatarios"
+
+msgid "Edit Recipient" 
+msgstr "Editar destinatario"
+
+msgid "Add Recipient" 
+msgstr "Agregar destinatario"
+
+msgid "Recipient Name" 
+msgstr "Nombre del Recipiente"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Nonapproved Seller" 
+msgstr "El vendedor no homologados"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Edit Seller" 
+msgstr "Editar vendedor"
+
+msgid "Merchant Name" 
+msgstr "Nombre del comerciante"
+
+msgid "Brand" 
+msgstr "Marca"
+
+msgid "Braintree Id" 
+msgstr "Id Braintree"
+
+msgid "Phone Number" 
+msgstr "Número de teléfono"
+
+msgid "Office Address" 
+msgstr "Dirección de la oficina"
+
+msgid "Latitude" 
+msgstr "Latitud"
+
+msgid "Longitude" 
+msgstr "Longitud"
+
+msgid "Submit" 
+msgstr "Enviar"
+
+msgid "Manage Landing Page" 
+msgstr "Manejo de la página de destino"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Select Slider Image" 
+msgstr "Seleccione Image Slider"
+
+msgid "Edit Slider" 
+msgstr "Editar deslizante"
+
+msgid "Select slider effect" 
+msgstr "Selecciona el efecto deslizante"
+
+msgid "Custom Sliders Already Active" 
+msgstr "Sliders personalizada ya está activo"
+
+msgid "Slider Image" 
+msgstr "regulador de la imagen"
+
+msgid "Slider Link" 
+msgstr "deslizador de Enlace"
+
+msgid "No Sliders Found" 
+msgstr "No hay Sliders encontrados"
+
+msgid "Taxes" 
+msgstr "Impuestos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Tax Rates" 
+msgstr "Las tasas de impuestos"
+
+msgid "Edit Tax" 
+msgstr "Editar impuestos"
+
+msgid "Country" 
+msgstr "País"
+
+msgid "Select a location..." 
+msgstr "Seleccione una ubicación ..."
+
+msgid "Tax Name:" 
+msgstr "Nombre de impuestos:"
+
+msgid "Percentage (%) :" 
+msgstr "Porcentaje (%) :"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Users" 
+msgstr "usuarios"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Name" 
+msgstr "Nombre"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "E-Mail" 
+msgstr "Correo electrónico"
+
+msgid "Password" 
+msgstr "Contraseña"
+
+msgid "User Type" 
+msgstr "Tipo de usuario"
+
+msgid "Moderator" 
+msgstr "Moderador"
+
+msgid "Restriction" 
+msgstr "Restricción"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Page Not Found !" 
+msgstr "Página no encontrada !"
+
+msgid "YOU SEEM TO BE TRYING TO FIND HIS WAY HOME" 
+msgstr "Usted parece estar tratando de encontrar su CAMINO A CASA"
+
+msgid "Back to home" 
+msgstr "De vuelta a casa"
+
+msgid "FAQ" 
+msgstr "Preguntas más frecuentes"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Contacts List" 
+msgstr "Lista de contactos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Newsletter" 
+msgstr "Hoja informativa"
+
+msgid "Get Contacts List" 
+msgstr "Obtener la lista de contactos"
+
+msgid "Contacts List" 
+msgstr "Lista de contactos"
+
+msgid "Choose an option" 
+msgstr "Escoge una opción"
+
+msgid "Contact Group List" 
+msgstr "Lista de contactos de Grupo"
+
+msgid "Get Contacts" 
+msgstr "Obtener Contactos"
+
+msgid "Add New Contacts" 
+msgstr "Añadir nuevos contactos"
+
+msgid "Gift Cards" 
+msgstr "Tarjetas de regalo"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Gift Card" 
+msgstr "Tarjeta de regalo"
+
+msgid "Title" 
+msgstr "Título"
+
+msgid "Description" 
+msgstr "Descripción"
+
+msgid "Image" 
+msgstr "Imagen"
+
+msgid "Amounts" 
+msgstr "cantidades"
+
+msgid "Example : 10,20,30" 
+msgstr "Ejemplo: 10,20,30"
+
+msgid "Submit" 
+msgstr "Enviar"
+
+msgid "Gift Card Logs" 
+msgstr "Tarjeta de regalo de Registros"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Gift Cards" 
+msgstr "Tarjetas de regalo"
+
+msgid "S.No" 
+msgstr "S.No"
+
+msgid "Receiver name" 
+msgstr "Nombre del destinatario"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Sender name" 
+msgstr "Nombre del remitente"
+
+msgid "Amount" 
+msgstr "Cantidad"
+
+msgid "Date" 
+msgstr "Fecha"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Quantity only" 
+msgstr "Sólo Cantidad"
+
+msgid "available" 
+msgstr "disponible"
+
+msgid "Recipient" 
+msgstr "Recipiente"
+
+msgid "Contributions" 
+msgstr "Aportes"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Total contributors" 
+msgstr "Total de contribuyentes"
+
+msgid "Pending:" 
+msgstr "Pendiente:"
+
+msgid "This group gift must receive all contributions by" 
+msgstr "Este regalo del grupo debe recibir todas las contribuciones de"
+
+msgid "Contribute" 
+msgstr "Contribuir"
+
+msgid "Unsuccessful gift will be refunded" 
+msgstr "regalo sin éxito será devuelto"
+
+msgid "people" 
+msgstr "gente"
+
+msgid "Description:" 
+msgstr "Descripción:"
+
+msgid "Creator" 
+msgstr "Creador"
+
+msgid "Google Analytics" 
+msgstr "Google analitico"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Yes" 
+msgstr "Sí"
+
+msgid "No" 
+msgstr "No"
+
+msgid "Active" 
+msgstr "Activo"
+
+msgid "Update" 
+msgstr "Actualizar"
+
+msgid "Group Gifts" 
+msgstr "regalos de grupo"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Group Gifts" 
+msgstr "Manejo de regalos Grupo"
+
+msgid "Name" 
+msgstr "Nombre"
+
+msgid "Contribution" 
+msgstr "Contribución"
+
+msgid "Start date" 
+msgstr "Fecha de inicio"
+
+msgid "End date" 
+msgstr "Fecha final"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Completed" 
+msgstr "Terminado"
+
+msgid "Expired" 
+msgstr "Muerto"
+
+msgid "Active" 
+msgstr "Activo"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Disputes" 
+msgstr "disputas"
+
+msgid "Manage Disputes" 
+msgstr "Manejo de Conflictos"
+
+msgid "Inactive Disputes" 
+msgstr "Las disputas inactivos"
+
+msgid "Order ID" 
+msgstr "Solicitar ID"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Dispute Type" 
+msgstr "Tipo de controversias"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Current Status" 
+msgstr "Estado actual"
+
+msgid "Change Status" 
+msgstr "Cambiar Estado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Product" 
+msgstr "Producto"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Users" 
+msgstr "usuarios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Inactive Users" 
+msgstr "Los usuarios inactivos"
+
+msgid "Delete All" 
+msgstr "Eliminar todos"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Select Users to delete" 
+msgstr "Seleccione los usuarios que eliminen"
+
+msgid "Invoices" 
+msgstr "Facturas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order Id" 
+msgstr "Solicitar ID"
+
+msgid "Invoice No" 
+msgstr "Factura no"
+
+msgid "Invoice Date" 
+msgstr "Fecha de la factura"
+
+msgid "Invoice status" 
+msgstr "estado de la factura"
+
+msgid "Payment Method" 
+msgstr "Método de pago"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "No taxes found" 
+msgstr "No se encontraron impuestos"
+
+msgid "Previous" 
+msgstr "Anterior"
+
+msgid "Next" 
+msgstr "Siguiente"
+
+msgid "Order Id" 
+msgstr "Solicitar ID"
+
+msgid "Invoice No" 
+msgstr "Factura no"
+
+msgid "Invoice Date" 
+msgstr "Fecha de la factura"
+
+msgid "Invoice status" 
+msgstr "estado de la factura"
+
+msgid "Payment Method" 
+msgstr "Método de pago"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No taxes found" 
+msgstr "No se encontraron impuestos"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Payment Method" 
+msgstr "Método de pago"
+
+msgid "Payment Status" 
+msgstr "Estado de pago"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Sellnu product id" 
+msgstr "Sellnu Identificación del producto"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Item Total" 
+msgstr "Total"
+
+msgid "Shipping Fee" 
+msgstr "Gastos de envío"
+
+msgid "Tax" 
+msgstr "Impuesto"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "Gift Card Used" 
+msgstr "Tarjeta de regalo que se usan"
+
+msgid "Manage Seller Chat" 
+msgstr "Manejo de vendedor de Chat"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Contacted Sellers" 
+msgstr "Sellers contactadas"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Subject" 
+msgstr "Tema"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "User" 
+msgstr "Usuario"
+
+msgid "Manage Seller Chat" 
+msgstr "Manejo de vendedor de Chat"
+
+msgid "Item Conversation Users" 
+msgstr "Los usuarios de conversación de artículos"
+
+msgid "User Conversation" 
+msgstr "Conversación usuario"
+
+msgid "Delete Conversations" 
+msgstr "eliminar conversaciones"
+
+msgid "Manage Landing Page" 
+msgstr "Manejo de la página de destino"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Recently Added" 
+msgstr "Recientemente añadido"
+
+msgid "Most Popular" 
+msgstr "Más popular"
+
+msgid "Most Commented" 
+msgstr "Más comentado"
+
+msgid "Top Stores" 
+msgstr "Top Tiendas"
+
+msgid "Featured Items" 
+msgstr "Elementos destacados"
+
+msgid "Slider Height" 
+msgstr "deslizador Altura"
+
+msgid "Slider Background Color" 
+msgstr "Deslizador de color de fondo"
+
+msgid "Slider Image" 
+msgstr "regulador de la imagen"
+
+msgid "Slider Link" 
+msgstr "deslizador de Enlace"
+
+msgid "Actions" 
+msgstr "Comportamiento"
+
+msgid "No Sliders Found" 
+msgstr "No hay Sliders encontrados"
+
+msgid "Add Slider" 
+msgstr "Añadir deslizante"
+
+msgid "Choose Widgets (Drag and Drop)" 
+msgstr "Elegir controles (arrastrar y soltar)"
+
+msgid "Available Widgets" 
+msgstr "disponible Reproductores"
+
+msgid "Selected Widgets" 
+msgstr "Reproductores seleccionados"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Username" 
+msgstr "Nombre de usuario"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "No Contacts Found" 
+msgstr "No hay contactos encontrados"
+
+msgid "Log In" 
+msgstr "Iniciar sesión"
+
+msgid "Email Management" 
+msgstr "Gestión de correo electrónico"
+
+msgid "E-mail(Used for notifications on sale, disputes and comments on items)" 
+msgstr "E-mail (Se utiliza para las notificaciones a la venta, disputas y comentarios sobre los temas)"
+
+msgid "Support e-mail(Text from contact us page will be sent to this mail id)" 
+msgstr "correo electrónico de soporte (Texto de la página de contacto será enviado a este id de correo)"
+
+msgid "Site no-reply name for e-mail" 
+msgstr "Nombre del sitio no-respuesta para el correo electrónico"
+
+msgid "Site no-reply e-mail" 
+msgstr "Sitio no-respuesta de correo electrónico"
+
+msgid "Site no-reply e-mail password" 
+msgstr "Sitio contraseña no-respuesta de correo electrónico"
+
+msgid "Gmail SMTP Gateway" 
+msgstr "Gmail puerta de enlace SMTP"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Gmail SMTP Port Number" 
+msgstr "Gmail Número de puerto SMTP"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Manage Colors" 
+msgstr "Manejo de Colores"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Color Name" 
+msgstr "Nombre del color"
+
+msgid "RGB" 
+msgstr "RGB"
+
+msgid "Date" 
+msgstr "Fecha"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Add Color" 
+msgstr "Añadir color"
+
+msgid "Coupons" 
+msgstr "Cupones"
+
+msgid "Add Coupon" 
+msgstr "Añadir Cupón"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "S.No" 
+msgstr "S.No"
+
+msgid "Coupon Code" 
+msgstr "Código promocional"
+
+msgid "Total Coupon" 
+msgstr "Cupón total"
+
+msgid "Remaining" 
+msgstr "Restante"
+
+msgid "Amount" 
+msgstr "Cantidad"
+
+msgid "Start Date" 
+msgstr "Fecha de inicio"
+
+msgid "Expire Date" 
+msgstr "Fecha de caducidad"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Manage Currency" 
+msgstr "Manejo de divisas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Default Currency" 
+msgstr "Añadir Moneda predeterminada"
+
+msgid "Add Currency" 
+msgstr "Añadir moneda"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Currency Code" 
+msgstr "Código de moneda"
+
+msgid "Currency Name" 
+msgstr "Nombre moneda"
+
+msgid "Currency Symbol" 
+msgstr "Símbolo de moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Rate (Equivalent )" 
+msgstr "Tasa (Equivalente)"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "FAQ" 
+msgstr "Preguntas más frecuentes"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Question" 
+msgstr "Pregunta"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Add FAQ" 
+msgstr "Añadir FAQ"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Languages" 
+msgstr "idiomas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Country Name" 
+msgstr "Nombre del país"
+
+msgid "Currency Code" 
+msgstr "Código de moneda"
+
+msgid "Language Code" 
+msgstr "Código de lenguaje"
+
+msgid "Language Name" 
+msgstr "Nombre del lenguaje"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Add Language" 
+msgstr "Agregar idioma"
+
+msgid "Moderators" 
+msgstr "moderadores"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Approved Moderators" 
+msgstr "Moderadores aprobados"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Search results for :" 
+msgstr "Buscar resultados para :"
+
+msgid "ID" 
+msgstr "CARNÉ DE IDENTIDAD"
+
+msgid "Moderator Name" 
+msgstr "moderador Nombre"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Add Moderator" 
+msgstr "Añadir Moderador"
+
+msgid "Manage Modules" 
+msgstr "administrar módulos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Display Banner" 
+msgstr "Inserción de banner"
+
+msgid "Yes" 
+msgstr "Sí"
+
+msgid "No" 
+msgstr "No"
+
+msgid "Site Maintenance Mode" 
+msgstr "Modo de mantenimiento del sitio"
+
+msgid "Text to be displayed when site is under maintenance" 
+msgstr "Texto que se mostrará cuando el sitio se encuentra en mantenimiento"
+
+msgid "Update" 
+msgstr "Actualizar"
+
+msgid "Manage Newsletter" 
+msgstr "Manejo Boletín"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Newsletter" 
+msgstr "Hoja informativa"
+
+msgid "Send" 
+msgstr "Enviar"
+
+msgid "Manage Prices" 
+msgstr "Manejo de precios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "S.No." 
+msgstr "S.No."
+
+msgid "Price Range" 
+msgstr "Rango de precios"
+
+msgid "Date" 
+msgstr "Fecha"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No records found" 
+msgstr "No se encontrarón archivos"
+
+msgid "Add Price" 
+msgstr "Añadir Precio"
+
+msgid "Dispute Problem List" 
+msgstr "Disputar lista de problemas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Problem List" 
+msgstr "Lista problema"
+
+msgid "Manage Problem" 
+msgstr "Manejo de Problema"
+
+msgid "Add Problem Definition" 
+msgstr "Añadir Definición del problema"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Edit/Delete" 
+msgstr "Editar Borrar"
+
+msgid "Manage Recipients" 
+msgstr "administrar los destinatarios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Name" 
+msgstr "Nombre"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Add Recipient" 
+msgstr "Agregar destinatario"
+
+msgid "Users" 
+msgstr "usuarios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Approved Users" 
+msgstr "Los usuarios aprobados"
+
+msgid "ID" 
+msgstr "CARNÉ DE IDENTIDAD"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No records found" 
+msgstr "No se encontrarón archivos"
+
+msgid "Add User" 
+msgstr "Agregar usuario"
+
+msgid "Media Management" 
+msgstr "Administración de medios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Media URL" 
+msgstr "URL medios"
+
+msgid "Note:" 
+msgstr "Nota:"
+
+msgid "Instead of giving a Url like this" 
+msgstr "En lugar de dar una URL como esta"
+
+msgid "(http://dev.example.com/default/)" 
+msgstr "(Http://dev.example.com/default/)"
+
+msgid "Give it as" 
+msgstr "Darlo como"
+
+msgid "(http://example.com/dev/default/)" 
+msgstr "(Http://example.com/dev/default/)"
+
+msgid "Media server Host Name" 
+msgstr "Medios de host del servidor de nombres"
+
+msgid "Media server ftp Username" 
+msgstr "Los medios de comunicación del servidor FTP nombre de usuario"
+
+msgid "Submit" 
+msgstr "Enviar"
+
+msgid "Mobile Apps Settings" 
+msgstr "Configuración de las aplicaciones móviles"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Default Language" 
+msgstr "Idioma predeterminado"
+
+msgid "Select Language" 
+msgstr "Seleccione el idioma"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Neworders" 
+msgstr "Nuevos pedidos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order Id" 
+msgstr "Solicitar ID"
+
+msgid "Merchant Name" 
+msgstr "Nombre del comerciante"
+
+msgid "Order Status" 
+msgstr "Estado del pedido"
+
+msgid "Ordr Date" 
+msgstr "Fecha ordr"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Amount" 
+msgstr "Cantidad"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "No taxes found" 
+msgstr "No se encontraron impuestos"
+
+msgid "Send Newsletter" 
+msgstr "Enviar mensaje informativo"
+
+msgid "Newsletter" 
+msgstr "Hoja informativa"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Choose an option" 
+msgstr "Escoge una opción"
+
+msgid "Send" 
+msgstr "Enviar"
+
+msgid "Products" 
+msgstr "productos"
+
+msgid "Manage Nonapproved Items" 
+msgstr "Los productos no aprobados gestionar"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Search by Date:" 
+msgstr "Búsqueda por fecha:"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Reset" 
+msgstr "Reiniciar"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Seller Email" 
+msgstr "vendedor de correo electrónico"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Quantity" 
+msgstr "Cantidad"
+
+msgid "Size Options" 
+msgstr "Opciones de tamaño"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Moderators" 
+msgstr "moderadores"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Non Approved Moderators" 
+msgstr "Los moderadores no aprobados"
+
+msgid "ID" 
+msgstr "CARNÉ DE IDENTIDAD"
+
+msgid "Moderator Name" 
+msgstr "moderador Nombre"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Add Moderator" 
+msgstr "Añadir Moderador"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Seller" 
+msgstr "Manejo del vendedor"
+
+msgid "Nonapproved Seller" 
+msgstr "El vendedor no homologados"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Brand Name" 
+msgstr "Nombre de la marca"
+
+msgid "Payment Details" 
+msgstr "Detalles del pago"
+
+msgid "Phone No." 
+msgstr "Telefono no."
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Users" 
+msgstr "usuarios"
+
+msgid "Non Approved Users" 
+msgstr "Los no usuarios autorizados"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No results found" 
+msgstr "No se han encontrado resultados"
+
+msgid "Add User" 
+msgstr "Agregar usuario"
+
+msgid "Payment Gateway" 
+msgstr "pasarela de pago"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "PayPal" 
+msgstr "PayPal"
+
+msgid "Paypal Payment Mode" 
+msgstr "Modo de pago PayPal"
+
+msgid "Paypal Normal" 
+msgstr "paypal normal"
+
+msgid "Type" 
+msgstr "Tipo"
+
+msgid "Paypal(Live)" 
+msgstr "Paypal (Live)"
+
+msgid "Sandbox(Test)" 
+msgstr "Zona de pruebas (Test)"
+
+msgid "Paypal Email Id" 
+msgstr "Paypal correo electrónico de identificación"
+
+msgid "Update" 
+msgstr "Actualizar"
+
+msgid "Press" 
+msgstr "prensa"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Profile and Account" 
+msgstr "Perfil y Cuenta"
+
+msgid "Pricing" 
+msgstr "la fijación de precios"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Privacy Policy" 
+msgstr "Política de privacidad"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Disputes" 
+msgstr "disputas"
+
+msgid "Manage Disputes" 
+msgstr "Manejo de Conflictos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Processing Disputes" 
+msgstr "Las disputas de procesamiento"
+
+msgid "Order ID" 
+msgstr "Solicitar ID"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Dispute Type" 
+msgstr "Tipo de controversias"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Current Status" 
+msgstr "Estado actual"
+
+msgid "Change Status" 
+msgstr "Cambiar Estado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Product" 
+msgstr "Producto"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Refunded orders" 
+msgstr "Devuelto órdenes"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Paid Amount" 
+msgstr "Monto de pago"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "No Results Found" 
+msgstr "No se han encontrado resultados"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Paid" 
+msgstr "Pagado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Returned" 
+msgstr "devuelto"
+
+msgid "Claimed" 
+msgstr "reclamado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Products" 
+msgstr "productos"
+
+msgid "Manage Report Items" 
+msgstr "Manejo de elementos de informe"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Search by Date:" 
+msgstr "Búsqueda por fecha:"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Report Count" 
+msgstr "reporte de Cuenta"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Draft" 
+msgstr "Borrador"
+
+msgid "Ignore" 
+msgstr "Ignorar"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Disputes" 
+msgstr "disputas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Disputes" 
+msgstr "Manejo de Conflictos"
+
+msgid "Resolved Disputes" 
+msgstr "Las disputas resueltas"
+
+msgid "Order ID" 
+msgstr "Solicitar ID"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "Seller Name" 
+msgstr "Nombre del vendedor"
+
+msgid "Dispute Type" 
+msgstr "Tipo de controversias"
+
+msgid "Problem" 
+msgstr "Problema"
+
+msgid "Current Status" 
+msgstr "Estado actual"
+
+msgid "Change Status" 
+msgstr "Cambiar Estado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "Product" 
+msgstr "Producto"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Returned orders" 
+msgstr "pedidos devueltos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Shipped Status" 
+msgstr "Estado enviado"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Paid Amount" 
+msgstr "Monto de pago"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Refund" 
+msgstr "Reembolso"
+
+msgid "NA" 
+msgstr "N / A"
+
+msgid "No Results Found" 
+msgstr "No se han encontrado resultados"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Paid" 
+msgstr "Pagado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Returned" 
+msgstr "devuelto"
+
+msgid "Claimed" 
+msgstr "reclamado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Item description" 
+msgstr "Descripción del Artículo"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Item url" 
+msgstr "url artículo"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Search results for :" 
+msgstr "Buscar resultados para :"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "City" 
+msgstr "Ciudad"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Select Users to delete" 
+msgstr "Seleccione los usuarios que eliminen"
+
+msgid "Previous" 
+msgstr "Anterior"
+
+msgid "Next" 
+msgstr "Siguiente"
+
+msgid "Search results for :" 
+msgstr "Buscar resultados para :"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "City" 
+msgstr "Ciudad"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Prev" 
+msgstr "Anterior"
+
+msgid "Next" 
+msgstr "Siguiente"
+
+msgid "Search results for :" 
+msgstr "Buscar resultados para :"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "City" 
+msgstr "Ciudad"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Prev" 
+msgstr "Anterior"
+
+msgid "Next" 
+msgstr "Siguiente"
+
+msgid "Search results for :" 
+msgstr "Buscar resultados para :"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "City" 
+msgstr "Ciudad"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Prev" 
+msgstr "Anterior"
+
+msgid "Next" 
+msgstr "Siguiente"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Item description" 
+msgstr "Descripción del Artículo"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Item url" 
+msgstr "url artículo"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Draft" 
+msgstr "Borrador"
+
+msgid "Ignore" 
+msgstr "Ignorar"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Search results for :" 
+msgstr "Buscar resultados para :"
+
+msgid "User Name" 
+msgstr "Nombre de usuario"
+
+msgid "City" 
+msgstr "Ciudad"
+
+msgid "Email" 
+msgstr "Email"
+
+msgid "Registered On" 
+msgstr "registrado el"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Prev" 
+msgstr "Anterior"
+
+msgid "Next" 
+msgstr "Siguiente"
+
+msgid "Products" 
+msgstr "productos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Manage Shared Items" 
+msgstr "Manejo de elementos compartidos"
+
+msgid "Search by Date:" 
+msgstr "Búsqueda por fecha:"
+
+msgid "Search" 
+msgstr "Buscar"
+
+msgid "Start Date" 
+msgstr "Fecha de inicio"
+
+msgid "End Date" 
+msgstr "Fecha final"
+
+msgid "Delete Selected" 
+msgstr "Eliminar seleccionado"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Item description" 
+msgstr "Descripción del Artículo"
+
+msgid "Recipient" 
+msgstr "Recipiente"
+
+msgid "Occasion" 
+msgstr "Ocasión"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Quantity" 
+msgstr "Cantidad"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Item url" 
+msgstr "url artículo"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Shipped orders" 
+msgstr "las órdenes enviadas"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Order no." 
+msgstr "N º de pedido."
+
+msgid "Merchant name" 
+msgstr "Nombre del comerciante"
+
+msgid "Shipped Status" 
+msgstr "Estado enviado"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Delivered Date" 
+msgstr "Fecha de entrega"
+
+msgid "Paid Amount" 
+msgstr "Monto de pago"
+
+msgid "Currency" 
+msgstr "Moneda"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "View" 
+msgstr "Ver"
+
+msgid "No Results Found" 
+msgstr "No se han encontrado resultados"
+
+msgid "Back" 
+msgstr "Espalda"
+
+msgid "Start date:" 
+msgstr "Fecha de inicio:"
+
+msgid "End date:" 
+msgstr "Fecha final:"
+
+msgid "Paid" 
+msgstr "Pagado"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Shipped" 
+msgstr "Enviado"
+
+msgid "Returned" 
+msgstr "devuelto"
+
+msgid "Claimed" 
+msgstr "reclamado"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Export" 
+msgstr "Exportar"
+
+msgid "Site Management" 
+msgstr "Manejo de sitio"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Site Name" 
+msgstr "Nombre del sitio"
+
+msgid "Site Title" 
+msgstr "Título del sitio"
+
+msgid "Html Meta Keyword" 
+msgstr "Html meta de palabras clave"
+
+msgid "Html Meta Description" 
+msgstr "Html Descripción Meta"
+
+msgid "Profile Image Style" 
+msgstr "Perfil Imagen Estilo"
+
+msgid "Affiliate System" 
+msgstr "Sistema de afiliados"
+
+msgid "Square" 
+msgstr "Cuadrado"
+
+msgid "Round" 
+msgstr "Redondo"
+
+msgid "enable" 
+msgstr "habilitar"
+
+msgid "disable" 
+msgstr "inhabilitar"
+
+msgid "Welcome Email" 
+msgstr "correo electrónico de bienvenida"
+
+msgid "Yes" 
+msgstr "Sí"
+
+msgid "No" 
+msgstr "No"
+
+msgid "Signup Active" 
+msgstr "Registrate activo"
+
+msgid "Cash On Delivery" 
+msgstr "Pago contra entrega"
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Like Button logo" 
+msgstr "Al igual que el logotipo del botón"
+
+msgid "Site Logo" 
+msgstr "Logo del sitio"
+
+msgid "Site Logo Icon" 
+msgstr "Sitio del icono del logotipo"
+
+msgid "Favicon" 
+msgstr "favicon"
+
+msgid "Default User Profile Image" 
+msgstr "Imagen perfil de usuario predeterminado"
+
+msgid "Like button letters(Example Like it)" 
+msgstr "Al igual que las letras del botón (Ejemplo gusta)"
+
+msgid "Liked button letters(Example Liked)" 
+msgstr "letras de botón gustó (Ejemplo gustó)"
+
+msgid "UnLike button letters(Example Unlike)" 
+msgstr "A diferencia de las cartas de botón (Ejemplo A diferencia)"
+
+msgid "Landing Page Video url" 
+msgstr "URL de página de vídeo"
+
+msgid "User Credit Amount" 
+msgstr "Monto de crédito del usuario"
+
+msgid "Number of days to update (user could not change the order status to received)" 
+msgstr "Número de días para actualizar (usuario no puede cambiar el estado a fin de recibido)"
+
+msgid "If no commission enabled default commission percentage on User Credit Amount (%)" 
+msgstr "Si no permitido comisión de porcentaje de comisión por omisión en la cantidad del crédito del usuario (%)"
+
+msgid "Default Shipping Country" 
+msgstr "Envío por defecto País"
+
+msgid "Gender" 
+msgstr "Género"
+
+msgid "(Enter values separated by comma)" 
+msgstr "(Introduzca valores separados por comas)"
+
+msgid "User Location (in kilometer)" 
+msgstr "Ubicación del usuario (en el kilómetro)"
+
+msgid "Signup Credit Points" 
+msgstr "Puntos de registro de crédito"
+
+msgid "Checkin Credit Points" 
+msgstr "Checkin puntos de crédito"
+
+msgid "Order Count For Featured Store" 
+msgstr "Por fin el conde destacado tienda"
+
+msgid "Checkin Count For Featured Store" 
+msgstr "Para el check-Conde destacado tienda"
+
+msgid "Footer Content (Left)" 
+msgstr "Pie de página de contenido (izquierda)"
+
+msgid "Footer Content (Right)" 
+msgstr "Pie de página de contenido (Derecho)"
+
+msgid "Footer Active" 
+msgstr "Pie de página activa"
+
+msgid "Yes" 
+msgstr "Sí"
+
+msgid "No" 
+msgstr "No"
+
+msgid "Submit" 
+msgstr "Enviar"
+
+msgid "Please enter unlike button value" 
+msgstr "Por favor, introduzca el valor botón a diferencia"
+
+msgid "Site Settings" 
+msgstr "Configuración del sitio"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Social Page Settings" 
+msgstr "Configuración de la página Social"
+
+msgid "Instagram" 
+msgstr "Instagram"
+
+msgid "Instagram Page" 
+msgstr "Instagram página"
+
+msgid "Facebook" 
+msgstr "Facebook"
+
+msgid "Facebook Page" 
+msgstr "Pagina de Facebook"
+
+msgid "Twitter" 
+msgstr "Gorjeo"
+
+msgid "Twitter Page" 
+msgstr "Página de Twitter"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Site Settings" 
+msgstr "Configuración del sitio"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Social Id Settings" 
+msgstr "Ajustes de ID Social"
+
+msgid "Facebook Settings" 
+msgstr "Ajustes de Facebook"
+
+msgid "FB Id" 
+msgstr "FB Id"
+
+msgid "FB Secret" 
+msgstr "FB secreto"
+
+msgid "Twitter Settings" 
+msgstr "Ajustes de Twitter"
+
+msgid "Twitter Id" 
+msgstr "ID de Twitter"
+
+msgid "Twitter Secret" 
+msgstr "Twitter secreto"
+
+msgid "Google Settings" 
+msgstr "Configuración de Google"
+
+msgid "Google Id" 
+msgstr "google Id"
+
+msgid "Google Secret" 
+msgstr "google secreto"
+
+msgid "Gmail Settings" 
+msgstr "Configuración de Gmail"
+
+msgid "Gmail Client Id" 
+msgstr "Gmail Id Client"
+
+msgid "Gmail Client Secret" 
+msgstr "Gmail secreto de cliente"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Item description" 
+msgstr "Descripción del Artículo"
+
+msgid "Recipient" 
+msgstr "Recipiente"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Quantity" 
+msgstr "Cantidad"
+
+msgid "Size Options" 
+msgstr "Opciones de tamaño"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Mark Featured" 
+msgstr "Marcos destacados"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Publish" 
+msgstr "Publicar"
+
+msgid "Draft" 
+msgstr "Borrador"
+
+msgid "Select" 
+msgstr "Seleccionar"
+
+msgid "Id" 
+msgstr "Carné de identidad"
+
+msgid "Item title" 
+msgstr "título del artículo"
+
+msgid "Item description" 
+msgstr "Descripción del Artículo"
+
+msgid "Recipient" 
+msgstr "Recipiente"
+
+msgid "Price" 
+msgstr "Precio"
+
+msgid "Quantity" 
+msgstr "Cantidad"
+
+msgid "Size Options" 
+msgstr "Opciones de tamaño"
+
+msgid "Created" 
+msgstr "Creado"
+
+msgid "Mark Featured" 
+msgstr "Marcos destacados"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Payment Gateway" 
+msgstr "pasarela de pago"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Stripe" 
+msgstr "Raya"
+
+msgid "Type" 
+msgstr "Tipo"
+
+msgid "Stripe(Live)" 
+msgstr "Raya (en vivo)"
+
+msgid "Sandbox(Test)" 
+msgstr "Zona de pruebas (Test)"
+
+msgid "Stripe Publishable Key" 
+msgstr "Raya publicable clave"
+
+msgid "Stripe Secret Key" 
+msgstr "Raya clave secreta"
+
+msgid "Update" 
+msgstr "Actualizar"
+
+msgid "Talk" 
+msgstr "Hablar"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Tax Rates" 
+msgstr "Las tasas de impuestos"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Tax" 
+msgstr "Añadir Tributaria"
+
+msgid "Add Tax" 
+msgstr "Añadir Tributaria"
+
+msgid "S.No" 
+msgstr "S.No"
+
+msgid "Country Name" 
+msgstr "Nombre del país"
+
+msgid "Tax Name" 
+msgstr "Nombre impuestos"
+
+msgid "Percentage (%)" 
+msgstr "Porcentaje (%)"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "No taxes found" 
+msgstr "No se encontraron impuestos"
+
+msgid "Terms and Conditions" 
+msgstr "Términos y Condiciones"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Profile and Account" 
+msgstr "Perfil y Cuenta"
+
+msgid "Terms of Sale" 
+msgstr "Condiciones de venta"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Profile and Account" 
+msgstr "Perfil y Cuenta"
+
+msgid "Terms of Service" 
+msgstr "Términos de servicio"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Save" 
+msgstr "Salvar"
+
+msgid "Profile and Account" 
+msgstr "Perfil y Cuenta"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Approved Orders" 
+msgstr "pedidos aprobados"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Payment Method :" 
+msgstr "Método de pago :"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Product id" 
+msgstr "ID del Producto"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Total Price" 
+msgstr "Precio total"
+
+msgid "Gift Card Used :" 
+msgstr "Tarjeta de regalo usado cuando:"
+
+msgid "Item Total" 
+msgstr "Total"
+
+msgid "Shipping Fee" 
+msgstr "Gastos de envío"
+
+msgid "Tax" 
+msgstr "Impuesto"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Shipped Orders" 
+msgstr "Las órdenes enviadas"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Payment Method :" 
+msgstr "Método de pago :"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Categories" 
+msgstr "categorías"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Pickup" 
+msgstr "Recoger"
+
+msgid "Category" 
+msgstr "Categoría"
+
+msgid "Category Name" 
+msgstr "nombre de la categoría"
+
+msgid "Category Parent" 
+msgstr "Categoría Padres"
+
+msgid "Category Sub Parent" 
+msgstr "Categoría Sub Padres"
+
+msgid "Created Date" 
+msgstr "Fecha de creación"
+
+msgid "Modification Date" 
+msgstr "Fecha de modificación"
+
+msgid "Delete Category" 
+msgstr "eliminar Categoría"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Can not delete this category" 
+msgstr "No se puede eliminar esta categoría"
+
+msgid "No record Found" 
+msgstr "Ningún record fue encontrado"
+
+msgid "Add Category" 
+msgstr "añadir categoría"
+
+msgid "<b>Note : </b> The category cannot be deleted if there is one or more products added already to it" 
+msgstr "<B> Nota: </ b> La categoría no se puede eliminar si hay uno o más productos ya se agregan a él"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Returned Orders" 
+msgstr "pedidos devueltos"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Pickup" 
+msgstr "Recoger"
+
+msgid "Logistic Details:" 
+msgstr "Detalles logísticos:"
+
+msgid "Payment to:" 
+msgstr "Pago Para:"
+
+msgid "Email:" 
+msgstr "Email:"
+
+msgid "Logistic Details:" 
+msgstr "Detalles logísticos:"
+
+msgid "Shipment Date:" 
+msgstr "Fecha de envío:"
+
+msgid "Tracking Id:" 
+msgstr "ID de rastreo:"
+
+msgid "Logistic Name:" 
+msgstr "Nombre logística:"
+
+msgid "Shipment Service:" 
+msgstr "Servicio de Envío:"
+
+msgid "Additional Notes:" 
+msgstr "Notas adicionales:"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Commission" 
+msgstr "Comisión"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Add Commission" 
+msgstr "Añadir Comisión"
+
+msgid "Apply To" 
+msgstr "Aplicar para"
+
+msgid "Commission Type" 
+msgstr "Tipo Comisión"
+
+msgid "Amount (%)" 
+msgstr "Cantidad (%)"
+
+msgid "Min Value" 
+msgstr "Valor mínimo"
+
+msgid "Max value" 
+msgstr "valor máximo"
+
+msgid "Date" 
+msgstr "Fecha"
+
+msgid "Details" 
+msgstr "detalles"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Action" 
+msgstr "Acción"
+
+msgid "Active" 
+msgstr "Activo"
+
+msgid "Activated" 
+msgstr "Activado"
+
+msgid "Edit" 
+msgstr "Editar"
+
+msgid "Delete" 
+msgstr "Borrar"
+
+msgid "Coupon Logs" 
+msgstr "Registros de cupones"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "View Coupon" 
+msgstr "Vea Cupón"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Sl no." 
+msgstr "Si. No."
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Total Price" 
+msgstr "Precio total"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Item Total:" 
+msgstr "Total:"
+
+msgid "Shipping Fee:" 
+msgstr "Gastos de envío:"
+
+msgid "Grand Total:" 
+msgstr "Gran total:"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Delivered Orders" 
+msgstr "Los pedidos con destinación"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Seller amount :" 
+msgstr "cantidad del vendedor:"
+
+msgid "Seller amount : " 
+msgstr "cantidad del vendedor:"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "product id" 
+msgstr "ID del Producto"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Total Price" 
+msgstr "Precio total"
+
+msgid "Gift Card Used :" 
+msgstr "Tarjeta de regalo usado cuando:"
+
+msgid "for this transaction." 
+msgstr "para esta transacción."
+
+msgid "Item Total" 
+msgstr "Total"
+
+msgid "Shipping Fee" 
+msgstr "Gastos de envío"
+
+msgid "Tax" 
+msgstr "Impuesto"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "Brain Tree Payment details" 
+msgstr "Cerebro de árboles Detalles del pago"
+
+msgid "Card Number" 
+msgstr "Número de tarjeta"
+
+msgid "Name on Card" 
+msgstr "Nombre en la tarjeta"
+
+msgid "Your Card Name" 
+msgstr "Su tarjeta de identificación"
+
+msgid "Expires" 
+msgstr "expira"
+
+msgid "MM" 
+msgstr "MM"
+
+msgid "YY" 
+msgstr "YY"
+
+msgid "CVV" 
+msgstr "CVV"
+
+msgid "Checkout" 
+msgstr "Revisa"
+
+msgid "Dispute" 
+msgstr "Disputa"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Dispute Details" 
+msgstr "Detalles de disputa"
+
+msgid "Reopen" 
+msgstr "Reabrir"
+
+msgid "Closed" 
+msgstr "Cerrado"
+
+msgid "Reopen" 
+msgstr "Reabrir"
+
+msgid "Processing" 
+msgstr "Tratamiento"
+
+msgid "Order Number" 
+msgstr "Número de orden"
+
+msgid "Product Detail" 
+msgstr "Detalle del producto"
+
+msgid "Seller" 
+msgstr "Vendedor"
+
+msgid "Order Date" 
+msgstr "Fecha de orden"
+
+msgid "Total Amount Paid" 
+msgstr "Cantidad total pagada"
+
+msgid "Status" 
+msgstr "Estado"
+
+msgid "Pending" 
+msgstr "Pendiente"
+
+msgid "Delivered" 
+msgstr "Entregado"
+
+msgid "Dispute Status" 
+msgstr "Estado de la impugnación"
+
+msgid "Seller Reply" 
+msgstr "Seller Reply"
+
+msgid "Buyer Reply" 
+msgstr "Si compras Responder"
+
+msgid "Seller Accepeted Dispute" 
+msgstr "Vendedor accepeted de Diferencias"
+
+msgid "Buyer Cancel Dispute" 
+msgstr "Cancelar comprador de Diferencias"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "What's the problem" 
+msgstr "Cuál es el problema"
+
+msgid "Enter the Text" 
+msgstr "Introduzca el texto"
+
+msgid "Reply Message" 
+msgstr "Mensaje de respuesta"
+
+msgid "Previous Messages:" 
+msgstr "Los mensajes anteriores:"
+
+msgid "Previous Messages: " 
+msgstr "Los mensajes anteriores:"
+
+msgid "No Conversation Found" 
+msgstr "No Conversación Encontrado"
+
+msgid "Load more" 
+msgstr "Carga más"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "New Orders" 
+msgstr "Nuevos pedidos"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email:" 
+msgstr "Email:"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Payment Method :" 
+msgstr "Método de pago :"
+
+msgid "Pickup" 
+msgstr "Recoger"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Refunded Orders" 
+msgstr "órdenes Devuelto"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Product id" 
+msgstr "ID del Producto"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Total Price" 
+msgstr "Precio total"
+
+msgid "Gift Card Used :" 
+msgstr "Tarjeta de regalo usado cuando:"
+
+msgid "for this transaction." 
+msgstr "para esta transacción."
+
+msgid "Item Total" 
+msgstr "Total"
+
+msgid "Shipping Fee" 
+msgstr "Gastos de envío"
+
+msgid "Tax" 
+msgstr "Impuesto"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Returned Orders" 
+msgstr "pedidos devueltos"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Logistic Details:" 
+msgstr "Detalles logísticos:"
+
+msgid "Shipment Date:" 
+msgstr "Fecha de envío:"
+
+msgid "Tracking Id:" 
+msgstr "ID de rastreo:"
+
+msgid "Logistic Name:" 
+msgstr "Nombre logística:"
+
+msgid "Shipment Service:" 
+msgstr "Servicio de Envío:"
+
+msgid "Additional Notes:" 
+msgstr "Notas adicionales:"
+
+msgid "Reason For Return:" 
+msgstr "Razón para regresar:"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Product id" 
+msgstr "ID del Producto"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Total Price" 
+msgstr "Precio total"
+
+msgid "Gift Card Used :" 
+msgstr "Tarjeta de regalo usado cuando:"
+
+msgid "for this transaction." 
+msgstr "para esta transacción."
+
+msgid "Item Total" 
+msgstr "Total"
+
+msgid "Shipping Fee" 
+msgstr "Gastos de envío"
+
+msgid "Tax" 
+msgstr "Impuesto"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "View Order" 
+msgstr "Ver pedido"
+
+msgid "Home" 
+msgstr "Casa"
+
+msgid "Shipped Orders" 
+msgstr "Las órdenes enviadas"
+
+msgid "Payment to" 
+msgstr "Pago Para"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Buyer Details" 
+msgstr "Detalles del comprador"
+
+msgid "Email :" 
+msgstr "Email :"
+
+msgid "Shipping Address" 
+msgstr "Dirección de Envío"
+
+msgid "Product id" 
+msgstr "ID del Producto"
+
+msgid "Item Name" 
+msgstr "Nombre del árticulo"
+
+msgid "Item Quantity" 
+msgstr "cantidad de objetos"
+
+msgid "Item Unitprice" 
+msgstr "artículo preciounitario"
+
+msgid "Shipping fee" 
+msgstr "Gastos de envío"
+
+msgid "Total Price" 
+msgstr "Precio total"
+
+msgid "Gift Card Used :" 
+msgstr "Tarjeta de regalo usado cuando:"
+
+msgid "for this transaction." 
+msgstr "para esta transacción."
+
+msgid "Item Total" 
+msgstr "Total"
+
+msgid "Shipping Fee" 
+msgstr "Gastos de envío"
+
+msgid "Tax" 
+msgstr "Impuesto"
+
+msgid "Grand Total" 
+msgstr "Gran total"
+
+msgid "username already exists" 
+msgstr "nombre de usuario ya existe"
+
+msgid "Email already exists" 
+msgstr "el Email ya existe"
+
+msgid "User added successfully" 
+msgstr "Usuario añadido correctamente"
+
+msgid "Moderator added successfully" 
+msgstr "Moderador añadido correctamente"
+
+msgid "Email id or Password is incorrect" 
+msgstr "Correo electrónico de identificación o contraseña es incorrecta"
+
+msgid "Admin -___-updated a commission-___-" 
+msgstr "-___- administrador actualiza una comisión -___-"
+
+msgid "Commission Updation" 
+msgstr "Updation Comisión"
+
+msgid "Commission details added successfully" 
+msgstr "Comisión los detalles añadidos correctamente"
+
+msgid "Min range and max range can not be equal" 
+msgstr "gama y máximo rango min no puede ser igual"
+
+msgid "Min range should be less than max range" 
+msgstr "gama min debe ser menor que el rango máximo"
+
+msgid "Marked as featured successfully" 
+msgstr "Marcado como ofrecido con éxito"
+
+msgid "Marked as unfeatured successfully" 
+msgstr "Marcado como sin rasgos éxito"
+
+msgid "Admin -___-updated a commission-___-" 
+msgstr "-___- administrador actualiza una comisión -___-"
+
+msgid "Commision details:Min_value" 
+msgstr "detalles Commision: MIN_VALUE"
+
+msgid "Max_value:" 
+msgstr "Valor máximo:"
+
+msgid "Amount:" 
+msgstr "Cantidad:"
+
+msgid "- Commission Updation" 
+msgstr "- Updation Comisión"
+
+msgid "Min_value" 
+msgstr "min_value"
+
+msgid "- Commission saved successfully" 
+msgstr "- Comisión guardado correctamente"
+
+msgid "Tax name already exists" 
+msgstr "nombre del impuesto ya existe"
+
+msgid "Tax details has been saved." 
+msgstr "detalles del impuesto se han guardado."
+
+msgid "Moderator saved successfully" 
+msgstr "Moderador guardado correctamente"
+
+msgid "User saved successfully" 
+msgstr "El usuario ha guardado correctamente"
+
+msgid "Coupon Code Already Exists" 
+msgstr "Código de cupón ya existe"
+
+msgid "Dispute Problem Already Exists try another." 
+msgstr "Problema controversia ya existe probar con otro."
+
+msgid "Dispute problem created" 
+msgstr "problema creado controversia"
+
+msgid "Deleted Successfully" 
+msgstr "Borrado exitosamente"
+
+msgid "Subject Not Found" 
+msgstr "Sujeto no encontrado"
+
+msgid "Subject Already Exists try another." 
+msgstr "Asunto ya existe probar con otro."
+
+msgid "Subject created" 
+msgstr "Asunto creado"
+
+msgid "Deleted Successfully" 
+msgstr "Borrado exitosamente"
+
+msgid "Conversation Deleted" 
+msgstr "conversación eliminados"
+
+msgid "saved successfully" 
+msgstr "Guardado exitosamente"
+
+msgid "Currency rate not available for this currency. Please add the currency rate for this currency" 
+msgstr "la tasa de cambio no está disponible para esta moneda. Por favor agregar el tipo de cambio para esta moneda"
+
+msgid "error" 
+msgstr "error"
+
+msgid "Admin -___-posted a news-___-" 
+msgstr "Administrador -___- publicado una noticia -___-"
+
+msgid "- Message from Admin" 
+msgstr "- Mensaje del administrador"
+
+msgid "Successfully Sent" 
+msgstr "Enviado exitosamente"
+
+msgid "Saved successfully" 
+msgstr "Guardado exitosamente"
+
+msgid "updated Successfully" 
+msgstr "Actualizado correctamente"
+
+msgid "Contact details updated successfully" 
+msgstr "datos de contacto actualizados correctamente"
+
+msgid "Banner saved successfully" 
+msgstr "Banner ha guardado correctamente"
+
+msgid "Recipient name Already Exists try another." 
+msgstr "Nombre del destinatario ya existe probar con otro."
+
+msgid "Disable" 
+msgstr "Inhabilitar"
+
+msgid "Enable" 
+msgstr "Habilitar"
+
+msgid "Currency already exists" 
+msgstr "La moneda ya existe"
+
+msgid "Successfully edited." 
+msgstr "Editado con éxito."
+
+msgid "saved successfully" 
+msgstr "Guardado exitosamente"
+
+msgid "success" 
+msgstr "éxito"
+
+msgid "error" 
+msgstr "error"
+
+msgid "- Your Order Is Refunded" 
+msgstr "- Su pedido se devuelve"
+
+msgid "Your account has been credited" 
+msgstr "Tu cuenta ha sido acreditada"
+
+msgid "by for refund of" 
+msgstr "por la devolución de"
+
+msgid " by for refund of" 
+msgstr " por la devolución de"
+
+msgid "- Your Order Is Approved" 
+msgstr "- Su pedido es aprobado"
+
+msgid "Your account has been credited" 
+msgstr "Tu cuenta ha sido acreditada"
+
+msgid "No Orders Found" 
+msgstr "No Hay Pedidos encontrados"
+
+msgid "Please Enter Category Name" 
+msgstr "Por favor, introduzca nombre de categoría"
+
+msgid "Category name Already Exists try another." 
+msgstr "nombre de la categoría ya existe probar con otro."
+
+msgid "Please Enter Sub Category Name" 
+msgstr "Por favor, introduzca Subcategoría Nombre"
+
+msgid "Successfully added" 
+msgstr "Agregado exitosamente"
+
+msgid "No Category found for this url" 
+msgstr "No hay resultados para esta url Categoría"
+
+msgid "Successfully Updated" 
+msgstr "Actualizado exitosamente"
+
+msgid "Your product has been approved-___-" 
+msgstr "Su producto ha sido aprobado -___-"
+
+msgid "Your product" 
+msgstr "Tu producto"
+
+msgid "has been approved for sale" 
+msgstr "ha sido aprobado para la venta"
+
+msgid "– Your product" 
+msgstr "- Tu producto"
+
+msgid "was approved by" 
+msgstr "fue aprobado por"
+
+msgid "- Replied for the Dispute" 
+msgstr "- Respondió para la disputa"
+
+msgid "-___-replied for the dispute-___-" 
+msgstr "-___- respondió a la controversia -___-"
+
+msgid "Reply Send To Users." 
+msgstr "Responder Enviar a los usuarios."
+
+msgid "Dispute Status Changed" 
+msgstr "Estado de la impugnación Changed"
+
+msgid "Email already exists" 
+msgstr "el Email ya existe"
+
+msgid "The changes are updated ..." 
+msgstr "Los cambios se actualizan ..."
+
+msgid "Newsletter Keys saved successfully" 
+msgstr "Claves boletín guardado correctamente"
+
+msgid "Please Add Mail Chimp API Key" 
+msgstr "Por favor Añadir correo chimpancé clave de API"
+
+msgid "WELCOME TO HITASOFT, MADURAI" 
+msgstr "BIENVENIDOS A Hitasoft, MADURAI"
+
+msgid "Newsletter Send Successfully" 
+msgstr "Boletín enviado con éxito"
+
+msgid "Newsletter Failed, Try Again !" 
+msgstr "Boletín Error, intente de nuevo!"
+
+msgid "Newsletter Info Error, Try Again !" 
+msgstr "Boletín de Información de error, intente de nuevo!"
+
+msgid "Newsletter Campaign Error, Try Again !" 
+msgstr "Boletín de error Campaña, intente de nuevo!"
+
+msgid "Please add members to the list" 
+msgstr "Por favor agregar miembros a la lista"
+
+msgid "Select atleast one slider Image" 
+msgstr "Seleccione al menos un regulador de la imagen"
+
+msgid "Saved Successfully" 
+msgstr "Guardado exitosamente"
+
+msgid "Add Slider" 
+msgstr "Añadir deslizante"
+
+msgid "Edit Slider" 
+msgstr "Editar deslizante"
+
+msgid "Full Name" 
+msgstr "Nombre completo"
+
+msgid "Cancel" 
+msgstr "Cancelar"
+
+msgid "Seller payment mode is" 
+msgstr "el modo de pago es vendedor"
+
+msgid "Select Icon" 
+msgstr "Seleccionar icono"
+
+msgid "Comments:" 
+msgstr "comentarios:"
+
+msgid "Default" 
+msgstr "Defecto"
+
+msgid "No Disputes Found" 
+msgstr "No hay controversias encontrados"
+
+msgid "Footer Content Active" 
+msgstr "Pie de página de contenido activo"
+
+msgid "Layout" 
+msgstr "Diseño"
+
+msgid "Manage Custom Slider" 
+msgstr "Manejo deslizante personalizada"
+
+msgid "Manage Apps Links" 
+msgstr "Gestionar vínculos Aplicaciones"
+
+msgid "Android App Url" 
+msgstr "Android App Url"
+
+msgid "Ios App Url" 
+msgstr "IOS Url"
+
+msgid "Google Analytics Code :" 
+msgstr "Google Analytics Código:"
+
+msgid "Error Page" 
+msgstr "error de página"
+
+msgid "Main" 
+msgstr "Principal"
+
+msgid "Sub" 
+msgstr "Sub"
+
+msgid "User Management" 
+msgstr "Gestión de usuarios"
+
+msgid "Manage User" 
+msgstr "Manejo de usuario"
+
+msgid "Manage Moderator" 
+msgstr "Manejo de Moderador"
+
+msgid "Braintree Setting" 
+msgstr "Ajuste Braintree"
+
+msgid "Orders" 
+msgstr "Pedidos"
+
+msgid "Claimed Orders" 
+msgstr "órdenes reclamadas"
+
+msgid "Cancelled Orders" 
+msgstr "Los pedidos cancelados"
+
+msgid "Commission setup" 
+msgstr "configuración Comisión"
+
+msgid "Commission Setup" 
+msgstr "Configuración Comisión"
+
+msgid "Add Gift card" 
+msgstr "Añadir tarjeta de regalo"
+
+msgid "Logs" 
+msgstr "registros"
+
+msgid "Group Gift" 
+msgstr "Regalo grupo"
+
+msgid "Manage Group gifts" 
+msgstr "Manejo de regalos Grupo"
+
+msgid "Store Preferences" 
+msgstr "almacenar las preferencias"
+
+msgid "Manage Categories" 
+msgstr "Administrar categorías"
+
+msgid "Manage Reported Items" 
+msgstr "Gestionar Elementos reportados"
+
+msgid "Manage Sellers" 
+msgstr "Manejo de vendedores"
+
+msgid "Approved Sellers" 
+msgstr "vendedores aprobados"
+
+msgid "Nonapproved Sellers" 
+msgstr "vendedores no aprobados"
+
+msgid "User Options" 
+msgstr "Opciones de usuario"
+
+msgid "Manage Dispute" 
+msgstr "Manejo de Conflictos"
+
+msgid "Inactive Dispute" 
+msgstr "Disputa inactiva"
+
+msgid "Processing Dispute" 
+msgstr "Disputa procesamiento"
+
+msgid "Active Dispute" 
+msgstr "Disputa activa"
+
+msgid "Closed Dispute" 
+msgstr "Disputa cerrada"
+
+msgid "Cancel Dispute" 
+msgstr "Cancelar de Diferencias"
+
+msgid "Resolved Dispute" 
+msgstr "disputa sea resuelta"
+
+msgid "Messages" 
+msgstr "mensajes"
+
+msgid "Manage Seller Chat" 
+msgstr "Manejo de vendedor de Chat"
+
+msgid "Manage Subject" 
+msgstr "Manejo de Asunto"
+
+msgid "Social Settings" 
+msgstr "Ajustes sociales"
+
+msgid "Socialpage Settings" 
+msgstr "Ajustes Socialpage"
+
+msgid "FAQ Management" 
+msgstr "Preguntas Gestión"
+
+msgid "Add FAQ" 
+msgstr "Añadir FAQ"
+
+msgid "Manage FAQ" 
+msgstr "Manejo de FAQ"
+
+msgid "Get Contact list" 
+msgstr "Obtener la lista de contactos"
+
+msgid "General settings" 
+msgstr "Configuración general"
+
+msgid "General Settings" 
+msgstr "Configuración general"
+
+msgid "Banner Settings" 
+msgstr "Ajustes de banner"
+
+msgid "Banners" 
+msgstr "banderas"
+
+msgid "Error pages" 
+msgstr "Las páginas de error"
+
+msgid "Error Pages" 
+msgstr "Páginas de error"
+
+msgid "404 Page" 
+msgstr "Página 404"
+
+msgid "Footer Pages" 
+msgstr "Páginas de pie de página"
+
+msgid "Nonapproved Users" 
+msgstr "Los usuarios no aprobados"
+
+msgid "Nonapproved Moderators" 
+msgstr "Los moderadores no aprobados"
+
+msgid "Select All" 
+msgstr "Seleccionar todo"
+
+msgid "Manage Coupon" 
+msgstr "Manejo de Cupón"
+
+msgid "Logs Coupon" 
+msgstr "registros Cupón"
+
+msgid "Add Gift Card" 
+msgstr "Añadir tarjeta de regalo"
+
+msgid "Manage Category" 
+msgstr "gestionar categoría"
+
+msgid "Manage Items" 
+msgstr "gestionar Elementos"
+
+msgid "Manage Subjects" 
+msgstr "Manejo de los sujetos"
+
+msgid "Help Pages" 
+msgstr "Páginas de ayuda"

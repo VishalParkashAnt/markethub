@@ -1,0 +1,3112 @@
+﻿msgid "Item removed from cart"
+msgstr "البند إزالتها من سلة"
+
+msgid "Payment didn't go through Please try again"
+msgstr "لم يتم تنفيذ عملية الدفع الرجاء المحاولة مرة أخرى"
+
+msgid "You have"
+msgstr "عندك"
+
+msgid "items in your cart"
+msgstr "الوحدات الموجودة فى سلة التسوق الخاصة بك"
+
+msgid "Item Details"
+msgstr "تفاصيل العنصر"
+
+msgid "Quantity"
+msgstr "كمية"
+
+msgid "Ratings"
+msgstr "التقييمات"
+
+msgid "Reviews"
+msgstr "المراجعات"
+
+msgid "POPULAR PRODUCTS"
+msgstr "المنتجات الشعبية"
+
+msgid "NEW ARRIVALS"
+msgstr "الوافدون الجدد"
+
+msgid "Categories"
+msgstr "التصنيفات"
+
+msgid "Top Rated Products"
+msgstr "المنتجات الأعلى تصنيفا""
+
+msgid "Write review"
+msgstr "أكتب مراجعة"
+
+msgid "Edit review"
+msgstr "تحرير المراجعة"
+
+
+msgid "Post a Question"
+msgstr "نشر سؤال"
+
+msgid "Post Your Question"
+msgstr "نشر سؤال"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "No Answer"
+msgstr "لا اجابة"
+
+msgid "No answer"
+msgstr "لا اجابة"
+
+msgid "View All Questions and Answers"
+msgstr "عرض جميع الأسئلة  الإجابات"
+
+msgid "WRITE A QUESTION"
+msgstr "اكتب سؤالا"
+
+msgid "Write a Question about"
+msgstr "اكتب سؤالا عن"
+
+msgid "Write a question about"
+msgstr "اكتب سؤالا عن"
+
+msgid "Write a Review"
+msgstr "أكتب مراجعة"
+
+msgid "Please enter comment"
+msgstr "الرجاء إدخال تعليق"
+
+msgid "Load more"
+msgstr "تحميل المزيد"
+
+msgid "Discount Items"
+msgstr "عناصر الخصم"
+
+msgid "Write answer"
+msgstr "اكتب الجواب"
+
+msgid "Featured Items"
+msgstr "السلع المعروضة"
+
+msgid "Top Stores"
+msgstr "أفضل المتاجر"
+
+msgid "Questions and Answers"
+msgstr "أسئلة وأجوبة"
+
+msgid "Suggested Items"
+msgstr "العناصر المقترحة"
+
+msgid "Reviews & Ratings"
+msgstr "التعليقات والتقييمات"
+
+msgid "Post your query here.."
+msgstr "أضف استعلامك هنا .."
+
+
+msgid "Delivery"
+msgstr "توصيل"
+
+msgid "Subtotal"
+msgstr "حاصل الجمع"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Size"
+msgstr "بحجم"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "Sold-Out"
+msgstr "بيعت كلها"
+
+msgid "One business day"
+msgstr "يوم عمل واحد"
+
+msgid "Two business days"
+msgstr "أيام عمل اثنين"
+
+msgid "Three business days"
+msgstr "ثلاثة أيام عمل"
+
+msgid "Four business days"
+msgstr "أربعة أيام عمل"
+
+msgid "Two-Three weeks"
+msgstr "اثنين من ثلاثة أسابيع"
+
+msgid "Three-Four weeks"
+msgstr "ثلاثة أربعة أسابيع"
+
+msgid "Four-Six weeks"
+msgstr "أربع سنوات ستة أسابيع"
+
+msgid "Six-Eight weeks"
+msgstr "ست سنوات ثمانية أسابيع"
+
+msgid "Cannot Ship this Product to your Location"
+msgstr "لا يمكن أن نشحن هذا المنتج إلى الموقع"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Delivery"
+msgstr "توصيل"
+
+msgid "No more quantity available for this product"
+msgstr "لا كمية أكثر المتاحة لهذا المنتج"
+
+msgid "This Product variants are unavailable now. Kindly remove the item to checkout"
+msgstr "هذه المتغيرات المنتج غير متوفرة الآن. يرجى إزالة العنصر إلى الخروج"
+
+msgid "Shipping is not available for this product"
+msgstr "الشحن غير متوفر لهذا المنتج"
+
+msgid "Item Total"
+msgstr "مجموع الاشياء"
+
+msgid "Shipping Total"
+msgstr "شحن إجمالي"
+
+msgid "Price Details"
+msgstr "€ تفاصيل"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "items"
+msgstr "العناصر"
+
+msgid "Shipping Total"
+msgstr "شحن إجمالي"
+
+msgid "Paypal Brain Tree"
+msgstr "باي بال شجرة الدماغ"
+
+msgid "Cash on Delivery"
+msgstr "الدفع عن الاستلام"
+
+msgid "Paypal: 100% Payment Protection, Easy Return Policy"
+msgstr "باي بال: 100٪ حماية من الدفع، من السهل العودة السياسة"
+
+msgid "By placing the order, I have read and agreed the"
+msgstr "قبل وضع النظام، وأنا قد قرأت ووافقت على"
+
+msgid "Terms of Use"
+msgstr "تعليمات الاستخدام"
+
+msgid "Ship to"
+msgstr "سافر على متن سفينة لِـ"
+
+msgid "Cash on Delivery"
+msgstr "الدفع عن الاستلام"
+
+msgid "s"
+msgstr "الصورة"
+
+msgid "Select your address"
+msgstr "تحديد عنوانك"
+
+msgid "Add Shipping Address"
+msgstr "إضافة عنوان شحن"
+
+msgid "Please add the shipping address"
+msgstr "الرجاء إضافة عنوان الشحن"
+
+msgid "Coupon Code"
+msgstr "رمز القسيمة"
+
+msgid "Please enter your coupon code"
+msgstr "الرجاء إدخال رمز القسيمة الخاصة بك"
+
+msgid "Please enter a valid coupon code"
+msgstr "الرجاء إدخال رمز القسيمة صالحة"
+
+msgid "Coupon code you entered is expired"
+msgstr "رمز القسيمة الذي أدخلته غير منتهية الصلاحية"
+
+msgid "Coupon code is not valid for this cart"
+msgstr "رمز القسيمة غير صالح لهذه العربة"
+
+msgid "Apply Coupon"
+msgstr "تطبيق القسيمة"
+
+msgid "Apply Gift Card"
+msgstr "تطبيق بطاقة هدية"
+
+msgid "Please enter your giftcard code"
+msgstr "الرجاء إدخال رمز جيفتكارد الخاص بك"
+
+msgid "Please enter a valid giftcard code"
+msgstr "الرجاء إدخال رمز جيفتكارد صحيح"
+
+msgid "Use Credit Amount"
+msgstr "استخدام مبلغ القرض"
+
+msgid "Total credits available"
+msgstr "مجموع الاعتمادات المتاحة"
+
+msgid "Allowed credits on this cart"
+msgstr "الاعتمادات المسموح به على هذه العربة"
+
+msgid "Enter your credit amount to use"
+msgstr "أدخل مبلغ الائتمان الخاصة بك لاستخدام"
+
+msgid "Please enter a credit amount"
+msgstr "الرجاء إدخال مبلغ الائتمان"
+
+msgid "You can use cart allowed credits only"
+msgstr "يمكنك استخدام عربة يسمح الاعتمادات فقط"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Invite Friends & Earn Credit Points"
+msgstr "دعوة الأصدقاء وكسب نقاط الائتمان"
+
+msgid "Security code is invalid"
+msgstr "رمز الحماية غير صالح"
+
+msgid "Confirm Later"
+msgstr "تأكيد في وقت لاحق"
+
+msgid "Confirm Order"
+msgstr "أكد الطلب"
+
+msgid "Your Cart is Empty"
+msgstr "عربة التسوق فارغة"
+
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+msgid "This product variants are unavailable now. kindly remove the item to checkout"
+msgstr "هذه المتغيرات المنتج غير متوفرة الآن. يرجى إزالة العنصر إلى الخروج"
+
+msgid "Shipping is not available for this product"
+msgstr "الشحن غير متوفر لهذا المنتج"
+
+msgid "Discount"
+msgstr "خصم"
+
+msgid "Gift Card"
+msgstr "كرت هدية"
+
+msgid "Thanks for your Purchase!"
+msgstr "شكرا لشرائك!"
+
+msgid "Your Order placed successfully. You will a recieve a Email shortly from"
+msgstr "طلبك وضعت بنجاح. كنت سوف تلقي البريد الالكتروني على فترة وجيزة من"
+
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+msgid "Pay with Card Or Paypal"
+msgstr "دفع مع بطاقة أو باي بال"
+
+msgid "Cash On Delivery"
+msgstr "الدفع عن الاستلام"
+
+msgid "Share this Order and get credit points"
+msgstr "انشر هذا النظام والحصول على نقاط الائتمان"
+
+msgid "Share your order now.You will credit with the points"
+msgstr "شارك طلبك الآن. سوف الائتمان مع النقاط"
+
+msgid "Credit points will be updated in your account after the order processed"
+msgstr "سيتم تحديث نقطة الائتمان في حسابك بعد معالجة الأمر"
+
+msgid "Enter your Message (Optional)"
+msgstr "أدخل رسالتك (اختياري)"
+
+msgid "SELLER REVIEW"
+msgstr "مراجعة البائع"
+
+msgid "Facebook Share"
+msgstr "مشاركة فايسبوك"
+
+msgid "Find People"
+msgstr "ايجاد الناس"
+
+msgid "Search for Peoples"
+msgstr "البحث عن الشعوب"
+
+msgid "Sell On"
+msgstr "بيع على"
+
+msgid "Group Gift"
+msgstr "هدية مجموعة"
+
+msgid "Gift Card"
+msgstr "كرت هدية"
+
+msgid "Daily Deals"
+msgstr "الصفقات اليومية"
+
+msgid "All Stores"
+msgstr "جميع المخازن"
+
+msgid "Download App"
+msgstr "تحميل التطبيق"
+
+msgid "My Profile"
+msgstr "ملفي"
+
+msgid "Find Friends"
+msgstr "البحث عن أصدقاء"
+
+msgid "Invite Friends"
+msgstr "ادعو أصدقاء"
+
+msgid "Group Gift List"
+msgstr "قائمة هدية مجموعة"
+
+msgid "Track Orders"
+msgstr "أوامر المسار"
+
+msgid "Settings"
+msgstr "إعدادات"
+
+msgid "Sign Out"
+msgstr "خروج"
+
+msgid "Notifications"
+msgstr "إخطارات"
+
+msgid "My cart"
+msgstr "سلتي"
+
+msgid "Qty"
+msgstr "الكمية"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Signup"
+msgstr "سجل"
+
+msgid "Search for products, brand and more..."
+msgstr "بحث عن المنتجات، والعلامة التجارية وأكثر من ذلك ..."
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Welcome"
+msgstr "أهلا بك"
+
+msgid "Live Feeds"
+msgstr "لقطات حية"
+
+msgid "My Orders"
+msgstr "طلباتي"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Invite and Earn"
+msgstr "دعوة وكسب"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "Guest"
+msgstr "زائر"
+
+msgid "App"
+msgstr "التطبيق"
+
+msgid "Fast, Simple & Delightful. All it takes is 30 seconds to Download!"
+msgstr "سريع، بسيط ومبهج. كل ما يتطلبه الأمر هو 30 ثانية لتحميل!"
+
+msgid "iOS app store"
+msgstr "دائرة الرقابة الداخلية المتجر"
+
+msgid "Android play store"
+msgstr "متجر لعب الروبوت"
+
+msgid "Scroll to Top"
+msgstr "انتقل إلى أعلى"
+
+msgid "FAQ"
+msgstr "التعليمات"
+
+msgid "Contact"
+msgstr "اتصل"
+
+msgid "Copyright policy"
+msgstr "سياسة حقوق التأليف والنشر"
+
+msgid "Terms of sales"
+msgstr "حيث المبيعات"
+
+msgid "Terms of service"
+msgstr "شروط الخدمة"
+
+msgid "Terms & condition"
+msgstr "شروط والشرط"
+
+msgid "Privacy"
+msgstr "الإجمالية"
+
+msgid "Mobile"
+msgstr "التليفون المحمول"
+
+msgid "Resources"
+msgstr "موارد"
+
+msgid "My account"
+msgstr "حسابي"
+
+msgid "My cart"
+msgstr "سلتي"
+
+msgid "Collections"
+msgstr "مجموعات"
+
+msgid "Track orders"
+msgstr "أوامر المسار"
+
+msgid "Shipping info"
+msgstr "معلومات الشحن"
+
+msgid "Interested in selling?"
+msgstr "ترغب في بيع؟"
+
+msgid "get started"
+msgstr "البدء"
+
+msgid "About us"
+msgstr "معلومات عنا"
+
+msgid "Career"
+msgstr "مهنة"
+
+msgid "Social responsibility"
+msgstr "مسؤولية اجتماعية"
+
+msgid "Business with us"
+msgstr "العمل معنا"
+
+msgid "Copyrights"
+msgstr "حقوق التأليف والنشر"
+
+msgid "All Rights Reserved"
+msgstr "كل الحقوق محفوظة"
+
+msgid "Social media"
+msgstr "وسائل الاعلام الاجتماعية"
+
+msgid "See all notifications"
+msgstr "شاهد جميع الإخطارات"
+
+msgid "No notifications"
+msgstr "لا إشعارات"
+
+msgid "sent this email to you"
+msgstr "إرسال هذه الرسالة الإلكترونية إليك"
+
+msgid "is committed to your privacy. Read more about"
+msgstr "ملتزمة خصوصيتك. إقرأ المزيد حول"
+
+msgid "privacy policy"
+msgstr "سياسة الخصوصية"
+
+msgid "terms and conditions"
+msgstr "الأحكام والشروط"
+
+msgid "Terms and Conditions"
+msgstr "الأحكام والشروط"
+
+msgid "Most Commented"
+msgstr "الأكثر تعليقا"
+
+msgid "View All"
+msgstr "عرض جميع"
+
+msgid "View all"
+msgstr "عرض جميع"
+
+msgid "Featured"
+msgstr "متميز"
+
+msgid "New Arrivals"
+msgstr "الوافدين الجدد"
+
+msgid "Popular Products"
+msgstr "المنتجات الشعبية"
+
+msgid "Top Stores"
+msgstr "أعلى المخازن"
+
+msgid "Account"
+msgstr "الحساب"
+
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+msgid "Password"
+msgstr "كلمه السر"
+
+msgid "Disputes"
+msgstr "النزاعات"
+
+msgid "Messages"
+msgstr "رسائل"
+
+msgid "My Orders"
+msgstr "طلباتي"
+
+msgid "Address Notes"
+msgstr "ملاحظات عنوان"
+
+msgid "Add Address"
+msgstr "اضف عنوان"
+
+msgid "Shop"
+msgstr "متجر"
+
+msgid "Sharing"
+msgstr "مشاركة"
+
+msgid "Credits"
+msgstr "قروض"
+
+msgid "Referrals"
+msgstr "الدعوات"
+
+msgid "Gift card"
+msgstr "كرت هدية"
+
+msgid "off Ends in"
+msgstr "قبالة ينتهي في"
+
+msgid "Quantity only"
+msgstr "الكمية فقط"
+
+msgid "available"
+msgstr "متاح"
+
+msgid "Sold Out"
+msgstr "بيعت كلها"
+
+msgid "SIZE"
+msgstr "بحجم"
+
+msgid "QUANTITY"
+msgstr "كمية"
+
+msgid "Please select the size"
+msgstr "يرجى تحديد حجم"
+
+msgid "Please select the quantity"
+msgstr "الرجاء تحديد الكمية"
+
+msgid "Add to your collection"
+msgstr "إضافة إلى مجموعتك"
+
+msgid "Share"
+msgstr "شارك"
+
+msgid "Share Discount"
+msgstr "خصم حصة"
+
+msgid "ADD TO CART"
+msgstr "أضف إلى السلة"
+
+msgid "BUY NOW"
+msgstr "اشتري الآن"
+
+msgid "CREATE GIFT"
+msgstr "كريت غيفت"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "Undo reporting"
+msgstr "التراجع عن التقارير"
+
+msgid "Report Inappropriate"
+msgstr "تقرير غير مناسب"
+
+msgid "Customer Product Selfies"
+msgstr "الصور الشخصية المنتج العملاء"
+
+msgid "No product selfies"
+msgstr "لا صور شخصية المنتج"
+
+msgid "Sold By"
+msgstr "تم بيعها من قبل"
+
+msgid "Rating"
+msgstr "تقييم"
+
+msgid "Write review"
+msgstr "أكتب مراجعة"
+
+msgid "Follow Store"
+msgstr "اتبع مخزن"
+
+msgid "Unfollow Store"
+msgstr "المتابعون مخزن"
+
+msgid "Follow"
+msgstr "إتبع"
+
+msgid "Unfollow"
+msgstr "الغاء المتابعة"
+
+msgid "Contact Seller"
+msgstr "تواصل مع البائع"
+
+msgid "Product Comments"
+msgstr "المنتج تعليقات"
+
+msgid "Write a comment"
+msgstr "أكتب تعليقا"
+
+msgid "Write a Comment"
+msgstr "أكتب تعليقا"
+
+msgid "View all"
+msgstr "عرض جميع"
+
+msgid "comments"
+msgstr "تعليقات"
+
+msgid "Comments"
+msgstr "تعليقات"
+
+msgid "Hide comments"
+msgstr "إخفاء التعليقات"
+
+msgid "There is no comment yet for this product"
+msgstr "لا يوجد تعليق حتى الان لهذا المنتج"
+
+msgid "Save comment"
+msgstr "حفظ تعليق"
+
+msgid "Please enter comment"
+msgstr "الرجاء إدخال تعليق"
+
+msgid "Edit"
+msgstr "تصحيح"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "No Products"
+msgstr "لا يوجد منتجات"
+
+msgid "More from"
+msgstr "اكثر من"
+
+msgid "Add to your Collection"
+msgstr "إضافة إلى أغانى أخرى"
+
+msgid "Create"
+msgstr "خلق"
+
+msgid "Enter list name"
+msgstr "أدخل اسم قائمة"
+
+msgid "Done"
+msgstr "فعله"
+
+msgid "WRITE A COMMENT"
+msgstr "أكتب تعليقا"
+
+msgid "SUBMIT"
+msgstr "عرض"
+
+msgid "EDIT COMMENT"
+msgstr "تعديل التعليق"
+
+msgid "Save Comment"
+msgstr "حفظ تعليق"
+
+msgid "SHARE THIS THING"
+msgstr "مشاركة هذا الشيء"
+
+msgid "By"
+msgstr "بواسطة"
+
+msgid "CONTACT SELLER"
+msgstr "تواصل مع البائع"
+
+msgid "Query about item"
+msgstr "الاستعلام عن البند"
+
+msgid "Select a Query"
+msgstr "اختر استعلام"
+
+msgid "Others"
+msgstr "الآخرين"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "SEND"
+msgstr "إرسال"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Message Sent Successfully"
+msgstr "الرسائل المرسلة بنجاح"
+
+msgid "Out of"
+msgstr "بعيدا عن المكان"
+
+msgid "Order Id"
+msgstr "رقم التعريف الخاص بالطلب"
+
+msgid "Review Title"
+msgstr "عنوان الرأي"
+
+msgid "Your Review"
+msgstr "مراجعتك"
+
+msgid "Yes"
+msgstr "نعم فعلا"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Comment , @mention, #hashtag"
+msgstr "fd"
+
+msgid "Filter"
+msgstr "منقي"
+
+msgid "Categories"
+msgstr "الاقسام"
+
+msgid "By Price"
+msgstr "حسب السعر"
+
+msgid "By Color"
+msgstr "بواسطة اللون"
+
+msgid "Sort by : Newest"
+msgstr "فرز حسب: الأحدث"
+
+msgid "Price - Low to High"
+msgstr "السعر من الارخص للاعلى"
+
+msgid "Newest"
+msgstr "الأحدث"
+
+msgid "Price - High to Low"
+msgstr "السعر - من الأعلى إلى الأقل"
+
+msgid "Add Shipping Address"
+msgstr "إضافة عنوان شحن"
+
+msgid "New Address"
+msgstr "العناوين الجديدة"
+
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+msgid "Nick Name"
+msgstr "كنية"
+
+msgid "e.g. Home, Work"
+msgstr "مثلا واجب منزلي"
+
+msgid "Address"
+msgstr "عنوان"
+
+msgid "Country"
+msgstr "بلد"
+
+msgid "Select Country"
+msgstr "حدد الدولة"
+
+msgid "State"
+msgstr "حالة"
+
+msgid "City"
+msgstr "مدينة"
+
+msgid "Zipcode"
+msgstr "الرمز البريدي"
+
+msgid "Phone No"
+msgstr "رقم الهاتف"
+
+msgid "Make this as default address"
+msgstr "جعل هذا كعنوان الافتراضي"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "CANCEL"
+msgstr "إلغاء"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "No Stores"
+msgstr "لا المخازن"
+
+msgid "Conversation with seller"
+msgstr "محادثة مع البائع"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+msgid "Delivered"
+msgstr "تم التوصيل"
+
+msgid "Type your message here"
+msgstr "اكتب رسالتك هنا"
+
+msgid "Processing"
+msgstr "معالجة"
+
+msgid "Shipped"
+msgstr "شحنها"
+
+msgid "Delivered"
+msgstr "تم التوصيل"
+
+msgid "Claimed"
+msgstr "ادعى"
+
+msgid "Cancelled"
+msgstr "تم الالغاء"
+
+msgid "Returned"
+msgstr "عاد"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "No Conversation Found"
+msgstr "لا توجد المحادثة"
+
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+msgid "Back to My Orders"
+msgstr "العودة إلى بلدي أوامر"
+
+msgid "Order Details"
+msgstr "تفاصيل الطلب"
+
+msgid "Tracking Details Not yet updated"
+msgstr "تفاصيل تتبع لم يتم تحديثه بعد"
+
+msgid "Shipment Date"
+msgstr "تاريخ الإرسال"
+
+msgid "Shipping Method"
+msgstr "طريقة الشحن"
+
+msgid "Tracking Id"
+msgstr "تتبع رقم"
+
+msgid "Additional Notes"
+msgstr "ملاحظات إضافية"
+
+msgid "Order Number"
+msgstr "رقم الأمر"
+
+msgid "Seller"
+msgstr "تاجر"
+
+msgid "Order Date"
+msgstr "تاريخ الطلب"
+
+msgid "Deliver Date"
+msgstr "تقديم التاريخ"
+
+msgid "Expected Delivery Date"
+msgstr "تاريخ التسليم المتوقع"
+
+msgid "Amount Paid"
+msgstr "المبلغ المدفوع"
+
+msgid "Payment Method"
+msgstr "طريقة الدفع او السداد"
+
+msgid "Add selfies"
+msgstr "إضافة صور شخصية"
+
+msgid "Item Total"
+msgstr "مجموع الاشياء"
+
+msgid "Shipping Fee"
+msgstr "رسوم الشحن"
+
+msgid "Gift card discount"
+msgstr "خصم بطاقة هدية"
+
+msgid "Coupon Discount"
+msgstr "قسيمة الخصم"
+
+msgid "User Credits"
+msgstr "قروض العضو"
+
+msgid "Tax"
+msgstr "ضريبة"
+
+msgid "Order Total"
+msgstr "الطلب الكلي"
+
+msgid "Add your Selfies"
+msgstr "إضافة الصور الشخصية الخاصة بك"
+
+msgid "Upload"
+msgstr "تحميل"
+
+msgid "Size"
+msgstr "بحجم"
+
+msgid "Claim Order"
+msgstr "المطالبة بالدفع"
+
+msgid "Enter the Courier"
+msgstr "أدخل الساعي"
+
+msgid "Shipping Service"
+msgstr "خدمة الشحن"
+
+msgid "Confirm Claim"
+msgstr "تأكيد المطالبة"
+
+msgid "Gather your friends and give amazing gifts from Fantacy to people you love."
+msgstr "جمع الأصدقاء وتقديم الهدايا مدهشة من Fantacy إلى الناس تحب."
+
+msgid "Create New"
+msgstr "خلق جديد إبداع جديد"
+
+msgid "Gift Card List"
+msgstr "هدية قائمة بطاقة"
+
+msgid "Gift card is the Feature which is used for the User, User can buy send receive the gift card to the friends, And the User can receive the Gift card code and use for the purchase"
+msgstr "بطاقة الهدية هي ميزة الذي يستخدم للمستخدم، يمكن للمستخدم شراء يرسل استلام بطاقة هدية للأصدقاء، ويمكن للمستخدم الحصول على رمز بطاقة هدية وتستخدم لشراء"
+
+msgid "Value"
+msgstr "القيمة"
+
+msgid "Select Amount"
+msgstr "حدد المبلغ"
+
+msgid "Please select the gift amount"
+msgstr "الرجاء تحديد كمية هدية"
+
+msgid "Recipient"
+msgstr "مستلم"
+
+msgid "Recipient name"
+msgstr "اسم المستلم"
+
+msgid "Please Enter the Valid Recipient's Email"
+msgstr "الرجاء أدخل البريد الالكتروني في صالح المستلم"
+
+msgid "Personal Message"
+msgstr "رسالة شخصية"
+
+msgid "Type your message"
+msgstr "اكتب رسالتك"
+
+msgid "Please Enter Message"
+msgstr "الرجاء إدخال رسالة"
+
+msgid "Pay"
+msgstr "دفع"
+
+msgid "No Gift card list"
+msgstr "لا توجد قائمة بطاقة هدية"
+
+msgid "Sent"
+msgstr "أرسلت"
+
+msgid "Received"
+msgstr "تم الاستلام"
+
+msgid "Receiver"
+msgstr "المتلقي"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Total Amount"
+msgstr "المبلغ الإجمالي"
+
+msgid "Available Amount"
+msgstr "المبلغ المتاح"
+
+msgid "Key"
+msgstr "مفتاح"
+
+msgid "Removed User"
+msgstr "العضو إزالتها"
+
+msgid "No gift cards sent"
+msgstr "لا بطاقات هدية أرسلت"
+
+msgid "No gift cards received"
+msgstr "لا بطاقات تلقى هدية"
+
+msgid "Start a Group Gift Today"
+msgstr "بدء المجموعة هدية اليوم"
+
+msgid "Gather your friends and give amazing gifts to the people you love"
+msgstr "جمع الأصدقاء وتقديم الهدايا مذهلة على الناس تحب"
+
+msgid "Create New Gift"
+msgstr "إنشاء هدية جديدة"
+
+msgid "Choose recipient"
+msgstr "اختيار المتلقي"
+
+msgid "Personalize"
+msgstr "تخصيص"
+
+msgid "Ask for contributions"
+msgstr "طلب التبرعات"
+
+msgid "Enter User Name or Email Address"
+msgstr "أدخل اسم المستخدم أو عنوان البريد الإلكتروني"
+
+msgid "Recipient name must be atleast 3 characters"
+msgstr "يجب أن يكون اسم المستلم أتلست 3 أحرف"
+
+msgid "Full name must be atleast 3 characters"
+msgstr "يجب أن يكون الاسم الكامل أتلست 3 أحرف"
+
+msgid "Enter Your Full Name"
+msgstr "أدخل اسمك الكامل"
+
+msgid "Address"
+msgstr "عنوان"
+
+msgid "Enter Your Street Name"
+msgstr "أدخل اسم الشارع"
+
+msgid "Address1 must be atleast 3 characters"
+msgstr "يجب أن يكون Address1 أتلست 3 أحرف"
+
+msgid "Address Line"
+msgstr "خط عنوان"
+
+msgid "Address2 must be atleast 3 characters"
+msgstr "يجب أن يكون Address2 أتلست 3 أحرف"
+
+msgid "Product can be shipped only to the listed countries"
+msgstr "ويمكن شحن المنتج فقط إلى البلدان المذكورة"
+
+msgid "Enter Your State"
+msgstr "أدخل دولتك"
+
+msgid "State must be atleast 2 characters"
+msgstr "يجب أن تكون الدولة أتلست الأحرف 2"
+
+msgid "Enter Your City"
+msgstr "أدخل مدينتك"
+
+msgid "City must be atleast 2 characters"
+msgstr "يجب أن تكون مدينة أتلست الأحرف 2"
+
+msgid "Zip Code"
+msgstr "الرمز البريدي"
+
+msgid "Enter Your zip code"
+msgstr "أدخل رمزك البريدي"
+
+msgid "Enter the Zipcode"
+msgstr "أدخل الرمز البريدي"
+
+msgid "Mobile Number"
+msgstr "رقم الهاتف المحمول"
+
+msgid "Enter Your mobile number"
+msgstr "أدخل رقم هاتفك المحمول"
+
+msgid "Enter the Telephone number"
+msgstr "أدخل رقم الهاتف"
+
+msgid "Continue"
+msgstr "استمر"
+
+msgid "Gift Title"
+msgstr "هدية عنوان"
+
+msgid "Ex: Jenny\'s Birthday Gift"
+msgstr "مثال: جيني \ 'ق هدية عيد ميلاد"
+
+msgid "Title must be atleast 3 characters"
+msgstr "يجب أن يكون عنوان أتلست 3 أحرف"
+
+msgid "Ex: Lets celebrate Jenny's bdy and give her amazing gift!"
+msgstr "مثلا: دعونا نحتفل BDY جيني ويعطيها هدية مذهلة!"
+
+msgid "Use your group gift description to share more about who you are raising contributions about and why"
+msgstr "استخدام مجموعة وصفك هدية للمشاركة المزيد عن الذين كنت تربية المساهمات حول ولماذا"
+
+msgid "Description must be atleast 10 characters"
+msgstr "يجب أن يكون الوصف أتلست 10 حرفا"
+
+msgid "Note"
+msgstr "ملحوظة"
+
+msgid "Enter note"
+msgstr "أدخل ملاحظة"
+
+msgid "You can leave a personlized not for merchant here"
+msgstr "يمكنك ترك personlized ليس للتاجر هنا"
+
+msgid "Item Total"
+msgstr "مجموع الاشياء"
+
+msgid "Shipping"
+msgstr "الشحن"
+
+msgid "Tax"
+msgstr "ضريبة"
+
+msgid "Goal Total"
+msgstr "الهدف إجمالي"
+
+msgid "Go Back"
+msgstr "عُد"
+
+msgid "Ask Your friends to Contribute"
+msgstr "أطلب من أصدقائك أن المساهمة"
+
+msgid "Easy to Contribute"
+msgstr "من السهل أن المساهمة"
+
+msgid "Group Gift Summary"
+msgstr "مجموعة هدية ملخص"
+
+msgid "Gift to"
+msgstr "هدية ل"
+
+msgid "Group Gift Total"
+msgstr "مجموعة هدية إجمالي"
+
+msgid "This group gift is valid for"
+msgstr "هذه الهدية مجموعة صالحة ل"
+
+msgid "days"
+msgstr "أيام"
+
+msgid "Select The Country"
+msgstr "اختر البلد"
+
+msgid "Credits"
+msgstr "قروض"
+
+msgid "Available Credits"
+msgstr "قروض المتاحة"
+
+msgid "Credits can be applied on your purchases during checkout"
+msgstr "يمكن تطبيق الائتمانات على مشترياتك خلال الخروج"
+
+msgid "Earn more credits by"
+msgstr "كسب المزيد من الاعتمادات من قبل"
+
+msgid "Invite Friends"
+msgstr "ادعو أصدقاء"
+
+msgid "No History"
+msgstr "لا التاريخ"
+
+msgid "Credit History"
+msgstr "تاريخ الرصيد"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Amount"
+msgstr "كمية"
+
+msgid "From Group Gift"
+msgstr "من المجموعة هدية"
+
+msgid "Your Credit amount is empty"
+msgstr "مبلغ الائتمان الخاصة بك فارغ"
+
+msgid "Earn more credits by"
+msgstr "كسب المزيد من الاعتمادات من قبل"
+
+msgid "Today\'s Deal"
+msgstr "صفقة اليوم \ 'ق"
+
+msgid "VIEW ALL"
+msgstr "VIEW ALL"
+
+msgid "Most Commented Products"
+msgstr "المنتجات الأكثر تعليقا"
+
+msgid "Featured Products"
+msgstr "منتجات مميزة"
+
+msgid "Dispute Buyer"
+msgstr "النزاع المشتري"
+
+msgid "Back to disputes"
+msgstr "العودة إلى النزاعات"
+
+msgid "Dispute ID"
+msgstr "ID النزاع"
+
+msgid "Responded"
+msgstr "استجاب"
+
+msgid "Reply"
+msgstr "الرد"
+
+msgid "Buyer"
+msgstr "مشتر"
+
+msgid "Seller"
+msgstr "تاجر"
+
+msgid "Invoice"
+msgstr "فاتورة"
+
+msgid "Order ID"
+msgstr "رقم التعريف الخاص بالطلب"
+
+msgid "Purchase Amount"
+msgstr "مبلغ الشراء"
+
+msgid "Resolved"
+msgstr "حل"
+
+msgid "Negotiation"
+msgstr "تفاوض"
+
+msgid "Download File"
+msgstr "تحميل الملف"
+
+msgid "Click to choose file"
+msgstr "انقر لاختيار ملف"
+
+msgid "Dispute Management"
+msgstr "إدارة النزاع"
+
+msgid "No Dispute"
+msgstr "لا المنازعات"
+
+msgid "Active Dispute"
+msgstr "المنازعات النشطة"
+
+msgid "Closed Dispute"
+msgstr "المنازعات مغلقة"
+
+msgid "Dispute On"
+msgstr "نزاع على"
+
+msgid "Other Party"
+msgstr "حفلة اخرى"
+
+msgid "Dispute Amount"
+msgstr "المبلغ النزاع"
+
+msgid "View"
+msgstr "رأي"
+
+msgid "No active disputes"
+msgstr "أي خلافات النشطة"
+
+msgid "No closed disputes"
+msgstr "أي خلافات مغلقة"
+
+msgid "Forgot Password"
+msgstr "هل نسيت كلمة المرور"
+
+msgid "Forgot your password? Enter your email address to change it"
+msgstr "نسيت رقمك السري؟ أدخل عنوان بريدك الإلكتروني لتغييره"
+
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "Enter your email address"
+msgstr "أدخل عنوان بريدك الالكتروني"
+
+msgid "Ordered On"
+msgstr "أمر على"
+
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+msgid "Your order has been placed"
+msgstr "وقد وضعت طلبك"
+
+msgid "Cancel Order"
+msgstr "الغاء الطلب"
+
+msgid "Return"
+msgstr "إرجاع"
+
+msgid "Mark Received"
+msgstr "تلقيت الأقسام"
+
+msgid "Claim"
+msgstr "يطالب"
+
+msgid "View Conversation"
+msgstr "مشاهدة المحادثة"
+
+msgid "Contact Seller"
+msgstr "تواصل مع البائع"
+
+msgid "View Disputes"
+msgstr "عرض المنازعات"
+
+msgid "Create Disputes"
+msgstr "إنشاء المنازعات"
+
+msgid "Commented On"
+msgstr "علق على"
+
+msgid "Sub"
+msgstr "الفرعية"
+
+msgid "Item"
+msgstr "بند"
+
+msgid "day"
+msgstr "يوم"
+
+msgid "hours"
+msgstr "ساعات"
+
+msgid "hour"
+msgstr "ساعة"
+
+msgid "minutes"
+msgstr "الدقائق"
+
+msgid "minute"
+msgstr "اللحظة"
+
+msgid "seconds"
+msgstr "ثواني"
+
+msgid "ago"
+msgstr "منذ"
+
+msgid "Group Gift History"
+msgstr "تاريخ المجموعة هدية"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Contribution"
+msgstr "إسهام"
+
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "EXPIRED"
+msgstr "منتهية الصلاحية"
+
+msgid "COMPLETED"
+msgstr "منجز"
+
+msgid "ACTIVE"
+msgstr "نشيط"
+
+msgid "You haven’t created Group Gift yet"
+msgstr "لم تقم بإنشاء مجموعة هدية بعد"
+
+msgid "Last Contributions"
+msgstr "مشاركة الاشتراكات"
+
+msgid "No Recent Activity"
+msgstr "لا آخر الزوار"
+
+msgid "Contributed Amount"
+msgstr "المبلغ ساهمت"
+
+msgid "People"
+msgstr "اشخاص"
+
+msgid "Creator"
+msgstr "المنشئ"
+
+msgid "Delivery Address"
+msgstr "عنوان التسليم"
+
+msgid "Share to Your Friends"
+msgstr "حصة لأصدقائك"
+
+msgid "Contributions"
+msgstr "مساهمات"
+
+msgid "Pending Amount"
+msgstr "المبلغ المعلق"
+
+msgid "Expired"
+msgstr "منتهية الصلاحية"
+
+msgid "Completed"
+msgstr "منجز"
+
+msgid "Active"
+msgstr "نشيط"
+
+msgid "Total Contributors"
+msgstr "مجموع المساهمين"
+
+msgid "Minimum contribution"
+msgstr "الحد الأدنى مساهمة"
+
+msgid "Enter Amount"
+msgstr "أدخل المبلغ"
+
+msgid "Contribute Now"
+msgstr "تساهم الآن"
+
+msgid "This Group Must recieve all contributions by"
+msgstr "يجب أن هذا الفريق تلقي جميع التبرعات التي"
+
+msgid "to be successful"
+msgstr "لتكون ناجحا"
+
+msgid "Unsuccessful gift will be refunded"
+msgstr "وسوف يكون ردها هدية فاشلة"
+
+msgid "How it Works"
+msgstr "كيف تعمل"
+
+msgid "Create a easy and fun way to give gifts to your friends"
+msgstr "خلق وسيلة سهلة وممتعة لتقديم الهدايا لأصدقائك"
+
+msgid "Contribute pick any item, Contribute any amount. You are only charged if group gift was successful"
+msgstr "المساهمة اختيار أي بند، المساهمة بأي مبلغ. أنت متهم إلا إذا كانت هدية مجموعة ناجحة"
+
+msgid "Invite your friends to contribute. Once you meet your target,"
+msgstr "دعوة أصدقائك على المساهمة. بمجرد تلبية الهدف الخاص بك،"
+
+msgid "will take care of rest"
+msgstr "سوف تأخذ الرعاية من بقية"
+
+msgid "Start Shopping"
+msgstr "بداية التسوق"
+
+msgid "Select Gift"
+msgstr "اختر هدية"
+
+msgid "Create Group Gift"
+msgstr "إنشاء مجموعة هدية"
+
+msgid "Invite Your Friends"
+msgstr "اعزم أصحابك"
+
+msgid "Reach Target"
+msgstr "الوصول إلى الهدف"
+
+msgid "Result"
+msgstr "نتيجة"
+
+msgid "Commented On"
+msgstr "علق على"
+
+msgid "No comments found"
+msgstr "لا توجد تعليقات"
+
+msgid "Popular Hashtags"
+msgstr "علامات تصنيف شعبية"
+
+msgid "Who to follow"
+msgstr "الذي لمتابعة"
+
+msgid "No more suggestions"
+msgstr "لا مزيد من الاقتراحات"
+
+msgid "products"
+msgstr "منتجات"
+
+msgid "PRODUCTS"
+msgstr "منتجات"
+
+msgid "Invite Friends to Join in "
+msgstr "دعوة الأصدقاء للانضمام في"
+
+msgid "Invite Your Friends and Earn Credits When They Join"
+msgstr "دعوة أصدقائك وكسب الاعتمادات عند التحاقهم"
+
+msgid "Social Network"
+msgstr "شبكة اجتماعية"
+
+msgid "Invite Friends to "
+msgstr "دعوة الأصدقاء ل"
+
+msgid " from Your Social Network"
+msgstr " من الشبكة الاجتماعية الخاصة بك"
+
+msgid "Facebook"
+msgstr "فيس بوك"
+
+msgid "Twitter"
+msgstr "تغريد"
+
+msgid "Gmail"
+msgstr "جوجل"
+
+msgid "Google+"
+msgstr "في + Google"
+
+msgid "We won\t share your contacts with anybody without your consent""
+msgstr "فزنا \ ر مشاركة جهات الاتصال الخاصة بك مع أي شخص دون موافقتك ""
+
+msgid "Referral Link"
+msgstr "رابط الإحالة"
+
+msgid "Use this link to share on Twitter, Facebook or on an Email"
+msgstr "استخدام هذا الرابط لمشاركة على تويتر، الفيسبوك أو على البريد الالكتروني"
+
+msgid "Tip!"
+msgstr "تلميح!"
+
+msgid "Earn more credits by sharing your link with friends on social network"
+msgstr "كسب المزيد من الاعتمادات من خلال تبادل وصلتك مع الأصدقاء على الشبكة الاجتماعية"
+
+msgid "Invite via Email"
+msgstr "دعوة عبر البريد الإلكتروني"
+
+msgid "Invite your friends to "
+msgstr "دعوة أصدقائك لل"
+
+msgid " via email"
+msgstr " عبر البريد الالكتروني"
+
+msgid "Enter email address"
+msgstr "أدخل عنوان البريد الالكتروني"
+
+msgid "Enter your Message"
+msgstr "أدخل رسالتك"
+
+msgid "Send Invites"
+msgstr "ارسل دعوات"
+
+msgid "Enter valid email"
+msgstr "أدخل بريد إلكتروني صحيح"
+
+msgid "Bonus!"
+msgstr "علاوة!"
+
+msgid "You will be rewarded with "
+msgstr "سوف يكافأ مع"
+
+msgid " if your friend signs up and makes a purchase within 60 days"
+msgstr " إذا صديقك يوقع صعودا ويجعل الشراء في غضون 60 يوما"
+
+msgid "Login to"
+msgstr "تسجيل الدخول إلى"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Enter your password"
+msgstr "ادخل رقمك السري"
+
+msgid "Remember me"
+msgstr "تذكرنى"
+
+msgid "OR"
+msgstr "أو"
+
+msgid "New to"
+msgstr "جديدة ل"
+
+msgid "Sign up now"
+msgstr "أفتح حساب الأن"
+
+msgid "No Conversations"
+msgstr "لا محادثات"
+
+msgid "Contact Seller Conversations"
+msgstr "المحادثات اتصال البائع"
+
+msgid "Message box empty"
+msgstr "مربع رسالة فارغة"
+
+msgid "Email Settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+msgid "When someone follows you"
+msgstr "عندما يقوم شخص ما يلي لك"
+
+msgid "When someone comments on a thing you added"
+msgstr "عندما يعلق أحدهم على شيء قمت بإضافتها"
+
+msgid "Web and push settings"
+msgstr "إعدادات الإنترنت ودفع"
+
+msgid "Activity that involves you"
+msgstr "النشاط الذي ينطوي لك"
+
+msgid "When someone mentions you"
+msgstr "عندما يقوم شخص ما يذكر لك"
+
+msgid "When someone"
+msgstr "عندما يقوم شخص ما"
+
+msgid "one of your things"
+msgstr "واحدة من الأشياء الخاصة بك"
+
+msgid "When someone comments on a thing you"
+msgstr "عندما يعلق أحدهم على شيء"
+
+msgid "Store & Friends activity"
+msgstr "البقالة والأصدقاء النشاط"
+
+msgid "When product Added by followed Store or profile"
+msgstr "عندما أضيف المنتج من قبل مخزن المتبع أو الشخصية"
+
+msgid "When a friend posts a comment"
+msgstr "عندما صديق المشاركات تعليق"
+
+msgid "Updates"
+msgstr "التحديثات"
+
+msgid "Updates from"
+msgstr "من تحديثات"
+
+msgid "Send news about"
+msgstr "إرسال الأخبار عن"
+
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+msgid "Existing Password"
+msgstr "كلمة السر الموجودة حاليا"
+
+msgid "New Password"
+msgstr "كلمة السر الجديدة"
+
+msgid "New password at least 6 characters"
+msgstr "كلمة المرور الجديدة لا يقل عن 6 أحرف"
+
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+msgid "Find New People"
+msgstr "البحث الشعب الجديد"
+
+msgid "Follow People to discover new things"
+msgstr "اتبع الناس لاكتشاف أشياء جديدة"
+
+msgid "Please enter value to search"
+msgstr "الرجاء إدخال قيمة للبحث"
+
+msgid "No People"
+msgstr "لا الناس"
+
+msgid "VIEW ALL Peoples"
+msgstr "عرض كل الشعوب"
+
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+msgid "View Profile"
+msgstr "عرض الصفحة الشخصية"
+
+msgid "Photo"
+msgstr "صورة فوتوغرافية"
+
+msgid "Your real name, so your friends can find you"
+msgstr "اسمك الحقيقي، لذلك أصدقائك يمكن أن تجد لك"
+
+msgid "Website"
+msgstr "موقع الكتروني"
+
+msgid "Location"
+msgstr "موقعك"
+
+msgid "e.g. New York, NY"
+msgstr "مثلا نيويورك، NY"
+
+msgid "Birthday"
+msgstr "عيد الميلاد"
+
+msgid "Year"
+msgstr "عام"
+
+msgid "Month"
+msgstr "شهر"
+
+msgid "Day"
+msgstr "يوم"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Write somthing about yourself"
+msgstr "إرسال سومثينغ عن نفسك"
+
+msgid "characters left"
+msgstr "شخصيات تركت"
+
+msgid "Email will not be publicly displayed"
+msgstr "البريد الالكتروني لن يتم عرضه علنا"
+
+msgid "Age"
+msgstr "عمر"
+
+msgid "Gender"
+msgstr "جنس"
+
+msgid "Male"
+msgstr "الذكر"
+
+msgid "Female"
+msgstr "إناثا"
+
+msgid "Unspecified"
+msgstr "غير محدد"
+
+msgid "Activate My Account"
+msgstr "تفعيل حسابي"
+
+msgid "Deactivate My Account"
+msgstr "إلغاء تفعيل حسابي"
+
+msgid "No Order"
+msgstr "لا طلب"
+
+msgid "Recent Orders"
+msgstr "الطلبيات الأخيرة"
+
+msgid "No Purchase Found"
+msgstr "لا توجد شراء"
+
+msgid "Create a Dispute"
+msgstr "إنشاء المنازعات"
+
+msgid "Choose One"
+msgstr "اختيار واحد"
+
+msgid "Orders"
+msgstr "أوامر"
+
+msgid "Items"
+msgstr "العناصر"
+
+msgid "Create Dispute"
+msgstr "إنشاء المنازعات"
+
+msgid "Referrals Status"
+msgstr "الدعوات الحالة"
+
+msgid "No Referral"
+msgstr "لا الإحالة"
+
+msgid "Joined"
+msgstr "انضم"
+
+msgid "Invited"
+msgstr "دعوة"
+
+msgid "Invite More Friends"
+msgstr "ادعو المزيد من الاصدقاء"
+
+msgid "You haven\'t invited anyone yet"
+msgstr "كنت ملاذ \ 'ر دعوة أي شخص حتى الآن"
+
+msgid "Things"
+msgstr "أشياء"
+
+msgid "No Peoples"
+msgstr "لا الشعوب"
+
+msgid "Return Order"
+msgstr "عودة بالدفع"
+
+msgid "Reason For Return"
+msgstr "السبب في عودة"
+
+msgid "Confirm Return"
+msgstr "تأكيد العودة"
+
+msgid "No Address"
+msgstr "لا عنوان"
+
+msgid "Your Saved Shipping Addresses"
+msgstr "المحفوظة الخاصة بك عناوين الشحن"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Default"
+msgstr "افتراضي"
+
+msgid "Change"
+msgstr "يتغيرون"
+
+msgid "Join"
+msgstr "انضم"
+
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+msgid "Enter your User Name"
+msgstr "أدخل اسم المستخدم الخاص بك"
+
+msgid "By clicking the \Join""
+msgstr "بالضغط على \ تاريخ ""
+
+msgid "Read other answers"
+msgstr "اقرأ الإجابات الأخرى"
+
+
+msgid "you are agree that you have read and agree the"
+msgstr "كنت توافق على أنك قد قرأت ووافقت على"
+
+msgid "\Terms and Conditions\"""
+msgstr "\الأحكام والشروط\"""
+
+msgid "or use your mail"
+msgstr "أو استخدام البريد الخاص بك"
+
+msgid "Already a member"
+msgstr "عضوا فعلا"
+
+msgid "Get started"
+msgstr "البدء"
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "Can\'t read? Reload"
+msgstr "يمكن \ 'ر تقرأ؟ إعادة تحميل"
+
+msgid "<p>Enter security code shown above:</p>"
+msgstr "<p> وأدخل رمز الأمن هو مبين أعلاه: </ P>"
+
+msgid "Enter security code shown above:"
+msgstr "أدخل رمز الحماية هو مبين أعلاه:"
+
+msgid "Site is under Maintenance"
+msgstr "الموقع تحت الصيانة"
+
+msgid "Please come back in few minutes"
+msgstr "يرجى العودة في دقائق قليلة"
+
+msgid "Check Now"
+msgstr "تأكد الان"
+
+msgid "All Products"
+msgstr "جميع المنتجات"
+
+msgid "News"
+msgstr "أخبار"
+
+msgid "Reviews"
+msgstr "التعليقات"
+
+msgid "Followers"
+msgstr "متابعون"
+
+msgid "Followers will get push notifications and the message will be update in their notification alert"
+msgstr "سوف أتباع الحصول على إشعارات الدفع والرسالة ستكون والتحديث في حالة تأهب إشعارهم"
+
+msgid "All Reviews"
+msgstr "كل التعليقات"
+
+msgid "Positive"
+msgstr "إيجابي"
+
+msgid "Based on"
+msgstr "مرتكز على"
+
+msgid "ratings"
+msgstr "تصنيفات"
+
+msgid "No Reviews"
+msgstr "لا يوجد تعليقات"
+
+msgid "No Followers"
+msgstr "لا المتابعون"
+
+msgid "Collection"
+msgstr "مجموعة"
+
+msgid "Favourite Store"
+msgstr "المتجر المفضل"
+
+msgid "Following"
+msgstr "التالية"
+
+msgid "as you"
+msgstr "مثلك"
+
+msgid "always"
+msgstr "دائما"
+
+msgid "My Collections"
+msgstr "مجموعتي"
+
+msgid "No List"
+msgstr "لا قائمة"
+
+msgid "FAVOURITE STORE"
+msgstr "تخزين المفضلة"
+
+msgid "No Following"
+msgstr "لا بعد"
+
+msgid "WELCOME TO"
+msgstr "مرحبا بك في"
+
+msgid "Thanks for activating your account. Exciting shopping experience is waiting for you."
+msgstr "شكرا لتفعيل حسابك. تجربة تسوق مثيرة هو في انتظاركم."
+
+msgid "SKIP"
+msgstr "تخطى"
+
+msgid "NEXT"
+msgstr "التالى"
+
+msgid "FOLLOW"
+msgstr "إتبع"
+
+msgid "PEOPLE"
+msgstr "اشخاص"
+
+msgid "Follow a few top contributors to discover great things."
+msgstr "اتبع عدد قليل من كبار المساهمين في اكتشاف أشياء عظيمة."
+
+msgid "STORES"
+msgstr "STORES"
+
+msgid "WELL DONE"
+msgstr "أحسنت"
+
+msgid "Happy Shopping"
+msgstr "تسوق سعيد"
+
+msgid "Message Detail"
+msgstr "رسالة التفاصيل"
+
+msgid "Back to messages"
+msgstr "العودة إلى الرسائل"
+
+msgid "Please select the recipient to gift"
+msgstr "الرجاء تحديد المتلقي هدية"
+
+msgid "Please enter your message"
+msgstr "أدرج رسالتك من فضلك"
+
+msgid "Account Info"
+msgstr "معلومات الحساب"
+
+msgid "for iPhone & iPad"
+msgstr "لفون و آي باد"
+
+msgid "for Android"
+msgstr "لأجهزة الأندرويد"
+
+msgid "Mobile No"
+msgstr "رقم المحمول"
+
+msgid "Contact Address"
+msgstr "عنوان الإتصال"
+
+msgid "Your Name"
+msgstr "اسمك"
+
+msgid "Your Email Address"
+msgstr "عنوان بريدك  الإلكتروني"
+
+msgid "Select a topic"
+msgstr "اختر عنوانا"
+
+msgid "User account"
+msgstr "حساب المستخدم"
+
+msgid "Forgot my password"
+msgstr "نسيت كلمة المرور"
+
+msgid "Order Inquiry"
+msgstr "أجل رسالتك"
+
+msgid "Payment Issues"
+msgstr "قضايا الدفع"
+
+msgid "Returns and Refunds"
+msgstr "الأستبدال والترجيع"
+
+msgid "Site Features"
+msgstr "ميزات الموقع"
+
+msgid "Mobile Features"
+msgstr "الميزات المحمول"
+
+msgid "Partnership Opportunities"
+msgstr "فرص الشراكة"
+
+msgid "Copyright Issue"
+msgstr "العدد حقوق التأليف والنشر"
+
+msgid "Order Number"
+msgstr "رقم الأمر"
+
+msgid "User Account"
+msgstr "حساب المستخدم"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Maximum 250 characters only"
+msgstr "أقصى 250 حرفا فقط"
+
+msgid "Submit"
+msgstr "عرض"
+
+msgid "Business"
+msgstr "اعمال"
+
+msgid "Add to"
+msgstr "اضف إليه"
+
+msgid "Be a part of the"
+msgstr "كن جزءا من"
+
+msgid "community and add your favorite things."
+msgstr "المجتمع وإضافة أشياء المفضلة لديك."
+
+msgid "Button"
+msgstr "زر"
+
+msgid "Drag this"
+msgstr "اسحب هذا"
+
+msgid "button"
+msgstr "زر"
+
+msgid "into your Bookmarks Bar"
+msgstr "في شريط الإشارات المرجعية الخاصة بك"
+
+msgid "The bookmarklet lets you save things and products from any site to your own "
+msgstr "بووكمركلت تمكنك من حفظ الأشياء والمنتجات من أي موقع لوحدك"
+
+msgid " catalog."
+msgstr " فهرس."
+
+msgid "To install the "
+msgstr "لتثبيت"
+
+msgid " bookmarklet in Chrome, follow these steps:"
+msgstr " بووكمركلت في كروم، اتبع الخطوات التالية:"
+
+msgid " bookmarklet in Firefox, follow these steps:"
+msgstr " بووكمركلت في فايرفوكس، اتبع الخطوات التالية:"
+
+msgid "Drag bookmarklet"
+msgstr "اسحب بووكمركلت"
+
+msgid "Drag the blue"
+msgstr "اسحب الأزرق"
+
+msgid "button above to your Bookmarks bar."
+msgstr "زر فوق لشريط الإشارات الخاصة بك."
+
+msgid "You’re finished"
+msgstr "الانتهاء"
+
+msgid "When you are browsing a webpage, click"
+msgstr "عند تصفح صفحة ويب، انقر فوق"
+
+msgid "to add things to your personal catalog."
+msgstr "لإضافة أشياء إلى الكتالوج الشخصية."
+
+msgid "Some one commented on your product - Product ID"
+msgstr "بعض واحد علق على المنتج الخاص بك - معرف المنتج"
+
+msgid "There is a user commented on your product"
+msgstr "هناك مستخدم علق على المنتج الخاص بك"
+
+msgid "Hello"
+msgstr "مرحبا"
+
+msgid "Link to your product"
+msgstr "رابط لمنتجك"
+
+msgid "Regards"
+msgstr "مع تحياتي"
+
+msgid "Comment"
+msgstr "تعليق"
+
+msgid "mention"
+msgstr "أشير"
+
+msgid "hashtag"
+msgstr "رابطة هاشتاق"
+
+msgid "Team"
+msgstr "الفريق"
+
+msgid "You have a message from"
+msgstr "لديك رسالة من"
+
+msgid "has sent message to you."
+msgstr "وقد أرسلت رسالة لك."
+
+msgid "Dispute has been successfully initiated - Order ID is"
+msgstr "وقد بدأ النزاع بنجاح - ID النظام هو"
+
+msgid "This email is to acknowledge receipt of your dispute raised on your recent order"
+msgstr "هذا البريد الإلكتروني هو باستلام النزاع الخاص أثار على طلبك الأخير"
+
+msgid "from the seller"
+msgstr "من البائع"
+
+msgid "The same notification has been sent to the seller email address and we are expecting the favorable response from the seller"
+msgstr "تم إرسال إخطار نفسه إلى عنوان البريد الإلكتروني البائع ونحن نتوقع استجابة ايجابية من البائع"
+
+msgid "Your dispute reference number is"
+msgstr "الرقم المرجعي الخاص بك هو النزاع"
+
+msgid "We recommend you to explain the issues of your order clearly to the seller to take necessary action against this dispute"
+msgstr "ونحن ننصح لشرح القضايا طلبك بوضوح إلى البائع لاتخاذ الإجراءات اللازمة ضد هذا النزاع"
+
+msgid "The final decision will be made by the administrators of"
+msgstr "سوف يتم اتخاذ القرار النهائي من قبل مسؤولي ل"
+
+msgid "based on the communication between the buyer and seller. The final decision made by"
+msgstr "على أساس التواصل بين البائع والمشتري. القرار النهائي الذي أدلى به"
+
+msgid "can not be changed"
+msgstr "لا يمكن تغييرها"
+
+msgid "You can keep tracking the status of the disputes in your profile settings in the website. We will also keep you notified to your email address if there is any response from the seller"
+msgstr "يمكنك الحفاظ على تتبع حالة النزاعات في إعدادات ملفك الشخصي في الموقع. كما سنحفظ لكم أخطر إلى عنوان البريد الإلكتروني الخاص بك إذا كان هناك أي رد من البائع"
+
+msgid "NOTE: If you fail to respond on any latest reply on any disputes in a certain time, there is a possibility of closing the dispute and resulting the dispute in favor of the other party. So, we recommend to act immediately on disputes"
+msgstr "ملاحظة: إذا كنت لا تستجيب لأي أحدث الرد على أي خلافات في فترة زمنية معينة، هناك امكانية اغلاق النزاع وما ينجم عنها من النزاع لصالح الطرف الآخر. لذلك، فإننا نوصي إلى العمل فورا على الخلافات"
+
+msgid "Thanks for your co-operations"
+msgstr "شكرا لزملائك في عمليات"
+
+msgid "There is a dispute in your order ID"
+msgstr "كان هناك خلاف في ID طلبك"
+
+msgid "from"
+msgstr "من عند"
+
+msgid "This email is to notify that there is a dispute raised on your order"
+msgstr "هذا البريد الإلكتروني هو إعلام أن هناك خلاف الذي أثير حول طلبك"
+
+msgid "We would like you to take this dispute on high priority and start communicating with the buyer to get this problem sorted out as soon as possible"
+msgstr "نود منك أن تأخذ هذا الخلاف على أولوية عالية وبدء التواصل مع المشتري للحصول على هذه المشكلة تسويتها في أقرب وقت ممكن"
+
+msgid "by"
+msgstr "بواسطة"
+
+msgid "based on the communication between the buyer and seller and the same cannot can not be changed"
+msgstr "على أساس التواصل بين البائع والمشتري ونفس لا يمكن لا يمكن تغييرها"
+
+msgid "You can keep tracking the status of the disputes in your profile settings in the website. We will also keep you notified to your email address if there is any response from the buyer"
+msgstr "يمكنك الحفاظ على تتبع حالة النزاعات في إعدادات ملفك الشخصي في الموقع. كما سنحفظ لكم أخطر إلى عنوان البريد الإلكتروني الخاص بك إذا كان هناك أي استجابة من المشتري"
+
+msgid "Dispute initiated for your order"
+msgstr "الخلاف بدأ لطلبك"
+
+msgid "Dispute Created"
+msgstr "النزاع مكون"
+
+msgid "Dispute initiated on your order"
+msgstr "الخلاف بدأت على طلبك"
+
+msgid "Your new password has arrived"
+msgstr "وصل كلمة المرور الجديدة"
+
+msgid "Welcome, please verify your new account"
+msgstr "مرحبا بكم، يرجى التحقق من حسابك الجديد"
+
+msgid "Congratulations, your new account is ready"
+msgstr "تهانينا، حسابك الجديد جاهز"
+
+msgid "Following you on"
+msgstr "التالية لكم على"
+
+msgid "Following your store on"
+msgstr "وبعد متجرك على"
+
+msgid "There is a fashion uploaded on your product"
+msgstr "هناك الأزياء التي تم تحميلها على المنتج الخاص بك"
+
+msgid "You have got a message"
+msgstr "كنت قد حصلت على رسالة"
+
+msgid "Your order has been cancelled by the buyer"
+msgstr "تم إلغاء طلبك من قبل المشتري"
+
+msgid "Your order"
+msgstr "طلبك"
+
+msgid "shipment was delivered"
+msgstr "تم تسليم شحنة"
+
+msgid "Your order has been claimed by the buyer"
+msgstr "وقد زعم طلبك من قبل المشتري"
+
+msgid "There is a response on the dispute"
+msgstr "وهناك استجابة بشأن النزاع"
+
+msgid "Dispute Resolved"
+msgstr "حل النزاع"
+
+msgid "Group gift created on your product in"
+msgstr "هدية مجموعة إنشاؤها على المنتج الخاص بك في"
+
+msgid "You have created group gift on the product in"
+msgstr "لقد قمت بإنشاء مجموعة هدية على المنتج في"
+
+msgid "You got a review"
+msgstr "كنت حصلت على المراجعة"
+
+msgid "Your order has been cancelled"
+msgstr "تم إلغاء طلبك"
+
+msgid "has cancelled your order"
+msgstr "ألغت طلبك"
+
+msgid "Your order has been claimed"
+msgstr "وقد زعم طلبك"
+
+msgid "has made a claim request on your order"
+msgstr "وقد قدم طلب الادعاء على طلبك"
+
+msgid "You have a got a message from"
+msgstr "لقد وصلت رسالة من"
+
+msgid "has sent you a message. To reply to this user, please login and go to the message section and write your reply"
+msgstr "لقد أرسلت لك رسالة. للرد على هذا العضو، يرجى تسجيل الدخول وانتقل إلى القسم الرسالة واكتب الرد"
+
+msgid "Some one commented on your product - Product ID"
+msgstr "بعض واحد علق على المنتج الخاص بك - معرف المنتج"
+
+msgid "You have created group gift on the product in"
+msgstr "لقد قمت بإنشاء مجموعة هدية على المنتج في"
+
+msgid "You have created a group gift on the product"
+msgstr "لقد قمت بإنشاء مجموعة هدية على المنتج"
+
+msgid "Group Gift Link"
+msgstr "مجموعة هدية لينك"
+
+msgid "created group gift on your product in"
+msgstr "خلق هدية المجموعة على المنتج الخاص بك في"
+
+msgid "created a group gift on your product"
+msgstr "خلق هدية المجموعة على المنتج الخاص بك"
+
+msgid "The shipment was successfully delivered to buyer - Order ID"
+msgstr "تم تسليم الشحنة بنجاح إلى المشتري - وسام ID"
+
+msgid "This email confirms your shipment on your order"
+msgstr "هذا البريد الإلكتروني يؤكد شحنة على طلبك"
+
+msgid "was successfully delivered to the buyer"
+msgstr "تم تسليمها بنجاح إلى المشتري"
+
+msgid "accounts team will review this order and your fund for this order will be delivered within 3 working days"
+msgstr "حسابات الفريق سيستعرض هذا النظام وسوف يتم تسليم الأموال لهذا النظام في غضون 3 أيام عمل"
+
+msgid "If you do not receive your fund within the time, kindly send an email"
+msgstr "إذا كنت لا تتلقى الأموال الخاصة بك في غضون الوقت، يرجى إرسال بريد إلكتروني"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Ship to"
+msgstr "سافر على متن سفينة لِـ"
+
+msgid "Buyer has resolved the dispute - Dispute ID is"
+msgstr "وقد حل المشتري النزاع - ID المنازعات هو"
+
+msgid "has resolved the dispute on the order"
+msgstr "وقد حل النزاع بناء على أمر"
+
+msgid "Dispute ID"
+msgstr "ID النزاع"
+
+msgid "Buyer has responded to the dispute - Dispute ID is"
+msgstr "وقد استجاب المشتري للنزاع - ID المنازعات هو"
+
+msgid "has replied to the dispute raised on the order"
+msgstr "وقد وردت في النزاع الذي أثير حول هذا الأمر"
+
+msgid "Kindly check the response and get back to the buyer as soon as possible to take necessary actions"
+msgstr "برجاء التحقق من استجابة والعودة إلى المشتري في أقرب وقت ممكن لاتخاذ الإجراءات اللازمة"
+
+msgid "Message from buyer"
+msgstr "رسالة من المشتري"
+"msgid ""NOTE: If you fail to respond on any latest reply on any disputes	in a certain time, there is a possibility of closing the dispute and resulting the dispute in favor of the other party. So, we recommend to act immediately on disputes""
+msgstr ""ملاحظة: إذا كنت لا تستجيب لأي أحدث الرد على أي خلافات في فترة زمنية معينة، هناك امكانية اغلاق النزاع وما ينجم عنها من النزاع لصالح الطرف الآخر. لذلك، فإننا نوصي إلى العمل فورا على الخلافات"""
+
+msgid "follows you on"
+msgstr "يتابعك على"
+
+msgid "now"
+msgstr "الآن"
+
+msgid "follows you in"
+msgstr "يتابعك في"
+
+msgid "You can view his profile by clicking the following link"
+msgstr "يمكنك عرض صورته من خلال النقر على الرابط التالي"
+
+msgid "Link"
+msgstr "حلقة الوصل"
+
+msgid "You have Contributed the product for Group gift . Soon your friend  will get the Product from"
+msgstr "لقد ساهم المنتج هدية المجموعة. قريبا صديقك سوف تحصل على المنتج من"
+
+msgid "You have Created the item for Group gift . Soon your friend  will get the Item from"
+msgstr "لقد مكون البند هدية المجموعة. قريبا صديقك سوف تحصل على البند من"
+
+msgid "There is an order placed on you shop at"
+msgstr "هناك طلبية عليك تسوق في"
+
+msgid "Hi there, your friend"
+msgstr "مرحبا هناك، وصديقك"
+
+msgid "has sent a gift card"
+msgstr "بعث بطاقة هدية"
+
+msgid "Your friend"
+msgstr "صديقك"
+
+msgid "has bought a gift card for you from"
+msgstr "وقد اشترى بطاقة هدية لك من"
+
+msgid "and you can use the this gift for buying any product from"
+msgstr "ويمكنك استخدام هذه الهدية لشراء أي منتج من"
+
+msgid "If you have an existing activated account with"
+msgstr "إذا كان لديك حساب تنشيط القائمة مع"
+
+msgid "using this same email address, this gift details will be available under your profile page. If you have not registered yet, please click the following link and register your new account. Please make sure you will use this same email address for creating the new account and to avail this gift card"
+msgstr "باستخدام هذا العنوان البريد الإلكتروني نفسه، ستكون متوفرة تحت صفحة ملفك الشخصي هذه التفاصيل هدية. إذا كنت غير مسجل، يرجى الضغط على الرابط التالي وسجل حسابك الجديد. يرجى التأكد من أنك سوف تستخدم هذه نفس عنوان البريد الإلكتروني لإنشاء حساب جديد والاستفادة من هذه بطاقة هدية"
+
+msgid "Your Gift Card code"
+msgstr "كود هدية بطاقتك"
+
+msgid "Not yet registered? Claim your gift now by click this link"
+msgstr "غير مسجل بعد؟ المطالبة هدية الآن عن طريق الضغط على هذا الرابط"
+
+msgid "click"
+msgstr "انقر"
+
+msgid "Message from your friend"
+msgstr "رسالة من صديقك"
+
+msgid "How to use"
+msgstr "كيف تستعمل"
+
+msgid "This special gift card shared by your friend is just a code and it will work only for your account which is using this email address. You can use this code at the time of payment mode and this can be found In the cart page as an entry of \Gift Card Codes\" with the input text box and apply button. You can enter this code and click the apply button to see the change in the actual product price. If you are happy you can hit the \"Checkout\" button and that\'s it. You will also be able see the collection of gift card you received and it\'s used under your profile page""
+msgstr "هذه البطاقة هدية خاصة مشتركة من قبل صديقك هو مجرد رمز وأنها ستعمل فقط لحسابك الذي يستخدم عنوان البريد الإلكتروني هذا. يمكنك استخدام هذا الرمز في وقت طريقة الدفع وهذا يمكن العثور عليها في صفحة عربة كمدخل من رموز \ بطاقة هدية \ "مع مربع إدخال النص وتطبيق زر. يمكنك إدخال هذا الرمز وانقر على زر تطبيق ل رؤية تغيير في سعر المنتج الفعلي. إذا كنت سعيدا يمكنك ضرب \ زر "الخروج \" وأنه \ 'ق ذلك. وسوف تكون ايضا قادرة ترى مجموعة من بطاقة هدية تلقيتها و\' ق المستخدمة في صفحة ملفك الشخصي ""
+
+msgid "Terms & Conditions"
+msgstr "البنود و الظروف"
+
+msgid "This gift card code is an auto generated one and should not be shared with anyone else. Any accidental damage caused by the usage of this gift card code will be reversible in the system by the administrators of"
+msgstr "هذا رمز بطاقة الهدية هي لصناعة السيارات ولدت واحدة ويجب أن لا تكون مشتركة مع أي شخص آخر. وأي ضرر عرضي ناجم عن استخدام هذا الرمز بطاقة هدية يكون عكسها في النظام من قبل القائمين على إدارة"
+
+msgid "If you have any problem in using the gift card code, you are recommended to write to the support team email address"
+msgstr "إذا كان لديك أي مشكلة في استخدام رمز بطاقة هدية، وينصح لك الكتابة إلى عنوان البريد الإلكتروني فريق الدعم"
+
+msgid "here"
+msgstr "هنا"
+
+msgid "Enjoy gifting"
+msgstr "استمتع الإهداء"
+
+msgid "Your Group gift Product"
+msgstr "لديك مجموعة هدية المنتج"
+
+msgid "had expired. Soon you will be refunded from"
+msgstr "قد انتهت. قريبا سوف يكون ردها من"
+
+msgid "Your order confirmation - The order ID(s)"
+msgstr "تأكيدا طلبك - معرف النظام (ق)"
+
+msgid "Thank you for shopping on"
+msgstr "شكرا لتسوقكم على"
+
+msgid "Kindly note down the order ID(s)"
+msgstr "والجدير بالذكر أسفل ID النظام (ق)"
+
+msgid "as a reference number for this purchase"
+msgstr "كما رقم مرجعي لهذا الشراء"
+
+msgid "Your order is confirmed. The same has been notified to the seller too. Once the order is shipped by the seller, we will send you an email with the shipment details from the seller. In case if you have ordered multiple items from multiple sellers, all your orders may be delivered separately. All your orders can be seen and tracked through your"
+msgstr "تأكيد طلبك. تم إخطار نفسه على البائع أيضا. مرة واحدة يتم شحنها على النظام من قبل البائع، وسوف نرسل لك رسالة بالبريد الالكتروني مع تفاصيل شحنة من البائع. في حالة إذا كنت قد أمرت سلع متعددة من العديد من البائعين، قد يتم تسليم كل ما تبذلونه من أوامر بشكل منفصل. ويمكن رؤية كل ما تبذلونه من أوامر وتتبع من خلال هاتفك"
+
+msgid "account also"
+msgstr "حساب أيضا"
+
+msgid "Your order details"
+msgstr "تفاصيل طلبك"
+
+msgid "Order ID(s)"
+msgstr "ID النظام (ق)"
+
+msgid "Discount"
+msgstr "خصم"
+
+msgid "Grand Total"
+msgstr "المبلغ الإجمالي"
+
+msgid "Your order is safe and been monitored closely with the seller when you shop on"
+msgstr "النظام الخاص بك هو آمن ويتم مراقبتها عن كثب مع البائع عند التسوق على"
+
+msgid "In case if you don\'t receive your order from the seller(s) or it is delivered in an unsatisfactory condition, you can reach us"
+msgstr "في حالة إذا كنت دون \ 'ر الحصول على طلبك من البائع (ق) أو يتم تسليمها في حالة غير مرضية، يمكنك الوصول إلينا"
+
+msgid "When you write to us about any orders, please mention the order ID to get quick response from the support team"
+msgstr "عندما تكتب لنا عن أي أوامر، يرجى الإشارة إلى ID أجل الحصول على استجابة سريعة من فريق الدعم"
+
+msgid "Item\'s also recommended to update the system once you received the order from the seller as expected and you are satisfied. In case of any order\'s receipt is not notified in the system will be automatically confirmed as \Delivered\" and will processed in the favor of sellers. Within this duration you are recommended to reach us in case of any problem in the orders""
+msgstr "البند أوصت \ 'ق أيضا إلى تحديث النظام بمجرد وردت في النظام من البائع كما هو متوقع وكنت راضيا. في حال وجود أي أمر يقع ما لا يخطر استلام \ 'ق في النظام وسوف يتم تأكيد تلقائيا ك \ سلمت \ "وسوف يعالج في صالح البائعين. في غضون هذه المدة وينصح لك للوصول الينا في حال وجود أي مشكلة في أوامر ""
+
+msgid "To update receipt of the order, please login and go to profile and settings, then click \My orders\" and select the \"Actions\" and choose \"Mark as received\"""
+msgstr "لتحديث استلام النظام، يرجى تسجيل الدخول والذهاب للصفحة الشخصية والإعدادات، ثم انقر فوق \ أوامري \ "وحدد \" تطبيقات \ "واختيار \" مارك كما وردت \ """
+
+msgid "We look forward to see you again"
+msgstr "ونحن نتطلع لرؤيتك مرة أخرى"
+
+msgid "There is an order placed in your account  - The order ID is"
+msgstr "هناك أمر وضعت في حسابك - معرف النظام هو"
+
+msgid "Congratulations"
+msgstr "تهانينا"
+
+msgid "There is an order placed in your profile. This email confirms that the same order has been processed and recommend you to proceed with the shipping of this order"
+msgstr "هناك أمر وضعها في ملفك الشخصي. تؤكد هذه الرسالة الإلكترونية التي تم تجهيزها بنفس الترتيب وننصح المضي قدما في الشحن من هذا النظام"
+
+msgid "You have options to confirm this order and mark is as processing. You can also add the shipping details and tracking details to this order from “My Sales” under your profile account"
+msgstr "لديك خيارات لتأكيد هذا الأمر وعلامة على النحو المعالجة. يمكنك أيضا إضافة تفاصيل الشحن والتفاصيل تتبع هذا النظام من "بلدي المبيعات" تحت حساب ملفك الشخصي"
+
+msgid "Happy selling"
+msgstr "سعيد بيع"
+
+msgid "Your new password"
+msgstr "كلمة سرك الجديدة"
+
+msgid "You or (someone else) has filed a request for a new password"
+msgstr "أنت أو (شخص آخر) قد قدم طلبا للحصول على كلمة سر جديدة"
+
+msgid "To Reset your password, Please go to"
+msgstr "إعادة تعيين كلمة المرور الخاصة بك، يرجى الذهاب الى"
+
+msgid "Product is approved and ready for sale - Product ID"
+msgstr "وافق المنتج وجاهزة للبيع - معرف المنتج"
+
+msgid "We have reviewed your product details and we have approved your product for sale on"
+msgstr "لقد قمنا بمراجعة تفاصيل المنتج الخاص بك، ونحن قد وافق المنتج الخاص بك للبيع على"
+
+msgid "In case of any changes, we will have to approve the changes again"
+msgstr "في حال وجود أي تغييرات، سيكون لدينا الموافقة على التغييرات مرة أخرى"
+
+msgid "You can also edit the products under your profile, by access \Added\" tab""
+msgstr "يمكنك أيضا تحرير المنتجات تحت ملف التعريف الخاص بك، من خلال الوصول \ واضاف \ "علامة التبويب""
+
+msgid "Product link"
+msgstr "رابط المنتج"
+
+msgid "Your new account is activated successfully"
+msgstr "يتم تنشيط حسابك الجديد بنجاح"
+
+msgid "Thank you for your email address verification. We have successfully activated your new account with"
+msgstr "شكرا لك على التحقق من عنوان البريد الإلكتروني الخاص بك. وقمنا بتنشيط بنجاح حسابك الجديد مع"
+
+msgid "There are plenty of sales is going on and products added everyday to"
+msgstr "هناك الكثير من المبيعات يجري والمنتجات أضاف كل يوم ل"
+
+msgid "You can write to us"
+msgstr "يمكنك مراسلتنا"
+
+msgid "and we are happy to assist you in case of any questions"
+msgstr "ونحن سعداء لمساعدتك في حال وجود أي أسئلة"
+
+msgid "Enjoy shopping on"
+msgstr "الاستمتاع بالتسوق في"
+
+msgid "Welcome to"
+msgstr "مرحبا بك في"
+
+msgid "Greetings! Thanks for registering with"
+msgstr "تحية طيبة! شكرا لتسجيل مع"
+
+msgid "To complete the registration of your new account, please click the following link to verify this email address"
+msgstr "لاستكمال تسجيل حساب جديد، يرجى الضغط على الرابط التالي للتحقق من عنوان البريد الإلكتروني هذا"
+
+msgid "Click Here"
+msgstr "انقر هنا"
+
+msgid "to confirm your registration"
+msgstr "لتأكيد تسجيلك"
+
+msgid "If clicking this link does not work, copy and paste the below link directly into the address bar of your browser. If you are still having problem, simply contact our support team by writing"
+msgstr "إذا النقر على هذا الرابط لا يعمل، نسخ ولصق الرابط أدناه مباشرة في شريط عنوان المتصفح الخاص بك. إذا كنت لا تزال تواجه مشكلة، مجرد الاتصال بفريق الدعم عن طريق الكتابة"
+
+msgid "Once you do, you will be able to access to the notification of activity and access of other features that requires a valid email address"
+msgstr "بمجرد الانتهاء من ذلك، سوف تكون قادرة على الوصول إلى إخطار من النشاط والوصول من الميزات الأخرى التي تتطلب عنوان بريد إلكتروني صالح"
+
+msgid "You have a review from"
+msgstr "لديك مراجعة من"
+
+msgid "has wrote a review for your order"
+msgstr "وقد كتبت استعراض لطلبك"
+
+msgid "Review"
+msgstr "إعادة النظر"
+
+msgid "follows your store on"
+msgstr "يلي متجرك على"
+
+msgid "follows your store in"
+msgstr "يلي متجرك في"
+
+msgid "now. You can view his profile by clicking the following link"
+msgstr "الآن. يمكنك عرض صورته من خلال النقر على الرابط التالي"
+
+msgid "uploaded a fashion on your product, it is waiting for your approval"
+msgstr "تم تحميلها بطريقة على المنتج الخاص بك، أنه ينتظر موافقتك"
+
+msgid "There is a user uploaded his fashion photo on the following product link. To make it public you need to review the pictures and please approve the same"
+msgstr "هناك المستخدم تحميلها الصورة الأزياء له على الرابط التالي منتوج. لجعلها عامة تحتاج إلى مراجعة الصور ويرجى الموافقة على نفسه"
+
+msgid "To approve this fashion upload, please login and go to your profile page and click \User Fashion\" tab and click \"Show\" button""
+msgstr "الموافقة على هذا التحميل الأزياء، يرجى تسجيل الدخول والذهاب إلى صفحة الملف الشخصي الخاص بك وانقر \ العضو الأزياء \ "علامة التبويب وانقر على \" إظهار \ "زر""
+
+msgid "Link for your fashion upload"
+msgstr "رابط لتحميل الأزياء الخاصة بك"
+
+msgid "accepted your invitation"
+msgstr "قبول دعوتك"
+
+msgid "accepted your invitation and joined"
+msgstr "قبول دعوتك وانضم"
+
+msgid "You can follow"
+msgstr "يمكنك متابعة"
+
+msgid "by visiting the profile"
+msgstr "من خلال زيارة الملف الشخصى"
+
+msgid "is now following you"
+msgstr "هو الآن يتبعك"
+
+msgid "Enquiry from a user"
+msgstr "استفسار من أحد المستخدمين"
+
+msgid "Query From"
+msgstr "الاستعلام من"
+
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+msgid "User Email"
+msgstr "العضو مراسلة"
+
+msgid "Topic"
+msgstr "موضوع"
+
+msgid "Order No"
+msgstr "أجل لا"
+
+msgid "User Account"
+msgstr "حساب المستخدم"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Group Gift Notification"
+msgstr "المجموعة إعلام هدية"
+
+msgid "Order notification"
+msgstr "إشعار الطلب"
+
+msgid "Order placed an order in your shop"
+msgstr "وضعت من أجل أمر في مجموعتكم"
+
+msgid "Confirmation of your order number(s)"
+msgstr "تأكيد رقم الطلب الخاص بك (ق)"
+
+msgid "Wow! You got a gift from"
+msgstr "نجاح باهر كنت حصلت على هدية من"
+
+msgid "Group Gift Soldout"
+msgstr "مجموعة هدية سولدوت"
+
+msgid "updated a commission"
+msgstr "تحديث لجنة"
+
+msgid "posted a news"
+msgstr "نشر أخبار"
+
+msgid "Your account has been credited"
+msgstr "كان لها الفضل حسابك"
+
+msgid "by for refund of"
+msgstr "بواسطة لاسترداد"
+
+msgid "Your account has been credited %s by for refund of %s"
+msgstr "تم حسابك الفضل٪ بنسبة لاسترداد٪ الصورة"
+
+msgid "Your account has been credited for the refund of the order"
+msgstr "كان لها الفضل حسابك لاسترداد النظام"
+
+msgid "Your account has been credited for the order"
+msgstr "كان لها الفضل حسابك للنظام"
+
+msgid "Your product has been approved"
+msgstr "تمت الموافقة على المنتج الخاص بك"
+
+msgid "added a product"
+msgstr "وأضاف المنتج"
+
+msgid "replied for the dispute"
+msgstr "وأجاب عن النزاع"
+
+msgid "Commision details:Min_value"
+msgstr "تفاصيل العمولات: MIN_VALUE"
+
+msgid "Max_value"
+msgstr "قيمة الحد الأقصى"
+
+msgid "Amount"
+msgstr "كمية"
+
+msgid "added your product in their collection "
+msgstr "وأضاف المنتج الخاص بك في تحصيلها"
+
+msgid "sent a query on your product: "
+msgstr "أرسلت استعلام على المنتج الخاص بك:"
+
+msgid "mentioned you in a comment on: "
+msgstr "ذكرك في تعليق على:"
+
+msgid "commented on"
+msgstr "علق على"
+
+msgid "placed an order in your shop, order id : "
+msgstr "وضعت على أمر في مجموعتكم والنظام معرف:"
+
+msgid "You have received a gift card "
+msgstr "لقد تلقيت بطاقة هدية"
+
+msgid "accepted your invitation"
+msgstr "قبول دعوتك"
+
+msgid "is now following your Store"
+msgstr "والآن بعد متجرك"
+
+msgid "uploaded fashion image on your product"
+msgstr "صورة الأزياء محملة على المنتج الخاص بك"
+
+msgid "created a dispute on your order : "
+msgstr "خلق نزاع على طلبك:"
+
+msgid "Your order has been cancelled by the buyer"
+msgstr "تم إلغاء طلبك من قبل المشتري"
+
+msgid "sent a message"
+msgstr "إرسال رسالة"
+
+msgid "Your order has been marked as processing"
+msgstr "وقد اتسم النظام الخاص بك كما التجهيز"
+
+msgid "Your order has been claimed by the buyer"
+msgstr "وقد زعم طلبك من قبل المشتري"
+
+msgid "Your order has been marked as shipped"
+msgstr "وقد اتسم النظام الخاص بك كما شحنها"
+
+msgid "Buyer Replied For the Dispute  : "
+msgstr "المشتري ردود على النزاع:"
+
+msgid "Buyer Cancelled the Dispute  : "
+msgstr "المشتري إلغاء المنازعات:"
+
+msgid "Buyer Resolved the Dispute : "
+msgstr "المشتري حل النزاع:"
+
+msgid "liked your status"
+msgstr "أحب حالتك"
+
+msgid "mentioned you in a livefeed comment"
+msgstr "ذكرك في تعليق livefeed"
+
+msgid "mentioned you in a livefeed status comment on : "
+msgstr "ذكرك في حالة تعليق livefeed على:"
+
+msgid "mentioned you in the status"
+msgstr "ذكرك في وضع"
+
+msgid "commented on your status"
+msgstr "علق على وضعك"
+
+msgid "shared your status"
+msgstr "مشترك حالتك"
+
+msgid "shared the status"
+msgstr "يشارك في وضع"
+
+msgid "posted a status"
+msgstr "سجلت الوضع"
+
+msgid "mentioned you in a livefeed status"
+msgstr "ذكرك في وضع livefeed"
+
+msgid "Created a group gift on your product, Group Gift Id :"
+msgstr "مكون هدية المجموعة على المنتج الخاص بك، مجموعة هدية رقم:"
+
+msgid "You have created a group gift on the product"
+msgstr "لقد قمت بإنشاء مجموعة هدية على المنتج"
+
+msgid "your product"
+msgstr "منتجك"
+
+msgid "wrote a review for you"
+msgstr "كتبت استعراض لك"
+
+msgid "Url is not valid"
+msgstr "رابط غير صالح"
+
+msgid "The item you are searching was not found."
+msgstr "لم يتم العثور على العنصر الذي تبحث عنه."
+
+msgid "Unfortunately Item is not Available now."
+msgstr "للأسف العنصر غير متوفر الآن."
+
+msgid "Item added to cart successfully."
+msgstr "تم إضافة السلعة الى السلة بنجاح."
+
+msgid "Sorry! Kindly check your braintree credentials"
+msgstr "معذرة! يرجى التحقق من أوراق اعتماد برينتر الخاص بك"
+
+msgid "Your account has been disabled please contact our support."
+msgstr "تم تعطيل حسابك يرجى الاتصال دعمنا."
+
+msgid "Item removed"
+msgstr "إزالة البند"
+
+msgid "Your Shopping Cart is Empty"
+msgstr "سلة التسوق الخاصة بك فارغة"
+
+msgid "Item removed successfully"
+msgstr "البند إزالة بنجاح"
+
+msgid "Payment didn't go through Please try again"
+msgstr "لم يتم تنفيذ عملية الدفع الرجاء المحاولة مرة أخرى"
+
+msgid "Please Check your email immediately."
+msgstr "يرجى التحقق من بريدك الالكتروني فورا."
+
+msgid "Please Activate your account."
+msgstr "يرجى تفعيل حسابك."
+
+msgid "Email id is not found Please register to our site."
+msgstr "لم يتم العثور على معرف البريد الإلكتروني الرجاء التسجيل في موقعنا."
+
+msgid "Your new password was generated successfully."
+msgstr "تم إنشاء كلمة مرور جديدة بنجاح."
+
+msgid "Access Denied."
+msgstr "تم الرفض."
+
+msgid "Please fix the following error(s):"
+msgstr "يرجى تصحيح الخطأ (s) التالية:"
+
+msgid "Invalid username or password, try again"
+msgstr "اسم المستخدم أو كلمة المرور غير صالحة، حاول مرة أخرى"
+
+msgid "Please visit Merchant site to login if you have merchant id"
+msgstr "يرجى زيارة موقعنا على تاجر للدخول إذا كان لديك معرف التاجر"
+
+msgid "Please activate your account by the email sent to you"
+msgstr "الرجاء تفعيل حسابك عن طريق البريد الإلكتروني المرسلة إليك"
+
+msgid "Your account has been disabled please contact our support"
+msgstr "تم تعطيل حسابك يرجى الاتصال دعمنا"
+
+msgid "username and email already exists"
+msgstr "اسم المستخدم والبريد الإلكتروني موجود بالفعل"
+
+msgid "username already exists"
+msgstr "اسم المستخدم موجود بالفعل"
+
+msgid "Email already exists"
+msgstr "البريد الالكتروني موجود بالفعل"
+
+msgid "Captcha code Invalid"
+msgstr "كلمة التحقق قانون غير صالح"
+
+msgid "An email was sent to your mail box, please activate your account and login."
+msgstr "تم إرسال البريد الإلكتروني إلى صندوق البريد الخاص بك، الرجاء تفعيل حسابك وتسجيل الدخول."
+
+msgid "Your account has been created, please login to your account"
+msgstr "لقد تم إنشاء حسابك، يرجى تسجيل الدخول إلى حسابك"
+
+msgid "Your account was already Verified"
+msgstr "وقد حسابك التحقق بالفعل"
+
+msgid "You are not authenticated.Please signup"
+msgstr "انك لم authenticated.Please الاشتراك"
+
+msgid "User has been saved."
+msgstr "تم حفظ المستخدم."
+
+msgid "You cannot follow yourself"
+msgstr "لا يمكنك اتباع نفسك"
+
+msgid "Password updated successfully"
+msgstr "تم تحديث كلمة السر بنجاح"
+
+msgid "Existing password is incorrect"
+msgstr "كلمة السر الحالية غير صحيحة"
+
+msgid "Sorry ! No such record was found"
+msgstr "معذرة ! تم العثور على أي سجل من هذا القبيل"
+
+msgid "Store has not Found"
+msgstr "لم يتم العثور على مخزن"
+
+msgid "No Conversation Found"
+msgstr "لا توجد المحادثة"
+
+msgid "Sorry ! No such record was Found"
+msgstr "معذرة ! تم العثور على أي سجل من هذا القبيل"
+
+msgid "You can not view other\'s order details"
+msgstr "لا يمكنك عرض الآخرين \ 'ق تفاصيل الطلب"
+
+msgid "Product was already delivered"
+msgstr "تم تسليم المنتج بالفعل"
+
+msgid "Please mention a valid Hashtag"
+msgstr "يرجى ذكر علامة التصنيف ساري المفعول"
+
+msgid "Gift card can not be send to your own"
+msgstr "لا يمكن أن ترسل بطاقة هدية لوحدك"
+
+msgid "Something went wrong, please try again."
+msgstr "حدث خطأ ما. أعد المحاولة من فضلك."
+
+msgid "About"
+msgstr "حول"
+
+msgid "Documentation"
+msgstr "كابل بيانات"
+
+msgid "Press"
+msgstr "صحافة"
+
+msgid "Pricing"
+msgstr "التسعير"
+
+msgid "Talk"
+msgstr "حديث"
+
+msgid "posted a news:"
+msgstr "نشرت الخبر:"
+
+msgid "mentioned you in a item comment"
+msgstr "ذكرك في البند تعليق"
+
+msgid "You have Created the item for Group gift. Soon your friend  will get the Item from"
+msgstr "لقد مكون البند هدية المجموعة. قريبا صديقك سوف تحصل على البند من"
+
+msgid "Contributed the product for Group gift . Soon your friend  will get the Product from"
+msgstr "ساهم المنتج هدية المجموعة. قريبا صديقك سوف تحصل على المنتج من"
+
+msgid "You have received a"
+msgstr "لقد تلقيت"
+
+msgid "credit regarding your friends first purchase"
+msgstr "الائتمان فيما يتعلق أصدقائك أول عملية شراء"
+
+msgid "You have received a Gift card from your friend"
+msgstr "لقد تلقيت بطاقة هدية من صديقك"
+
+msgid "Group gift you have created with the item is expired"
+msgstr "وانتهت هدية المجموعة التي خلقت مع هذا البند"
+
+msgid "Group gift you have created with the item is sold out"
+msgstr "يباع هدية المجموعة التي خلقت مع هذا البند من"
+
+msgid "Post"
+msgstr "بريد"
+
+msgid "Activity Feeds"
+msgstr "يغذي النشاط"
+
+msgid "Post a Status"
+msgstr "نشر حالة"
+
+msgid "upload a image or write something"
+msgstr "تحميل صورة أو كتابة شيء"
+
+msgid "Who to follow"
+msgstr "من لمتابعة"
+
+msgid "Recent Activities"
+msgstr "أنشطة حالية"
+
+
+msgid "Posted a status"
+msgstr "تم نشر الحالة"
+
+msgid "Posted a seller message"
+msgstr "تم نشر رسالة البائع"
+
+msgid "Updated a order status"
+msgstr "تم تحديث حالة الطلب"
+
+msgid "Like"
+msgstr "مثل"
+
+msgid "Unlike"
+msgstr "مختلف"
+
+msgid "Enter your Coupon Code"
+msgstr "أدخل رمز القسيمة الخاص بك"
+
+msgid "Enter your Giftcard Code"
+msgstr "أدخل رمز بطاقة الهدايا"
+
+msgid "You have"
+msgstr "عندك"
+
+msgid "items in your cart"
+msgstr "الوحدات الموجودة فى سلة التسوق الخاصة بك"
+
+
+msgid "Trust Pay: 100% Payment Protection, Easy Return Policy"
+msgstr "الثقة الدفع: 100٪ حماية الدفع، عودة السياسة سهلة"
+
+msgid "Write something or add a photo"
+msgstr "اكتب شيئا أو أضف صورة"
+
+msgid "Home"
+msgstr "االصفحة الرئيسية"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "Captcha"
+msgstr "كلمة التحقق"
+
+msgid "Join"
+msgstr "انضم"
+
+msgid "By clicking the"
+msgstr "بالنقر على"
+
+msgid "Interested in selling"
+msgstr "مهتم في بيع"
+
+msgid "Get started"
+msgstr "البدء"
+
+msgid "Minimum Contribute Amount"
+msgstr "الحد الأدنى لمبلغ المساهمة"
+
+msgid "Target should be reached within"
+msgstr "يجب الوصول إلى الهدف ضمن"
+
+msgid "days"
+msgstr "أيام"
+
+msgid "or else it will expire"
+msgstr "وإلا فإنه سوف تنتهي"
+
+msgid "Your payment was successful. You will recieve an email shortly from "
+msgstr "تم بنجاح دفعتك. ستتلقى رسالة إلكترونية قريبا من"
+
+msgid "Enter your real name"
+msgstr "أدخل اسمك الحقيقي"
+
+msgid "Line"
+msgstr "خط"
+
+msgid "Enter State"
+msgstr "إدخال الدولة"
+
+msgid "Enter City"
+msgstr "أدخل المدينة"
+
+msgid "Enter your zipcode"
+msgstr "أدخل رمزك البريدي"
+
+msgid "Enter your phone number"
+msgstr "أدخل رقم هاتفك"
+
+msgid "Share facebook get"
+msgstr "مشاركة فاسيبوك الحصول على"
+
+msgid "discount"
+msgstr "خصم"
+
+msgid "share it"
+msgstr "أنشرها"
+
+msgid "Load more comments"
+msgstr "تحميل المزيد من التعليقات"
+
+msgid "days"
+msgstr "أيام"
+
+msgid "day"
+msgstr "يوم"
+
+msgid "minutes"
+msgstr "الدقائق"
+
+msgid "minute"
+msgstr "اللحظة"
+
+msgid "seconds"
+msgstr "ثواني"
+
+msgid "ago"
+msgstr "منذ"
+
+msgid "The things you like"
+msgstr "الأشياء التي تريدها"
+
+msgid "Error Occurs, Can't login with merchant email."
+msgstr "حدث خطأ، يتعذر تسجيل الدخول باستخدام البريد الإلكتروني للتاجر."
+
+
+
+
+
+
+
+
+
+

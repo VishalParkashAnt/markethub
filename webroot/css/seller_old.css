@@ -1,0 +1,281 @@
+body{
+	font-size: 14px !important;
+}
+#sdate.form-control, #edate.form-control {
+	font-size: 14px !important;
+	line-height: 14px !important;
+	min-height: auto !important;
+}
+.jq-toast-wrap.top-right {
+    right: 40px;
+    top: 80px !important;
+}
+/*** Merchant Log in ***/
+.h3-title{
+	display: inline-block; float: left;
+}
+a.backlogin{
+	line-height: 30px; 	margin-bottom: 0.5rem; 
+}
+a.backlogin > i:hover{
+	color:#7460ee;
+}
+a.backlogin > i{
+	color:rgba(0, 0, 0, 0.15); font-size: 21px;
+}
+
+/*** Merchant Sign up ***/
+
+#main-wrapper.login-register {
+	overflow-y: scroll;		padding: 2% 0 5%;
+}
+#main-wrapper.login-register .form-control {
+	background: transparent;	color:rgba(0, 0, 0, 0.5);
+}
+#main-wrapper.login-register .form-control:focus{
+	background: #ffffff; 
+}
+#main-wrapper.login-register .form-control::placeholder {
+  color: rgba(0, 0, 0, 0.2);  	opacity: 1;
+}
+#main-wrapper.login-register .form-group .control-label  {
+  font-weight: 400;  line-height: 26px;  margin: 0;  padding: 5px 15px;
+}
+#main-wrapper.login-register .form-group .card-title {
+  padding: 0 15px;
+}
+#main-wrapper.login-register .col-sbox{
+	margin:auto;	text-align: center; display: block;
+}
+#main-wrapper.login-register .col-sbox > a{
+	display: inline-block;
+}
+#main-wrapper .row > .m-c-auto{
+	margin:0 auto;
+}
+#main-wrapper .footer{
+	position: relative;
+	left: 0 !important;
+}
+#main-wrapper #postalboxes > .input-group{
+	margin-top: 5px;
+}
+#main-wrapper #postalboxes > .input-group > .input-group-btn{
+	background-color: #009efb;	border-bottom-left-radius: 0;	border-top-left-radius: 0;	width: 58px;
+}
+#main-wrapper #postalboxes > .input-group > .input-group-btn > .icon-trash{
+	color:#ffffff !important;	font-weight: 600 !important; 
+}
+
+/*** Abondan Cart ***/
+input.form-control::placeholder {
+    color: rgba(0, 0, 0, 0.2);
+    opacity: 1;
+}
+
+/*** Keys and Buttons ***/
+
+.checkbox label::before{
+	background-color: #f9f9f9;
+}
+
+/*** Margin and Alignments ***/
+.col-rfloat
+{
+	float:right;
+}
+@media (max-width: 480px) {
+    .mar-xs-t10 {
+        margin-top:10px;
+    }
+}
+/*** New CSS ***/
+.f4-chkbox{
+	display: inline-table !important;
+}
+.f4-error {
+	margin: 0px; line-height:25px; color: red; font-size: 12px; font-style: normal; font-weight: 400; display: block;
+}
+.f4-success {
+	margin: 0px; line-height:25px; color: green; font-size: 12px; font-style: normal; font-weight: 400; display: block;
+}
+.has-error input.form-control, input.has-error, select.has-error{
+	border-color: red !important;
+}
+a.clearResult{
+	font-family: sans-serif !important;
+}
+
+/*****************************Invoice popup design***********************************/
+#invoice-popup-overlay {
+	background: none repeat scroll 0 0 rgba(31, 33, 36, 0.898);
+    display: none;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    overflow: scroll;
+    padding: 0 24px 24px 0;
+    position: fixed;
+    top: 0;
+    transition: opacity 0.2s ease 0s;
+    width: 100%;
+    z-index: 1001;
+}
+
+#invoice-popup-overlay div.invoice-popup {
+	width: 800px;
+	margin: 34px auto;
+}
+
+#invoice-popup-overlay .invoice-popup div#userdata {
+	background: #fff;
+	padding: 20px;
+}
+
+#myTable img{
+	display:none;
+	width:20px;
+}
+
+.inv-head {
+	background: none repeat scroll 0 0 #EFEFEF;
+    font-size: 18px;
+    padding-left: 12px;
+}
+
+.inv-clear {
+	 border-bottom: 1px solid #DEDEDE;
+    margin-bottom: 14px;
+    padding-top: 14px;
+}
+
+.pay-status {
+	color: #8D8D8D;
+    font-size: 12px;
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+
+.pay-to {
+	font-size:14px;
+	font-weight:bold;
+}
+
+.Item-details {
+	margin : 25px auto 0px;
+}
+
+.Item-details thead {
+	background-color: #D3D3D3;
+    color: #000000;
+}
+
+.Item-details thead th {
+	font-size:14px;
+}
+
+.Item-details tbody td {
+	font-size:14px;
+	padding:7px;
+	width:145px;
+}
+
+.gtotal {
+	margin: 0;
+}
+.loginp
+{
+	margin:0px;
+}
+.logininp
+{
+	margin-bottom:0px;
+}
+.commerr
+{
+	position:relative !important;
+	top:-2px;
+	left:10px;
+	/*float:right;*/
+}
+.inv-tot {
+	text-align: right;
+}
+
+.buyerdiv {
+	min-height:114px;
+}
+
+.buyerper {
+	display: inline-block;
+	float: left;
+    width: 50%;
+}
+
+.inv-shipping {
+	display: inline-block;
+	width:50%;
+}
+.invoicetitletab {
+    background: none repeat scroll 0 0 #F1F1F1;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 4px 4px 0 0;
+}
+.invoiccetitlehead {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    width: 15%;
+}
+.invoicetitleaction {
+    display: inline-block;
+    text-align: right;
+    width: 75%;
+    float: right;
+}
+.inv-close{
+	padding: 0 0 0 14px; 
+	font-size: 11px;
+	cursor: pointer;
+}
+.inv-print{
+	cursor: pointer;
+}
+
+/*****************************End invoice popup***********************************/
+
+/****** MERCHANT ADD PRODUCT RIGHT COLUMN **************/
+.box-lt-title {
+	color: #919191;	font-family: sans-serif;	font-size: 13px;    font-weight: 600; 
+}
+.box-lt-message {
+	color:#919191;	font-size:13px; border:1px solid #d4d4d4; padding:20px 10px; margin: 20px 0px 0px;
+	text-align: justify;
+}
+.box-lt-message > li + li {
+	margin: 10px 0px 0px 10px;
+}
+.box-lt-message > li:first-child {
+	margin: 0px 0px 0px 10px;
+}
+.table-design{
+	border:1px solid #d4d4d4; padding:20px 10px; color:#919191; font-size:13px;
+}
+.table-design table th, .table-design table td{
+	text-align: center;
+}
+
+/****** MERCHANT ADD PRODUCT LEFT COLUMN **************/
+.box-addTitle {
+  	color: #919191;  font-size: 13px;  font-weight: 600;  margin-bottom: 15px;  text-transform: uppercase;
+}
+.box-subTitle {
+  	color: #919191;  font-size: 11px;  font-weight: 600;  text-transform: uppercase;
+  	font-style: italic;
+}
+.box-innerBorder {
+	border: 1px solid rgba(0, 0, 0, 0.15);  padding:10px; 
+}
+
+

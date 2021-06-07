@@ -1,0 +1,9 @@
+msgid "Find People"
+msgstr "Vind mensen"
+
+msgid "Search for Peoples"
+msgstr "Suche nach Völkern"
+
+
+msgid "You have"
+msgstr "Du hast"

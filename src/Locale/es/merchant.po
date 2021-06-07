@@ -1,0 +1,1412 @@
+<!-- HEADER  -->
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "French"
+msgstr "Francés"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "No Notifications"
+msgstr "No Notificaciones"
+
+msgid "Check all notifications"
+msgstr "Verificar todas las notificaciones"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+<!--  MENU SCROLL -->
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+msgid "Manage Products"
+msgstr "Administrar productos"
+
+msgid "Add Products"
+msgstr "Agregar productos"
+
+msgid "Edit Products"
+msgstr "Editar productos"
+
+msgid "Manage Orders"
+msgstr "Administrar pedidos"
+
+msgid "Fulfil Orders"
+msgstr "Cumplir órdenes"
+
+msgid "New Orders"
+msgstr "Nuevos pedidos"
+
+msgid "History Orders"
+msgstr "Pedidos de historia"
+
+msgid "Claimed Orders"
+msgstr "Pedidos reivindicados"
+
+msgid "Returned Orders"
+msgstr "Pedidos devueltos"
+
+msgid "Cancelled Orders"
+msgstr "Órdenes canceladas"
+
+msgid "Coupons"
+msgstr "Cupones"
+
+msgid "Manage Coupons"
+msgstr "Administrar cupones"
+
+msgid "Add Category Coupon"
+msgstr "Agregar cupón de categoría"
+
+msgid "Abandon Cart"
+msgstr "Abandonar el carro"
+
+msgid "Manage Cart Details"
+msgstr "Administrar detalles del carrito"
+
+msgid "Add Cart Coupon"
+msgstr "Añadir cupón de carrito"
+
+msgid "Disputes"
+msgstr "Disputas"
+
+msgid "Newsletter"
+msgstr "Hoja informativa"
+
+msgid "Send Newsletter"
+msgstr "Enviar boletín"
+
+msgid "Get Contacts List"
+msgstr "Obtener lista de contactos"
+
+msgid "Manage Newsletter"
+msgstr "Administrar boletín"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "Payment Settings"
+msgstr "Configuración de pago"
+
+msgid "Payment History"
+msgstr "historial de pagos"
+
+msgid "Merchant"
+msgstr "Comerciante"
+
+msgid "Seller Information"
+msgstr "Información del vendedor"
+
+msgid "Fashion User Image"
+msgstr "Imagen de usuario de moda"
+
+<!-- DASHBOARD -->
+
+msgid "Home"
+ msgstr "Casa"
+
+msgid "Complete Order Amount"
+ msgstr "Cantidad de la orden completa"
+
+msgid "Incomplete Order Amount"
+ msgstr "Cantidad de la orden incompleta"
+
+msgid "Total Items"
+ msgstr "Articulos totales"
+
+msgid "Listed merchandize value"
+ msgstr "valor de mercancías que figuran"
+
+msgid "Completed Transactions"
+ msgstr "Las transacciones completadas"
+
+msgid "Total Revenue"
+ msgstr "Los ingresos totales"
+
+msgid "New Orders Today"
+ msgstr "Nuevos pedidos hoy"
+
+msgid "Delivered Orders Today"
+ msgstr "Órdenes del día de hoy"
+
+msgid "Order History"
+ msgstr "Historial de pedidos"
+
+msgid "Order Id"
+ msgstr "Solicitar ID"
+
+msgid "Price"
+ msgstr "Precio"
+
+msgid "Sale Date"
+ msgstr "Fecha de venta"
+
+msgid "Status"
+ msgstr "Estado"
+
+msgid "More"
+ msgstr "Más"
+
+msgid "No Orders Available"
+ msgstr "No hay pedidos disponibles"
+
+msgid "Pick Category"
+ msgstr "de selección de categoría"
+
+msgid "Select Category"
+ msgstr "selecciona una categoría"
+
+msgid "MAKE IT FUN : UPLOAD PHOTOS!"
+ msgstr "Haga que sea divertido: subir fotos!"
+
+msgid "Product Title"
+ msgstr "Titulo del producto"
+
+msgid "Provider More Details About Your Product"
+ msgstr "Proveedor Más detalles sobre su producto"
+
+msgid "Add youtube video link (optional)"
+ msgstr "Añadir youtube enlace de vídeo (opcional)"
+
+msgid "Ean number"
+ msgstr "número ean"
+
+msgid "Product Color"
+ msgstr "color del producto"
+
+msgid "Select"
+ msgstr "Seleccionar"
+
+msgid "Auto Detection"
+ msgstr "Detección automática"
+
+msgid "Choose Manually"
+ msgstr "Seleccione manualmente"
+
+msgid "Size Availability"
+ msgstr "Medidas disponibles"
+
+msgid "Yes"
+ msgstr "Sí"
+
+msgid "No"
+ msgstr "No"
+
+msgid "Product price"
+ msgstr "Precio del producto"
+
+msgid "Available quantity"
+ msgstr "Cantidad disponible"
+
+msgid "Available Varients and It's Prices"
+ msgstr "Varients disponibles y precios es todo"
+
+msgid "Property"
+ msgstr "Propiedad"
+
+msgid "Units"
+ msgstr "Unidades"
+
+msgid "Price"
+ msgstr "Precio"
+
+msgid "Daily Deals"
+ msgstr "Ofertas diarias"
+
+msgid "Discount"
+ msgstr "Descuento"
+
+msgid "Date of your deal"
+ msgstr "Fecha de su reparto"
+
+msgid "Cash on delivery"
+ msgstr "Los envíos contra reembolso"
+
+msgid "Facebook book and discount"
+ msgstr "Facebook libro y descuento"
+
+msgid "Please update with your coupon percentange"
+ msgstr "Actualizar con su cupón percentange"
+
+msgid "Which Gender The Product For ?"
+ msgstr "¿Qué género El producto para?"
+
+msgid "Select Gender"
+ msgstr "Seleccione género"
+
+msgid "Shipping"
+ msgstr "Envío"
+
+msgid "Ready to ship in"
+ msgstr "Listo para enviar en"
+
+msgid "business day"
+ msgstr "día laboral"
+
+msgid "business days"
+ msgstr "días hábiles"
+
+msgid "weeks"
+ msgstr "semanas"
+
+msgid "Ships To"
+ msgstr "Realiza envíos a"
+
+msgid "Select a location"
+ msgstr "Seleccione una ubicación"
+
+msgid "Ship Details"
+ msgstr "Detalles de buques"
+
+msgid "Ships to"
+ msgstr "Realiza envíos a"
+
+msgid "Cost"
+ msgstr "Costo"
+
+msgid "Remove"
+ msgstr "retirar"
+
+msgid "default"
+ msgstr "defecto"
+
+msgid "Everywhere else"
+ msgstr "En todos lados"
+
+msgid "Submit"
+ msgstr "Enviar"
+
+msgid "Reset"
+ msgstr "Reiniciar"
+
+msgid "SELLER TIPS"
+ msgstr "EXTREMIDADES DEL VENDEDOR"
+
+msgid "COMMISSIONS"
+ msgstr "COMISIONES"
+
+msgid "Commission"
+ msgstr "Comisión"
+
+msgid "TYPE"
+ msgstr "TIPO"
+
+msgid "Products"
+ msgstr "productos"
+
+msgid "Date Filter"
+ msgstr "fecha Filtrar"
+
+msgid "Product title"
+ msgstr "título del producto"
+
+msgid "Quantity"
+ msgstr "Cantidad"
+
+msgid "Size Options"  
+msgstr "Opciones de tamaño"
+
+msgid "Created"  
+msgstr "Creado"
+
+msgid "Status"  
+msgstr "Estado"
+
+msgid "Actions"  
+msgstr "Comportamiento"
+
+msgid "No Product Available"
+ msgstr "No Producto Disponible"
+
+msgid "Start Date"
+ msgstr "Fecha de inicio"
+
+msgid "End Date"
+ msgstr "Fecha final"
+
+msgid "Filters"
+ msgstr "filtros"
+
+msgid "Manage Orders"
+ msgstr "gestionar los pedidos"
+
+msgid "View Old Orders"
+ msgstr "Ver Órdenes antiguas"
+
+msgid "Buyer"
+ msgstr "Comprador"
+
+msgid "Total"
+ msgstr "Total"
+
+msgid "Sale Date"
+ msgstr "Fecha de venta"
+
+msgid "Options"
+ msgstr "opciones"
+
+msgid "Mark Process"
+ msgstr "Marcos Proceso"
+
+msgid "View Invoice"
+ msgstr "Mirar la factura"
+
+msgid "Mark as Delivered"
+ msgstr "Marcar como Entregado"
+
+msgid "View Conversation"
+ msgstr "Ver conversación"
+
+msgid "Contact Buyer"
+ msgstr "Contacto Comprador"
+
+msgid "New Orders"
+ msgstr "Nuevos pedidos"
+
+msgid "Color / Size"
+ msgstr "Color / Tamaño"
+
+msgid "Add Tracking"
+ msgstr "Agregar el seguimiento"
+
+msgid "Mark Shipped"
+ msgstr "Marcos Enviado"
+
+msgid "History Orders"
+ msgstr "historial de pedidos"
+
+msgid "Recent Orders"
+ msgstr "órdenes recientes"
+
+msgid "Delivered"
+ msgstr "Entregado"
+
+msgid "Pending"
+ msgstr "Pendiente"
+
+msgid "Processing"
+ msgstr "Tratamiento"
+
+msgid "Shipped"
+ msgstr "Enviado"
+
+msgid "Old Orders"
+ msgstr "órdenes de edad"
+
+msgid "View recent orders"
+ msgstr "Ver pedidos recientes"
+
+msgid "Mark as Paid"
+ msgstr "Marcar como pago"
+
+msgid "Refunded"
+ msgstr "Reintegrado"
+
+msgid "Paid"
+ msgstr "Pagado"
+
+msgid "Invoice"
+ msgstr "Factura"
+
+msgid "Order"
+ msgstr "Orden"
+
+msgid "on"
+ msgstr "en"
+
+msgid "Payment Method"
+ msgstr "Método de pago"
+
+msgid "Delivery Type"
+ msgstr "tipo de entrega"
+
+msgid "Pickup"
+ msgstr "Recoger"
+
+msgid "Door Delivery"
+ msgstr "Entrega puerta"
+
+msgid "Payment Status"
+ msgstr "Estado de pago"
+
+msgid "Barcode"
+ msgstr "Código de barras"
+
+msgid "Buyer Details"
+ msgstr "Detalles del comprador"
+
+msgid "Email"
+ msgstr "Email"
+
+msgid "Shipping Address"
+ msgstr "Dirección de Envío"
+
+msgid "Product Id"
+ msgstr "ID del Producto"
+
+msgid "Product Name"
+ msgstr "nombre del producto"
+
+msgid "EAN Number"
+ msgstr "Número EAN"
+
+msgid "Size"
+ msgstr "tamaño"
+
+msgid "Unit Price"
+ msgstr "Precio unitario"
+
+msgid "Shipping Fee"
+ msgstr "Gastos de envío"
+
+msgid "Total Price"
+ msgstr "Precio total"
+
+msgid "Gift Card Used"
+ msgstr "Tarjeta de regalo que se usan"
+
+msgid "Product Total"
+ msgstr "producto total"
+
+msgid "Tax"
+ msgstr "Impuesto"
+
+msgid "Grand Total"
+ msgstr "Gran total"
+
+msgid "Conversation"
+ msgstr "Conversacion"
+
+msgid "Seller Conversation"
+ msgstr "Conversación vendedor"
+
+msgid "Conversation with buyer"
+ msgstr "Conversación con el comprador"
+
+msgid "Order Id"
+ msgstr "Solicitar ID"
+
+msgid "Send"
+ msgstr "Enviar"
+
+msgid "Previous Messages"
+ msgstr "Los mensajes anteriores"
+
+msgid "No Conversation Found"
+ msgstr "No Conversación Encontrado"
+
+msgid "Load more comment"
+ msgstr "Cargar más comentarios"
+
+msgid "Cancel"
+ msgstr "Cancelar"
+
+msgid "Mark as Shipped"
+ msgstr "Marcar como Enviado"
+
+msgid "Message"
+ msgstr "Mensaje"
+
+msgid "Subject"
+ msgstr "Tema"
+
+msgid "Address"
+ msgstr "Dirección"
+
+msgid "Name"
+ msgstr "Nombre"
+
+msgid "Save"
+ msgstr "Salvar"
+
+msgid "Additional Notes"
+ msgstr "Notas adicionales"
+
+msgid "Tracking Id"
+ msgstr "ID de rastreo"
+
+msgid "Shipping Method"
+ msgstr "Método de envío"
+
+msgid "Shipment Date"
+ msgstr "Fecha de envío"
+
+msgid "Add Tracking Details"
+ msgstr "Agregar el seguimiento de detalles"
+
+msgid "Tracking Details"
+ msgstr "Detalles de seguimiento"
+
+msgid "Enter the Courier"
+ msgstr "Introduzca El Correo"
+
+msgid "Shipping Service"
+ msgstr "Servicio de envío"
+
+msgid "Coupon Code"
+ msgstr "Código promocional"
+
+msgid "Generate Code"
+ msgstr "Generar codigo"
+
+msgid "Category"
+ msgstr "Categoría"
+
+msgid "Coupon Usage Count"
+ msgstr "Cupón Conteo de uso"
+
+msgid "Discount Percentage"
+ msgstr "Porcentaje de descuento"
+
+msgid "No Coupons Found"
+ msgstr "No hay cupones encontrados"
+
+msgid "Percentage"
+ msgstr "Porcentaje"
+
+msgid "Remaining"
+ msgstr "Restante"
+
+msgid "Total Coupons"
+ msgstr "Cupones totales"
+
+msgid "Coupon Code"
+ msgstr "Código promocional"
+
+msgid "Category Coupons"
+ msgstr "categoría Economía"
+
+msgid "Item Coupons"
+ msgstr "Cupones de artículos"
+
+msgid "Cart Coupons"
+ msgstr "Cesta Cupones"
+
+msgid "Abandon Cart"
+ msgstr "abandonar la Cesta"
+
+msgid "No Cart Details Found"
+ msgstr "No se han encontrado cesta Detalles"
+
+msgid "Created At"
+ msgstr "Creado en"
+
+msgid "Item Name"
+ msgstr "Nombre del árticulo"
+
+msgid "Item Details"
+ msgstr "detalles del artículo"
+
+msgid "User Name"
+ msgstr "Nombre de usuario"
+
+msgid "Closed Disputes"
+ msgstr "Las disputas cerradas"
+
+msgid "Active Disputes"
+ msgstr "Las disputas activas"
+
+msgid "Dispute Id"
+ msgstr "Id controversia"
+
+msgid "Dispute On"
+ msgstr "En disputar"
+
+msgid "Other Party"
+ msgstr "Otra fiesta"
+
+msgid "Dispute Amount"
+ msgstr "Cantidad de controversias"
+
+msgid "Load More"
+ msgstr "Carga más"
+
+msgid "Responded"
+ msgstr "respondido"
+
+msgid "Reply"
+ msgstr "Respuesta"
+
+msgid "Initialized"
+ msgstr "inicializado"
+
+msgid "Dispute as seller"
+ msgstr "Controversia en cuanto al vendedor"
+
+msgid "Seller"
+ msgstr "Vendedor"
+
+msgid "Resolved"
+ msgstr "Resuelto"
+
+msgid "Closed"
+ msgstr "Cerrado"
+
+msgid "Respond"
+ msgstr "Responder"
+
+msgid "Click to choose file"
+ msgstr "Haga clic para seleccionar el archivo"
+
+msgid "Total Amount"
+ msgstr "Cantidad total"
+
+msgid "Purchase Amount"
+ msgstr "Monto de la compra"
+
+msgid "Negotiation"
+ msgstr "Negociación"
+
+msgid "Accept"
+ msgstr "Aceptar"
+
+msgid "Image"
+ msgstr "Imagen"
+
+msgid "Mail Chimp API Key"
+ msgstr "Chimpancé electrónico clave de API"
+
+msgid "Contacts List"
+ msgstr "Lista de contactos"
+
+msgid "Get Contacts List"
+ msgstr "Obtener la lista de contactos"
+
+msgid "Choose an option"
+ msgstr "Escoge una opción"
+
+msgid "Get Contacts"
+ msgstr "Obtener Contactos"
+
+msgid "Add New Contacts"
+ msgstr "Añadir nuevos contactos"
+
+msgid "Contact Group List"
+ msgstr "Lista de contactos de Grupo"
+
+msgid "Braintree Id"
+ msgstr "Id Braintree"
+
+msgid "Braintree Private Key"
+ msgstr "Braintree clave privada"
+
+msgid "Braintree Public Key"
+ msgstr "Braintree clave pública"
+
+msgid "Payment Settings"
+ msgstr "Configuración de pago"
+
+msgid "Payment History"
+ msgstr "historial de pagos"
+
+msgid "Date"
+ msgstr "Fecha"
+
+msgid "Payment Id"
+ msgstr "Id pago"
+
+msgid "Gross Amount"
+ msgstr "Importe bruto"
+
+msgid "Memo"
+ msgstr "Memorándum"
+
+msgid "Payment Mode"
+ msgstr "Modo de pago"
+
+msgid "Transaction Id"
+ msgstr "ID de transacción"
+
+msgid "No Payment Details Available"
+ msgstr "No hay Detalles de pago disponibles"
+
+msgid "Created Date"
+ msgstr "Fecha de creación"
+
+msgid "Show"
+ msgstr "Espectáculo"
+
+msgid "Hide"
+ msgstr "Esconder"
+
+msgid "Edit Profile"
+ msgstr "Editar perfil"
+
+msgid "Messages"
+ msgstr "mensajes"
+
+msgid "News"
+ msgstr "Noticias"
+
+msgid "Change Password"
+ msgstr "Cambia la contraseña"
+
+msgid "Logout"
+ msgstr "Cerrar sesión"
+
+msgid "Old Password"
+ msgstr "Contraseña anterior"
+
+msgid "New Password"
+ msgstr "nueva contraseña"
+
+msgid "Confirm Password"
+ msgstr "Confirmar contraseña"
+
+msgid "Contact Seller Conversations"
+ msgstr "Conversaciones de contacto del vendedor"
+
+msgid "From"
+ msgstr "De"
+
+msgid "To"
+ msgstr "A"
+
+msgid "Item"
+ msgstr "ít."
+
+msgid "No Messages Found"
+ msgstr "No hay mensajes encontrados"
+
+msgid "No Record Found"
+ msgstr "ningún record fue encontrado"
+
+msgid "View News"
+ msgstr "Ver Noticias"
+
+msgid "This notifications will be posted in their notification section. The users who connected with mobile apps will receive push notification updates from this sections."
+ msgstr "Este notificaciones se publicarán en su sección de notificación. Los usuarios que conectan con las aplicaciones móviles recibirán actualizaciones de notificación de inserción de estas secciones."
+
+msgid "This is the news section where any merchant can update their followers with any new updates, sales or any upcome events on your merchant account."
+ msgstr "Esta es la sección de noticias, donde cualquier comerciante puede actualizar a sus seguidores con las nuevas actualizaciones, ventas o cualquier evento upcome en su cuenta de comerciante."
+
+msgid "What is the News"
+ msgstr "Cuales son las noticias"
+
+msgid "Add News"
+ msgstr "Añadir Noticias"
+
+msgid "Edit Seller"
+ msgstr "Editar vendedor"
+
+msgid "Disable Store"
+ msgstr "Desactivar tienda"
+
+msgid "Enable Store"
+ msgstr "Habilitar tienda"
+
+msgid "Account Information"
+ msgstr "Información de la cuenta"
+
+msgid "First Name"
+ msgstr "Nombre de pila"
+
+msgid "Last Name"
+ msgstr "Apellido"
+
+msgid "Email Address"
+ msgstr "Dirección de correo electrónico"
+
+msgid "Username"
+ msgstr "Nombre de usuario"
+
+msgid "Profile Image"
+ msgstr "Imagen de perfil"
+
+msgid "Merchant Information"
+ msgstr "Información comerciante"
+
+msgid "Shop Image"
+ msgstr "tienda imagen"
+
+msgid "Banner Image"
+ msgstr "imagen del Anuncio"
+
+msgid "Shop Description"
+ msgstr "Descripción de la tienda"
+
+msgid "Phone Number"
+ msgstr "Número de teléfono"
+
+msgid "Country Code"
+ msgstr "Código de país"
+
+msgid "Area"
+ msgstr "Zona"
+
+msgid "Phone Number"
+ msgstr "Número de teléfono"
+
+msgid "Store Name"
+ msgstr "Nombre de la tienda"
+
+msgid "Do you have provide free wifi"
+ msgstr "¿Tiene ofrecer wifi gratis"
+
+msgid "Shipping Information"
+ msgstr "Información de envío"
+
+msgid "Free Pickup"
+ msgstr "recogida gratuita"
+
+msgid "Free delivery if order amount is greater than"
+ msgstr "la entrega gratuita si cantidad de la orden es mayor que"
+
+msgid "Free delivery for postal codes"
+ msgstr "entrega libre para códigos postales"
+
+msgid "Postal Codes"
+ msgstr "Códigos postales"
+
+msgid "Search for"
+ msgstr "Buscar"
+
+msgid "ADD"
+ msgstr "AÑADIR"
+
+msgid "Business Address"
+ msgstr "Dirección de Negocios"
+
+msgid "Address Line"
+ msgstr "Dirección"
+
+msgid "City"
+ msgstr "Ciudad"
+
+msgid "State / Province / Region"
+ msgstr "Estado / Provincia / Región"
+
+msgid "Country"
+ msgstr "País"
+
+msgid "Select Country"
+ msgstr "Seleccionar país"
+
+msgid "Zip / Postal Code"
+ msgstr "Zip / Código Postal"
+
+msgid "GO"
+ msgstr "IR"
+
+msgid "Latitude"
+ msgstr "Latitud"
+
+msgid "Click Go button to update latitude"
+ msgstr "Haga clic en el botón Ir para actualizar la latitud"
+
+msgid "Longitude"
+ msgstr "Longitud"
+
+msgid "Click Go button to update longitude"
+ msgstr "Haga clic en el botón Ir para actualizar longitud"
+
+msgid "I have read and agree to the Merchant Terms of Conditions"
+ msgstr "He leído y acepto las condiciones de Merchant Condiciones"
+
+msgid "To find the latitude and longitude of a point, Click or Drag on the map"
+ msgstr "Para encontrar la latitud y longitud de un punto, haga clic o arrastre en el mapa"
+
+msgid "by"
+ msgstr "por"
+
+msgid "Like"
+ msgstr "Me gusta"
+
+msgid "Comments"
+ msgstr "comentarios"
+
+msgid "Product Selfies"
+ msgstr "autofotos de productos"
+
+msgid "more"
+ msgstr "Más"
+
+msgid "Sold Out"
+ msgstr "Agotado"
+
+msgid "Only"
+ msgstr "Solamente"
+
+msgid "Available"
+ msgstr "Disponible"
+
+msgid "Available Sizes"
+ msgstr "Tallas disponibles"
+
+msgid "Not available"
+ msgstr "No disponible"
+
+msgid "One business day"
+ msgstr "Un día hábil"
+
+msgid "Two business days"
+ msgstr "De dos días hábiles"
+
+msgid "Three business days"
+ msgstr "Tres días hábiles"
+
+msgid "Four business days"
+ msgstr "Cuatro días hábiles"
+
+msgid "One-Two week business days"
+ msgstr "Uno-dos días la semana de negocio"
+
+msgid "Two-Three week business days"
+ msgstr "Dos-tres días la semana de negocio"
+
+msgid "Three-Four week business days"
+ msgstr "Tres-cuatro días la semana de negocio"
+
+msgid "Four-Six week business days"
+ msgstr "Cuatro y seis días hábiles semana"
+
+msgid "Six-Eight week business days"
+ msgstr "Seis y ocho días la semana de negocio"
+
+msgid "Coupon"
+ msgstr "Cupón"
+
+msgid "Generate Coupon"
+ msgstr "generar Cupón"
+
+msgid "more"
+ msgstr "Más"
+
+msgid "News updated by"
+ msgstr "Noticias actualizadas por"
+
+msgid "Hello"
+ msgstr "Hola"
+
+msgid "News from"
+ msgstr "Noticias de"
+
+msgid "updated the News"
+ msgstr "actualizado las noticias"
+
+msgid "Regards"
+ msgstr "Saludos"
+
+msgid "Your Order"
+ msgstr "Su pedido"
+
+msgid "shipment was"
+ msgstr "envío fue"
+
+msgid "The order was successfully processed"
+ msgstr "El orden se ha procesado satisfactoriamente"
+
+msgid "Order ID"
+ msgstr "Solicitar ID"
+
+msgid "Hi"
+ msgstr "Hola"
+
+msgid "This email confirms your order"
+ msgstr "Este correo electrónico confirma su pedido"
+
+msgid "was successfully processed from the seller"
+ msgstr "fue procesado con éxito por parte del vendedor"
+
+msgid "details"
+ msgstr "detalles"
+
+msgid "Order Date"
+ msgstr "Fecha de orden"
+
+msgid "Ship To"
+ msgstr "Envie a"
+
+msgid "Zip Code"
+ msgstr "Código postal"
+
+msgid "Phone"
+ msgstr "Teléfono"
+
+msgid "State"
+ msgstr "Estado"
+
+msgid "The shipment was successfully delivered to buyer"
+ msgstr "El envío fue entregado con éxito para el comprador"
+
+msgid "This email confirms your shipment on your order"
+ msgstr "Este correo electrónico confirma su envío en su pedido"
+
+msgid "was successfully delivered to the buyer"
+ msgstr "fue entregado con éxito para el comprador"
+
+msgid "accounts team will review this order and your fund for this order will be delivered within 3 working days"
+ msgstr "cuentas de equipo revisará este orden y su fondo para este pedido será entregado dentro de 3 días laborables"
+
+msgid "If you do not receive your fund within the time, kindly send an email"
+ msgstr "Si usted no recibe su fondo de dentro del tiempo, la amabilidad de enviarnos un correo electrónico"
+
+msgid "here"
+ msgstr "aquí"
+
+msgid "Team"
+ msgstr "Equipo"
+
+msgid "Shipping details for Order"
+ msgstr "Detalles del envío para la orden"
+
+msgid "Shipment tracking details"
+ msgstr "datos para el seguimiento del envío"
+
+msgid "Shipment tracking details are"
+ msgstr "datos para el seguimiento del envío son"
+
+msgid "Shipment Started On"
+ msgstr "El envío se inició el"
+
+msgid "Logistic Name"
+ msgstr "Nombre logística"
+
+msgid "Service Type"
+ msgstr "Tipo de servicio"
+
+msgid "Your order details"
+ msgstr "Sus detalles de la orden"
+
+msgid "Shipping initiated for order"
+ msgstr "Envío iniciada por el orden"
+
+msgid "Your order has been dispatched from the seller"
+ msgstr "Su pedido ha sido enviado desde el vendedor"
+
+msgid "The seller confirmed the shipment of your order"
+ msgstr "El vendedor confirmó el envío de su pedido"
+
+msgid "Shortly you will be notified with the tracking details of your order shipment"
+ msgstr "Poco se le notificará con los datos para el seguimiento de su envío fin"
+
+msgid "Your order is confirmed. The same has been notified to the seller too. Once the order is shipped by the seller, we will send you an email with the shipment details from the seller."
+ msgstr "Se confirma su orden. Lo mismo se ha notificado al vendedor también. Una vez que la orden es enviada por el vendedor, le enviaremos un correo electrónico con los detalles del envío del vendedor."
+
+msgid "In case if you have ordered multiple items from multiple sellers, all your orders may be delivered separately."
+ msgstr "En caso si usted ha ordenado varios artículos de múltiples vendedores, todos sus pedidos pueden ser entregados por separado."
+
+msgid "All your orders can be seen and tracked through your account available in"
+ msgstr "Todos sus pedidos pueden ser vistos y seguimiento a través de su cuenta disponible en"
+
+msgid "Seller accepted your selfie on product"
+ msgstr "El vendedor acepta su autofoto en el producto"
+
+msgid "Your new password has arrived"
+ msgstr "Su nueva contraseña ha llegado"
+
+msgid "Seller accepted the dispute"
+ msgstr "El vendedor acepta la disputa"
+
+msgid "Your product selfie was accepted"
+ msgstr "Su autofoto producto fue aceptado"
+
+msgid "Your new password"
+ msgstr "Tu nueva contraseña"
+
+msgid "You or (someone else) has filed a request for a new password"
+ msgstr "Usted o (otra persona) ha presentado una solicitud de una nueva contraseña"
+
+msgid "To reset your password, Please click the link given below"
+ msgstr "Para restablecer su contraseña, por favor haga clic en el enlace que figura a continuación"
+
+msgid "There is a dispute in your order ID"
+ msgstr "Hay una disputa en su identificación de la orden"
+
+msgid "accepted by"
+ msgstr "aceptado por"
+
+msgid "This email is to notify that there is a dispute raised on your order"
+ msgstr "Este correo electrónico es para notificar que hay un conflicto planteado en su pedido"
+
+msgid "It was accepted by"
+ msgstr "Fue aceptado por"
+
+msgid "We would like you to take this dispute on high priority"
+ msgstr "Nos gustaría que tomar esta controversia en alta prioridad"
+
+msgid "Thanks for your co-operations"
+ msgstr "Gracias por sus compañeros de operaciones"
+
+msgid "Thanks, Welcome Back"
+ msgstr "Gracias, Bienvenido de nuevo"
+
+msgid "Try again"
+ msgstr "Inténtalo de nuevo"
+
+msgid "Welcome"
+ msgstr "Bienvenido"
+
+msgid "Please wait for admin approval"
+ msgstr "Por favor, espere a que la aprobación del administrador"
+
+msgid "Store name already exists"
+ msgstr "Nombre del negocio ya existe"
+
+msgid "Your account has been created, Please Wait for admin approval"
+ msgstr "Su cuenta ha sido creada, por favor, espere la aprobación del administrador"
+
+msgid "Username and Email already exists"
+ msgstr "Nombre de usuario y correo electrónico ya existe"
+
+msgid "Username already exists"
+ msgstr "nombre de usuario ya existe"
+
+msgid "Email already exists"
+ msgstr "el Email ya existe"
+
+msgid "Payment settings Updated successfully"
+ msgstr "Configuración de pago actualizado correctamente"
+
+msgid "Error in search date"
+ msgstr "Error en la fecha de búsqueda"
+
+msgid "Coupon added successfully"
+ msgstr "Cupón añadido correctamente"
+
+msgid "Coupon updated successfully"
+ msgstr "Cupón actualizado correctamente"
+
+msgid "Coupon Code Already Exists"
+ msgstr "Código de cupón ya existe"
+
+msgid "No Item Found"
+ msgstr "Ningún artículo encontrado"
+
+msgid "Coupon already added to this category"
+ msgstr "El cupón ya añadió a esta categoría"
+
+msgid "Coupon added to this category"
+ msgstr "Cupón añaden a esta categoría"
+
+msgid "Coupon updated to this category"
+ msgstr "Cupón actualiza a esta categoría"
+
+msgid "Please Add Mail Chimp API Key"
+ msgstr "Por favor Añadir correo chimpancé clave de API"
+
+msgid "Newsletter Key saved successfully"
+ msgstr "Boletín clave guardado correctamente"
+
+msgid "Newsletter Send Successfully"
+ msgstr "Boletín enviado con éxito"
+
+msgid "Please add members to the list"
+ msgstr "Por favor agregar miembros a la lista"
+
+msgid "News sent to followers Successfully"
+ msgstr "Noticias enviado a los seguidores con éxito"
+
+msgid "No followers Found"
+ msgstr "Sin seguidores encontrados"
+
+msgid "Your url is not valid"
+ msgstr "Su URL no es válida"
+
+msgid "The item you are searching is not found"
+ msgstr "El elemento que está buscando no se encuentra"
+
+msgid "No Conversation Found"
+ msgstr "No Conversación Encontrado"
+
+msgid "Product was already delivered"
+ msgstr "Producto ya fue entregado"
+
+msgid "Tracking details added successfully"
+ msgstr "detalles de seguimiento agregados correctamente"
+
+msgid "No order found"
+ msgstr "No se encontró el fin"
+
+msgid "Order initiated for shipping successfully"
+ msgstr "Solicitar inició con éxito para el envío"
+
+msgid "Your account has been disabled please contact our support"
+ msgstr "Su cuenta ha sido deshabilitada por favor, póngase en contacto con nuestro apoyo"
+
+msgid "Waiting for admin approval"
+ msgstr "A la espera de la aprobación del administrador"
+
+msgid "Item added successfully, waiting for admin approval"
+ msgstr "Elemento añadido con éxito, a la espera de la aprobación del administrador"
+
+msgid "Product selfie deleted successfully"
+ msgstr "autofoto Producto eliminado correctamente"
+
+msgid "Product selfie accepted successfully"
+ msgstr "autofoto producto aceptado satisfactoriamente"
+
+msgid "Product selfie declined successfully"
+ msgstr "autofoto producto se redujo con éxito"
+
+msgid "Seller Information updated successfully"
+ msgstr "Información del Vendedor actualizado correctamente"
+
+msgid "Password sent, Check your email immediately"
+ msgstr "Contraseña enviada, revise su correo electrónico inmediatamente"
+
+msgid "Mail Sending failed, Contact Admin"
+ msgstr "No ha podido enviar el correo, contacto administrativo"
+
+msgid "Please Give Valid Merchant account"
+ msgstr "Por favor, dar cuenta de comerciante Válido"
+
+msgid "Email id is not found, Please register to our site"
+ msgstr "No se encontró correo electrónico de identificación, por favor Regístrese a nuestro sitio"
+
+msgid "Dispute Status Changed"
+ msgstr "Estado de la impugnación Changed"
+
+msgid "Your password has been changed successfully"
+ msgstr "tu contraseña ha sido cambiada exitosamente"
+
+msgid "Not Authorized to Access"
+ msgstr "No autorizado a acceder"
+
+msgid "Invalid URL Link"
+ msgstr "Enlace URL no válida"
+
+msgid "Password Reset link expired, Try again"
+ msgstr "Restablecer contraseña de enlace expirado, Inténtelo de nuevo"
+
+msgid "New Password Generated, please login to continue"
+ msgstr "Nueva contraseña generada, por favor iniciar sesión para continuar"
+
+msgid "No Contacts Found"
+ msgstr "No hay contactos encontrados"
+
+ msgid "Updated the News"
+msgstr "Actualizado las noticias"
+
+msgid "has been marked as"
+msgstr "ha sido marcado como"
+
+msgid "has been updated with Tracking details"
+msgstr "ha sido actualizado con detalles de seguimiento"
+
+msgid "has been marked as Shipped"
+msgstr "ha sido marcado como enviado"
+
+msgid "is now following your Store"
+msgstr "ahora sigue tu tienda"
+
+msgid "is now following you"
+msgstr "ahora te está siguiendo"
+
+msgid "wrote a review for you"
+msgstr "escribió una reseña para ti"
+
+msgid "posted a news"
+msgstr "publicado una noticia"
+
+msgid "Your product has been approved"
+msgstr "Su producto ha sido aprobado"
+
+msgid "sent a message"
+msgstr "envió un mensaje"
+
+msgid "sent a query on your product:"
+msgstr "envió una consulta sobre su producto:"
+
+msgid "You have received a gift card"
+msgstr "Has recibido una tarjeta de regalo"
+
+msgid "No Notifications Found"
+msgstr "No se encontraron notificaciones"
+
+msgid "Notifications"
+msgstr "Notificaciones"
+
+msgid "Notify Message"
+msgstr "Mensaje de notificación"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Buyer Replied For the Dispute :"
+msgstr "Comprador respondido por la disputa :"
+
+msgid "Buyer Resolved the Dispute :"
+msgstr "El comprador resolvió la disputa :"
+
+msgid "Created a group gift on your product, Group Gift Id :"
+msgstr "Creó un regalo de grupo en su producto, ID de regalo grupal :"
+
+msgid "created a dispute on your order :"
+msgstr "Creó una disputa en su orden :"
+
+msgid "Buyer Cancelled the Dispute :"
+msgstr "El comprador canceló la disputa :"
+
+msgid "placed an order in your shop, order id :"
+msgstr "realizó un pedido en su tienda, ID de pedido :"
+
+msgid "replied for the dispute"
+msgstr "respondió por la disputa"
+
+msgid "Default Country and Currency"
+msgstr "País predeterminado y moneda"
+
+msgid "Note: Please make sure the given Braintree Id was pointed with chosen currency"
+msgstr "Nota: asegúrese de que el Id de Braintree dado haya sido apuntado con la moneda elegida"
+
+msgid "Thanks for visiting us at"
+msgstr "Gracias por visitarnos en"
+
+msgid "I saw that you were about to pick up some goods in the shop and that you didn't get a chance to finish your order."
+msgstr "Vi que estaba a punto de recoger algunos productos en la tienda y que no tuvo la oportunidad de terminar su pedido."
+
+msgid "I just wanted to see if there were any problems, or anything at all I could help with. If so, please let me know by responding to this email."
+msgstr "Solo quería ver si había algún problema o cualquier cosa con la que pudiera ayudar. Si es así, házmelo saber respondiendo a este correo electrónico."
+
+msgid "In case you were looking to pick up where you left off, here's a reminder of what you were thinking about getting"
+msgstr "En caso de que estuvieras buscando continuar donde lo dejaste, aquí hay un recordatorio de lo que estabas pensando obtener"
+
+msgid "Here is a link to your shopping cart"
+msgstr "Aquí hay un enlace a su carrito de compras"
+
+msgid "Thanks again for visiting us, and please let me know if you have thoughts on how we can improve your experience at"
+msgstr "Gracias de nuevo por visitarnos y, por favor, avíseme si tiene alguna idea sobre cómo podemos mejorar su experiencia en"
+
+msgid "Best wishes from"
+msgstr "Los mejores deseos de"
+
+msgid "You forgot to checkout item(s)"
+msgstr "Se olvidó de pagar artículo (s)"
+
+msgid "Barcode number"
+msgstr "Codigo de barras"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Completed"
+msgstr "Terminado"
+
+msgid "Please add products to generate category coupon"
+msgstr "Por favor agregue productos para generar cupones de categoría"
+
+msgid "Email id or password is incorrect"
+msgstr "La identificación o contraseña del correo electrónico es incorrecta"
+
+msgid "Incorrect old password"
+msgstr "Contraseña antigua incorrecta"
+
+msgid "Admin"
+msgstr "Administración"
+
+msgid "updated a commission"
+msgstr "actualizado una comisión"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

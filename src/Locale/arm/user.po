@@ -1,0 +1,2960 @@
+msgid "Item removed from cart"
+msgstr "እቃ ከጋሪው ተወግዷል"
+
+msgid "Payment didn't go through Please try again"
+msgstr "ክፍያው አልተላለፈም እባክዎ እንደገና ይሞክሩ."
+
+msgid "You have"
+msgstr "አለሽ"
+
+msgid "items in your cart"
+msgstr "ዕቃዎች በጋሪዎ ውስጥ"
+
+msgid "Item Details"
+msgstr "የእቃ ዝርዝሮች"
+
+msgid "Quantity"
+msgstr "ብዛት"
+
+
+msgid "Delivery"
+msgstr "ማድረስ"
+
+msgid "Subtotal"
+msgstr "ንዑስ"
+
+msgid "Remove"
+msgstr "አስወግድ"
+
+msgid "Size"
+msgstr "መጠን"
+
+msgid "N/A"
+msgstr "ኤን"
+
+msgid "Sold-Out"
+msgstr "ተሽጦ አልቆዋል"
+
+msgid "One business day"
+msgstr "አንድ የሥራ ቀን"
+
+msgid "Two business days"
+msgstr "ሁለት የስራ ቀናት"
+
+msgid "Three business days"
+msgstr "ሶስት የስራ ቀናት"
+
+msgid "Four business days"
+msgstr "አራት የስራ ቀናት"
+
+msgid "Two-Three weeks"
+msgstr "ሁለት-ሶስት ሳምንታት"
+
+msgid "Three-Four weeks"
+msgstr "ሶስት-አራት ሳምንታት"
+
+msgid "Four-Six weeks"
+msgstr "አራት-ስድስት ሳምንታት"
+
+msgid "Six-Eight weeks"
+msgstr "ስድስት-ስምንት ሳምንታት"
+
+msgid "Cannot Ship this Product to your Location"
+msgstr "ይህንን ምርት ወደ አካባቢዎ ማጓጓዝ አይቻልም"
+
+msgid "Total"
+msgstr "ድምር"
+
+msgid "Delivery"
+msgstr "ማድረስ"
+
+msgid "No more quantity available for this product"
+msgstr "ለዚህ ምርት ከዚህ በላይ ብዛት አይገኝም"
+
+msgid "This Product variants are unavailable now. Kindly remove the item to checkout"
+msgstr "ይህ የምርት ዓይነቶች አሁን አይገኙም። ተመዝግቦ ለመውጣት እቃውን በደግነት ያስወግዱ"
+
+msgid "Shipping is not available for this product"
+msgstr "ጭነት ለዚህ ምርት አይገኝም"
+
+msgid "Item Total"
+msgstr "የእቃ ጠቅላላ"
+
+msgid "Shipping Total"
+msgstr "ጠቅላላ መላኪያ"
+
+msgid "Price Details"
+msgstr "የዋጋ ዝርዝሮች"
+
+msgid "Price"
+msgstr "ዋጋ"
+
+msgid "items"
+msgstr "ዕቃዎች"
+
+msgid "Shipping Total"
+msgstr "ጠቅላላ መላኪያ"
+
+msgid "Paypal Brain Tree"
+msgstr "Paypal የአንጎል ዛፍ"
+
+msgid "Cash on Delivery"
+msgstr "በጥሬ ገንዘብ አቅርቦት ላይ"
+
+msgid "Paypal: 100% Payment Protection, Easy Return Policy"
+msgstr "Paypal: 100% የክፍያ መከላከያ, ቀላል የመመለሻ ፖሊሲ"
+
+msgid "By placing the order, I have read and agreed the"
+msgstr "ትዕዛዙን በማስቀመጥ አንብቤ ተስማምቻለሁ"
+
+msgid "Terms of Use"
+msgstr "የአጠቃቀም መመሪያ"
+
+msgid "Ship to"
+msgstr "የሚላከው"
+
+msgid "Cash on Delivery"
+msgstr "በጥሬ ገንዘብ አቅርቦት ላይ"
+
+msgid "'s"
+msgstr "እ.ኤ.አ."
+
+msgid "Select your address"
+msgstr "አድራሻዎን ይምረጡ"
+
+msgid "Add Shipping Address"
+msgstr "የመላኪያ አድራሻ ያክሉ"
+
+msgid "Please add the shipping address"
+msgstr "እባክዎን የመላኪያ አድራሻውን ያክሉ"
+
+msgid "Coupon Code"
+msgstr "የኩፖን ኮድ"
+
+msgid "Please enter your coupon code"
+msgstr "እባክዎ የኩፖን ኮድዎን ያስገቡ"
+
+msgid "Please enter a valid coupon code"
+msgstr "እባክዎ የሚሰራ የኩፖን ኮድ ያስገቡ"
+
+msgid "Coupon code you entered is expired"
+msgstr "ያስገቡት የኩፖን ኮድ ጊዜው አልፎበታል"
+
+msgid "Coupon code is not valid for this cart"
+msgstr "ለዚህ ጋሪ የኩፖን ኮድ ዋጋ የለውም"
+
+msgid "Apply Coupon"
+msgstr "ኩፖን ይተግብሩ"
+
+msgid "Apply Gift Card"
+msgstr "የስጦታ ካርድ ይተግብሩ"
+
+msgid "Please enter your giftcard code"
+msgstr "እባክዎን የስጦታ ካርድዎን ያስገቡ"
+
+msgid "Please enter a valid giftcard code"
+msgstr "እባክዎ የሚሰራ የስጦታ ካርድ ኮድ ያስገቡ"
+
+msgid "Use Credit Amount"
+msgstr "የብድር መጠን ይጠቀሙ"
+
+msgid "Total credits available"
+msgstr "ጠቅላላ ዱቤዎች ይገኛሉ"
+
+msgid "Allowed credits on this cart"
+msgstr "በዚህ ጋሪ ላይ የተፈቀዱ ዱቤዎች"
+
+msgid "Enter your credit amount to use"
+msgstr "ለመጠቀም የብድር መጠንዎን ያስገቡ"
+
+msgid "Please enter a credit amount"
+msgstr "እባክዎ የብድር መጠን ያስገቡ"
+
+msgid "You can use cart allowed credits only"
+msgstr "በጋሪ የተፈቀዱ ክሬዲቶችን ብቻ መጠቀም ይችላሉ"
+
+msgid "Apply"
+msgstr "ያመልክቱ"
+
+msgid "Invite Friends & Earn Credit Points"
+msgstr "ጓደኞችን ይጋብዙ እና የብድር ነጥቦችን ያግኙ"
+
+msgid "Security code is invalid"
+msgstr "የደህንነት ኮድ ዋጋ የለውም"
+
+msgid "Confirm Later"
+msgstr "በኋላ ያረጋግጡ"
+
+msgid "Confirm Order"
+msgstr "ትዕዛዙን ያረጋግጡ"
+
+msgid "Your Cart is Empty"
+msgstr "ጋሪዎ ባዶ ነው"
+
+msgid "Shop Now"
+msgstr "አሁን ግዛ"
+
+msgid "This product variants are unavailable now. kindly remove the item to checkout"
+msgstr "ይህ የምርት ዓይነቶች አሁን ይገኛሉ ፡፡ ዕቃውን ለመልቀቅ በደግነት ያስወግዱ"
+
+msgid "Shipping is not available for this product"
+msgstr "ጭነት ለዚህ ምርት አይገኝም"
+
+msgid "Discount"
+msgstr "ቅናሽ"
+
+msgid "Gift Card"
+msgstr "ስጦታ ካርድ"
+
+msgid "Thanks for your Purchase!"
+msgstr "ለግዢዎ እናመሰግናለን"
+
+msgid "Your Order placed successfully. You will a recieve a Email shortly from"
+msgstr "የእርስዎ ትዕዛዝ በተሳካ ሁኔታ ተተክሏል። በቅርቡ ኢሜል ይቀበላሉ"
+
+msgid "Continue Shopping"
+msgstr "ግብይቱን ይቀጥሉ"
+
+msgid "Pay with Card Or Paypal"
+msgstr "በካርድ ወይም በ Paypal ይክፈሉ"
+
+msgid "Cash On Delivery"
+msgstr "በጥሬ ገንዘብ አቅርቦት ላይ"
+
+msgid "Share this Order and get credit points"
+msgstr "ይህንን ትዕዛዝ ያጋሩ እና የብድር ነጥቦችን ያግኙ"
+
+msgid "Share your order now.You will credit with the points"
+msgstr "ትዕዛዝዎን አሁን ያጋሩ ፡፡ ከነጥቦቹ ጋር ብድር ያገኛሉ"
+
+msgid "Credit points will be updated in your account after the order processed"
+msgstr "ከትእዛዙ ሂደት በኋላ የብድር ነጥቦች በሂሳብዎ ውስጥ ይዘመናሉ"
+
+msgid "Enter your Message (Optional)"
+msgstr "መልእክትዎን ያስገቡ (አስገዳጅ ያልሆነ)"
+
+msgid "SELLER REVIEW"
+msgstr "የሻጭ ግምገማ"
+
+msgid "Facebook Share"
+msgstr "facebook ያጋሩ"
+
+msgid "Find People"
+msgstr "ሰዎችን ፈልግ"
+
+msgid "Search for Peoples"
+msgstr "ሰዎችን ፈልግ"
+
+msgid "Sell On"
+msgstr "መሸጥ"
+
+msgid "Group Gift"
+msgstr "የቡድን ስጦታ"
+
+msgid "Gift Card"
+msgstr "የስጦታ ካርዶች"
+
+msgid "Daily Deals"
+msgstr "ዕለታዊ ስምምነቶች"
+
+msgid "All Stores"
+msgstr "ሁሉም መደብሮች"
+
+msgid "Download App"
+msgstr "ማውረድ መተግበሪያn"
+
+msgid "My Profile"
+msgstr "የግል ማህደሬ"
+
+msgid "Find Friends"
+msgstr "ጓደኞችን ያግኙ"
+
+msgid "Invite Friends"
+msgstr "ጓደኞችን ይጋብዙ"
+
+msgid "Group Gift List"
+msgstr "የቡድን የስጦታ ዝርዝር"
+
+msgid "Track Orders"
+msgstr "የትራክ ትዕዛዞች"
+
+msgid "Settings"
+msgstr "ቅንጅቶች"
+
+msgid "Sign Out"
+msgstr "ዛግተ ውጣ"
+
+msgid "Notifications"
+msgstr "ማሳወቂያዎች"
+
+msgid "My cart"
+msgstr "ጋሪዬ"
+
+msgid "Qty"
+msgstr "ኪቲ"
+
+msgid "Price"
+msgstr "ዋጋ"
+
+msgid "Checkout"
+msgstr "ጨርሰህ ውጣ"
+
+msgid "Login"
+msgstr "ግባ"
+
+msgid "Signup"
+msgstr "ክፈት"
+
+msgid "Search for products, brand and more..."
+msgstr "ምርቶችን ፣ ምርቶችን እና ሌሎችን ይፈልጉ ..."
+
+msgid "Search"
+msgstr "ፍለጋ"
+
+msgid "Welcome"
+msgstr "እንኳን ደህና መጣህ"
+
+msgid "Live Feeds"
+msgstr "የቀጥታ ምግብ"
+
+msgid "My Orders"
+msgstr "የእኔ ትዕዛዞች"
+
+msgid "Message"
+msgstr "መልእክት"
+
+msgid "Invite and Earn"
+msgstr "መጋበዝ እና ገቢ ማግኘት"
+
+msgid "Help"
+msgstr "እገዛ"
+
+msgid "Guest"
+msgstr "እንግዳ"
+
+msgid "App"
+msgstr "መተግበሪያ"
+
+msgid "Fast, Simple & Delightful. All it takes is 30 seconds to Download!"
+msgstr "ፈጣን ፣ ቀላል እና አስደሳች። ለማውረድ የሚወስደው 30 ሰከንዶች ብቻ ነው!"
+
+msgid "iOS app store"
+msgstr "የ iOS መተግበሪያ መደብር"
+
+msgid "Android play store"
+msgstr "የ Android ጨዋታ መደብር"
+
+msgid "Scroll to Top"
+msgstr "ወደ ላይ ሸብልል"
+
+msgid "FAQ"
+msgstr "በየጥ"
+
+msgid "Contact"
+msgstr "እውቂያ"
+
+msgid "Copyright policy"
+msgstr "የቅጂ መብት ፖሊሲ"
+
+msgid "Terms of sales"
+msgstr "የሽያጭ ውሎች"
+
+msgid "Terms of service"
+msgstr "የአገልግሎት ውል"
+
+msgid "Terms & condition"
+msgstr "ውሎች እና ሁኔታዎች"
+
+msgid "Privacy"
+msgstr "ግላዊነት"
+
+msgid "Mobile"
+msgstr "ሞባይል"
+
+msgid "Resources"
+msgstr "ሀብቶች"
+
+msgid "My account"
+msgstr "አካውንቴ"
+
+msgid "My cart"
+msgstr "ጋሪዬ"
+
+msgid "Collections"
+msgstr "ስብስቦች"
+
+msgid "Track orders"
+msgstr "የትራክ ትዕዛዞች"
+
+msgid "Shipping info"
+msgstr "የመላኪያ መረጃ"
+
+msgid "Interested in selling?"
+msgstr "ለመሸጥ ፍላጎት አለዎት?"
+
+msgid "get started"
+msgstr "መጀመር"
+
+msgid "About us"
+msgstr "ስለ እኛ"
+
+msgid "Career"
+msgstr "የሥራ መስክ"
+
+msgid "Social responsibility"
+msgstr "ማህበራዊ ሃላፊነት"
+
+msgid "Business with us"
+msgstr "ንግድ ከእኛ ጋር"
+
+msgid "Copyrights"
+msgstr "የቅጂ መብት"
+
+msgid "All Rights Reserved"
+msgstr "መብቱ በህግ የተጠበቀ ነው"
+
+msgid "Social media"
+msgstr "ማህበራዊ ሚዲያ"
+
+msgid "See all notifications"
+msgstr "ሁሉንም ማሳወቂያዎች ይመልከቱ"
+
+msgid "No notifications"
+msgstr "ማሳወቂያዎች የሉም"
+
+msgid "sent this email to you"
+msgstr "ይህንን ኢሜል ልኮልዎታል"
+
+msgid "is committed to your privacy. Read more about"
+msgstr "ለግላዊነትዎ ቁርጠኛ ነው። ስለ ተጨማሪ ያንብቡ"
+
+msgid "privacy policy"
+msgstr "የ ግል የሆነ"
+
+msgid "terms and conditions"
+msgstr "አተገባበሩና ​​መመሪያው"
+
+msgid "Most Commented"
+msgstr "Most Commented"
+
+msgid "View All"
+msgstr "ሁሉንም ይመልከቱ"
+
+msgid "Featured"
+msgstr "ተለይተው የቀረቡ"
+
+msgid "New Arrivals"
+msgstr "አዲስ የመጡ"
+
+msgid "Popular Products"
+msgstr "ታዋቂ ምርቶች"
+
+msgid "Top Stores"
+msgstr "ከፍተኛ ታሪኮች"
+
+msgid "Account"
+msgstr "መለያ"
+
+msgid "Profile"
+msgstr "መገለጫ"
+
+msgid "Password"
+msgstr "የይለፍ ቃል"
+
+msgid "Disputes"
+msgstr "ክርክሮች"
+
+msgid "Messages"
+msgstr "መልዕክቶች"
+
+msgid "My Orders"
+msgstr "የእኔ ትዕዛዞች"
+
+msgid "Address Notes"
+msgstr "የአድራሻ ማስታወሻዎች"
+
+msgid "Add Address"
+msgstr "አድራሻ አክል"
+
+msgid "Shop"
+msgstr "ሱቅ"
+
+msgid "Sharing"
+msgstr "መጋራት"
+
+msgid "Credits"
+msgstr "ምስጋናዎች"
+
+msgid "Referrals"
+msgstr "ሪፈራል"
+
+msgid "Gift card"
+msgstr "ስጦታ ካርድ"
+
+msgid "off Ends in"
+msgstr "ጠፍቷል በ ውስጥ ያበቃል"
+
+msgid "Quantity only"
+msgstr "ብዛት ብቻ"
+
+msgid "available"
+msgstr "ይገኛል"
+
+msgid "Sold Out"
+msgstr "ተሽጦ አልቆዋል"
+
+msgid "SIZE"
+msgstr "መጠን"
+
+msgid "QUANTITY"
+msgstr "ብዛት"
+
+msgid "Please select the size"
+msgstr "እባክዎ መጠኑን ይምረጡ"
+
+msgid "Please select the quantity"
+msgstr "እባክዎ ብዛቱን ይምረጡ"
+
+msgid "Add to your collection"
+msgstr "ወደ ስብስብዎ ያክሉ"
+
+msgid "Share"
+msgstr ".ር ያድርጉ"
+
+msgid "Share Discount"
+msgstr "ቅናሽ ያጋሩ"
+
+msgid "ADD TO CART"
+msgstr "ወደ ግዢው ቅርጫት ጨምር"
+
+msgid "BUY NOW"
+msgstr "ግዛ"
+
+msgid "CREATE GIFT"
+msgstr "ስጦታ ፍጠር"
+
+msgid "Description"
+msgstr "መግለጫ"
+
+msgid "Undo reporting"
+msgstr "ዘገባን ቀልብስ"
+
+msgid "Report Inappropriate"
+msgstr "ተገቢ ያልሆነ ሪፖርት ያድርጉ"
+
+msgid "Customer Product Selfies"
+msgstr "የደንበኞች ምርት የራስ ፎቶዎች"
+
+msgid "No product selfies"
+msgstr "የምርት የራስ ፎቶዎች የሉም"
+
+msgid "Sold By"
+msgstr "ተሽጧል በ"
+
+msgid "Rating"
+msgstr "ደረጃ መስጠት"
+
+msgid "Write review"
+msgstr "ግምገማ ይጻፉ"
+
+msgid "Follow Store"
+msgstr "መደብርን ተከተል"
+
+msgid "Unfollow Store"
+msgstr "መደብርን አለመከተል"
+
+msgid "Follow"
+msgstr "ተከተል"
+
+msgid "Unfollow"
+msgstr "አትከተል"
+
+msgid "Contact Seller"
+msgstr "ሻጩን ያነጋግሩ"
+
+msgid "Product Comments"
+msgstr "የምርት አስተያየቶች"
+
+msgid "Write a comment"
+msgstr "አስተያየት ይፃፉ"
+
+msgid "View all"
+msgstr "ሁሉንም ይመልከቱ"
+
+msgid "comments"
+msgstr "አስተያየቶች"
+
+msgid "Hide comments"
+msgstr "አስተያየቶችን ደብቅ"
+
+msgid "There is no comment yet for this product"
+msgstr "ለዚህ ምርት እስካሁን አስተያየቶች የሉም"
+
+msgid "Save comment"
+msgstr "አስተያየት ያስቀምጡ"
+
+msgid "Please enter comment"
+msgstr "እባክዎ አስተያየት ያስገቡ"
+
+msgid "Edit"
+msgstr "አርትዕ"
+
+msgid "Delete"
+msgstr "ሰርዝ"
+
+msgid "No Products"
+msgstr "ምርቶች የሉም"
+
+msgid "More from"
+msgstr "ተጨማሪ ከ"
+
+msgid "Add to your Collection"
+msgstr "ወደ ስብስብዎ ያክሉ"
+
+msgid "Create"
+msgstr "ፍጠር"
+
+msgid "Enter list name"
+msgstr "የዝርዝር ስም ያስገቡ"
+
+msgid "Done"
+msgstr "ተከናውኗል"
+
+msgid "WRITE A COMMENT"
+msgstr "አስተያየት ይፃፉE"
+
+msgid "SUBMIT"
+msgstr "አስረክብ"
+
+msgid "EDIT COMMENT"
+msgstr "አስተያየት አርትዕ"
+
+msgid "Save Comment"
+msgstr "አስተያየት ያስቀምጡ"
+
+msgid "SHARE THIS THING"
+msgstr "ይህንን ነገር አጋራ"
+
+msgid "By"
+msgstr "በ"
+
+msgid "CONTACT SELLER"
+msgstr "የእውቂያ ሻጭ"
+
+msgid "Query about item"
+msgstr "ስለ ንጥል ጥያቄnt"
+
+msgid "Select a Query"
+msgstr "ጥያቄን ይምረጡ"
+
+msgid "Others"
+msgstr "ሌሎች"
+
+msgid "Subject"
+msgstr "ርዕሰ ጉዳይ"
+
+msgid "Message"
+msgstr "መልእክት"
+
+msgid "SEND"
+msgstr "ላክ"
+
+msgid "Error"
+msgstr "ስህተት"
+
+msgid "Message Sent Successfully"
+msgstr "መልእክት በተሳካ ሁኔታ ተልኳል"
+
+msgid "Out of"
+msgstr "ውጪ"
+
+msgid "Order Id"
+msgstr "የትእዛዝ መታወቂያ"
+
+msgid "Review Title"
+msgstr "የግምገማ ርዕስ"
+
+msgid "Your Review"
+msgstr "የእርስዎ ግምገማ"
+
+msgid "Yes"
+msgstr "አዎ"
+
+msgid "No"
+msgstr "አይ"
+
+msgid "Comment , @mention, #hashtag"
+msgstr "አስተያየት, @መጥቀስ, #ሀሽታግ"
+
+msgid "Filter"
+msgstr "ማጣሪያ"
+
+msgid "Categories"
+msgstr "ምድቦች"
+
+msgid "By Price"
+msgstr "በዋጋ"
+
+msgid "By Color"
+msgstr "በቀለም"
+
+msgid "Sort by : Newest"
+msgstr "ቅደምተከተሉ የተስተካከለው: በጣም አዲስ"
+
+msgid "Price - Low to High"
+msgstr "ዋጋ - ዝቅተኛ ወደ ከፍተኛé"
+
+msgid "Newest"
+msgstr "በጣም አዲስ"
+
+msgid "Price - High to Low"
+msgstr "ዋጋ - ከፍ እስከ ዝቅተኛ"
+
+msgid "Add Shipping Address"
+msgstr "የመላኪያ አድራሻ ያክሉ"
+
+msgid "New Address"
+msgstr "አዲስ አድራሻ"
+
+msgid "Full Name"
+msgstr "ሙሉ ስም"
+
+msgid "Nick Name"
+msgstr "የኒክ ስም"
+
+msgid "e.g. Home, Work"
+msgstr "ለምሳሌ የቤት ስራ"
+
+msgid "Address"
+msgstr "አድራሻ"
+
+msgid "Country"
+msgstr "ሀገር"
+
+msgid "Select Country"
+msgstr "ሀገርን ይምረጡ"
+
+msgid "State"
+msgstr "ግዛት"
+
+msgid "City"
+msgstr "ከተማ"
+
+msgid "Zipcode"
+msgstr "አካባቢያዊ መለያ ቁጥር"
+
+msgid "Phone No"
+msgstr "ስልክ ቁጥር"
+
+msgid "Make this as default address"
+msgstr "ይህንን እንደ ነባሪ አድራሻ ያድርጉት"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Save"
+msgstr "አስቀምጥ"
+
+msgid "No Stores"
+msgstr "መደብሮች የሉም"
+
+msgid "Conversation with seller"
+msgstr "ውይይት ከሻጩ ጋር"
+
+msgid "Status"
+msgstr "ሁኔታ"
+
+msgid "Pending"
+msgstr "በመጠባበቅ ላይ"
+
+msgid "Delivered"
+msgstr "ደርሷል"
+
+msgid "Type your message here"
+msgstr "መልእክትዎን እዚህ ይተይቡ"
+
+msgid "Processing"
+msgstr "በሂደት ላይ"
+
+msgid "Shipped"
+msgstr "ተልኳል"
+
+msgid "Delivered"
+msgstr "ደርሷል"
+
+msgid "Claimed"
+msgstr "ይገባኛል ብሏል"
+
+msgid "Cancelled"
+msgstr "ተሰር .ል"
+
+msgid "Returned"
+msgstr "ተመልሷል"
+
+msgid "Send"
+msgstr "ላክ"
+
+msgid "No Conversation Found"
+msgstr "ውይይት አልተገኘም"
+
+msgid "Load More"
+msgstr "ተጨማሪ ይጫኑ"
+
+msgid "Back to My Orders"
+msgstr "ወደ ትዕዛዞቼ ተመለስ"
+
+msgid "Order Details"
+msgstr "የትእዛዝ ዝርዝሮች"
+
+msgid "Tracking Details Not yet updated"
+msgstr "የመከታተያ ዝርዝሮች ገና አልተዘመኑም"
+
+msgid "Shipment Date"
+msgstr "Date d'expédition"
+
+msgid "Shipping Method"
+msgstr "የመላኪያ ቀን"
+
+msgid "Tracking Id"
+msgstr "መከታተያ መታወቂያ"
+
+msgid "Additional Notes"
+msgstr "ተጨማሪ ማስታወሻዎች"
+
+msgid "Order Number"
+msgstr "የትእዛዝ ቁጥር"
+
+msgid "Seller"
+msgstr "ሻጭ"
+
+msgid "Order Date"
+msgstr "የታዘዘበት ቀን"
+
+msgid "Deliver Date"
+msgstr "ማድረስ ቀን"
+
+msgid "Expected Delivery Date"
+msgstr "የሚላክበት ቀን"
+
+msgid "Amount Paid"
+msgstr "የተከፈለ መጠን"
+
+msgid "Payment Method"
+msgstr "የክፍያ ዘዴዎች"
+
+msgid "Add selfies"
+msgstr "የራስ ፎቶዎችን ያክሉ"
+
+msgid "Item Total"
+msgstr "የእቃ ጠቅላላ"
+
+msgid "Shipping Fee"
+msgstr "የመላኪያ ክፍያ"
+
+msgid "Gift card discount"
+msgstr "የስጦታ ካርድ ቅናሽ"
+
+msgid "Coupon Discount"
+msgstr "የኩፖን ቅናሽ"
+
+msgid "User Credits"
+msgstr "የተጠቃሚ ምስጋናዎች"
+
+msgid "Tax"
+msgstr "ግብር"
+
+msgid "Order Total"
+msgstr "ጠቅላላ ድምር"
+
+msgid "Add your Selfies"
+msgstr "የራስ ፎቶዎችዎን ያክሉ"
+
+msgid "Upload"
+msgstr "ስቀል"
+
+msgid "Size"
+msgstr "መጠን"
+
+msgid "Claim Order"
+msgstr "የይገባኛል ጥያቄ ትዕዛዝ"
+
+msgid "Enter the Courier"
+msgstr "ተላላኪውን ያስገቡ"
+
+msgid "Shipping Service"
+msgstr "የመላኪያ አገልግሎት"
+
+msgid "Confirm Claim"
+msgstr "የይገባኛል ጥያቄን ያረጋግጡ"
+
+msgid "Gather your friends and give amazing gifts from Fantacy to people you love."
+msgstr "ጓደኞችዎን ይሰብስቡ እና ለሚወዷቸው ሰዎች ከቅantት አስገራሚ ስጦታዎችን ይስጡ።"
+
+msgid "Create New"
+msgstr "አዲስ ፍጠር"
+
+msgid "Gift Card List"
+msgstr "የስጦታ ካርድ ዝርዝር"
+
+msgid "Gift card is the Feature which is used for the User, User can buy send receive the gift card to the friends, And the User can receive the Gift card code and use for the purchase"
+msgstr "የስጦታ ካርድ ለተጠቃሚው የሚያገለግል ባህሪ ነው ፣ ተጠቃሚው የስጦታ ካርዱን ለመቀበል ላክ ይችላል ፣ እንዲሁም ተጠቃሚው የስጦታ ካርዱን ሊቀበል እና ለግዢው ሊጠቀምበት ይችላል"
+
+msgid "Value"
+msgstr "ዋጋ"
+
+msgid "Select Amount"
+msgstr "መጠን ይምረጡ"
+
+msgid "Please select the gift amount"
+msgstr "እባክዎን የስጦታውን መጠን ይምረጡ"
+
+msgid "Recipient"
+msgstr "ተቀባዩ"
+
+msgid "Recipient name"
+msgstr "የተቀባይ ስም"
+
+msgid "Please Enter the Valid Recipient's Email"
+msgstr "እባክዎ የሚሰራውን የተቀባዩን ኢሜል ያስገቡ"
+
+msgid "Personal Message"
+msgstr "የግል መልእክት"
+
+msgid "Type your message"
+msgstr "መልእክትዎን ይተይቡ"
+
+msgid "Please Enter Message"
+msgstr "እባክዎን መልእክት ያስገቡ"
+
+msgid "Pay"
+msgstr "ይክፈሉ"
+
+msgid "No Gift card list"
+msgstr "የስጦታ ካርድ ዝርዝር የለም"
+
+msgid "Sent"
+msgstr "ተልኳል"
+
+msgid "Received"
+msgstr "ተቀብሏል"
+
+msgid "Receiver"
+msgstr "ተቀባዩ"
+
+msgid "Date"
+msgstr "ቀን"
+
+msgid "Total Amount"
+msgstr "አጠቃላይ ድምሩ"
+
+msgid "Available Amount"
+msgstr "የሚገኝ መጠን"
+
+msgid "Key"
+msgstr "ቁልፍ"
+
+msgid "Removed User"
+msgstr "ተወግዷል ተጠቃሚ"
+
+msgid "No gift cards sent"
+msgstr "የስጦታ ካርዶች አልተላኩም"
+
+msgid "No gift cards received"
+msgstr "ምንም የስጦታ ካርዶች አልተቀበሉም"
+
+msgid "Start a Group Gift Today"
+msgstr "ዛሬ የቡድን ስጦታ ይጀምሩ"
+
+msgid "Gather your friends and give amazing gifts to the people you love"
+msgstr "ጓደኞችዎን ሰብስቡ እና ለሚወዷቸው ሰዎች አስገራሚ ስጦታዎችን ይስጡ"
+
+msgid "Create New Gift"
+msgstr "አዲስ ስጦታ ይፍጠሩ"
+
+msgid "Choose recipient"
+msgstr "ተቀባይን ይምረጡ"
+
+msgid "Personalize"
+msgstr "ግላዊነት ያላብሱ"
+
+msgid "Ask for contributions"
+msgstr "አስተዋጽኦዎችን ይጠይቁ"
+
+msgid "Enter User Name or Email Address"
+msgstr "የተጠቃሚ ስም ወይም የኢሜል አድራሻ ያስገቡ"
+
+msgid "Recipient name must be atleast 3 characters"
+msgstr "የተቀባይ ስሞች ቢያንስ 3 ቁምፊዎች መሆን አለባቸው"
+
+msgid "Full name must be atleast 3 characters"
+msgstr "ሙሉ ስም ቢያንስ 3 ቁምፊዎች መሆን አለበት"
+
+msgid "Enter Your Full Name"
+msgstr "ሙሉ ስምዎን ያስገቡ"
+
+msgid "Address"
+msgstr "አድራሻ"
+
+msgid "Enter Your Street Name"
+msgstr "የመንገድዎን ስም ያስገቡ"
+
+msgid "Address1 must be atleast 3 characters"
+msgstr "አድራሻ 1 ቢያንስ 3 ቁምፊዎች መሆን አለበት"
+
+msgid "Address Line"
+msgstr "የአድራሻ መስመር"
+
+msgid "Address2 must be atleast 3 characters"
+msgstr "አድራሻ 2 ቢያንስ 3 ቁምፊዎች መሆን አለበት"
+
+msgid "Product can be shipped only to the listed countries"
+msgstr "ምርት ለተዘረዘሩት ሀገሮች ብቻ ሊላክ ይችላል"
+
+msgid "Enter Your State"
+msgstr "ግዛትዎን ያስገቡ"
+
+msgid "State must be atleast 2 characters"
+msgstr "ግዛት ቢያንስ 2 ቁምፊዎች መሆን አለበት"
+
+msgid "Enter Your City"
+msgstr "ከተማዎን ይግቡ"
+
+msgid "City must be atleast 2 characters"
+msgstr "ከተማ ቢያንስ 2 ቁምፊዎች መሆን አለበት"
+
+msgid "Zip Code"
+msgstr "አካባቢያዊ መለያ ቁጥር"
+
+msgid "Enter Your zip code"
+msgstr "የዚፕ ኮድዎን ያስገቡ"
+
+msgid "Enter the Zipcode"
+msgstr "የዚፕ ኮድ ያስገቡ"
+
+msgid "Mobile Number"
+msgstr "የእጅ ስልክ ቁጥር"
+
+msgid "Enter Your mobile number"
+msgstr "የተንቀሳቃሽ ስልክ ቁጥርዎን ያስገቡ"
+
+msgid "Enter the Telephone number"
+msgstr "የስልክ ቁጥር ያስገቡ"
+
+msgid "Continue"
+msgstr "ቀጥል"
+
+msgid "Gift Title"
+msgstr "የስጦታ ርዕስ"
+
+msgid "Ex: Jenny\'s Birthday Gift"
+msgstr "ዘፀ-ጄኒ የልደት ቀን ስጦታ"
+
+msgid "Title must be atleast 3 characters"
+msgstr "ርዕስ ቢያንስ 3 ቁምፊዎች መሆን አለበት"
+
+msgid "Ex: Lets celebrate Jenny's bdy and give her amazing gift!"
+msgstr "ዘፀ: የጄኒን ልደት እናክብር እና አስደናቂ ስጦታ ይስጣት!"
+
+msgid "Use your group gift description to share more about who you are raising contributions about and why"
+msgstr "ስለ ማን አስተዋፅዖ እንደሚያደርጉ እና ለምን እንደሆነ የበለጠ ለማጋራት የቡድንዎን የስጦታ መግለጫ ይጠቀሙ"
+
+msgid "Description must be atleast 10 characters"
+msgstr "መግለጫው ቢያንስ 10 ቁምፊዎች መሆን አለበት"
+
+msgid "Note"
+msgstr "ማስታወሻ"
+
+msgid "Enter note"
+msgstr "ማስታወሻ ያስገቡ"
+
+msgid "You can leave a personlized not for merchant here"
+msgstr "ለነጋዴዋ ግላዊነት የተላበሰ ማስታወሻ መተው ይችላሉ"
+
+msgid "Item Total"
+msgstr "የንጥል ጠቅላላ"
+
+msgid "Shipping"
+msgstr "ማጓጓዣ"
+
+msgid "Tax"
+msgstr "ግብር"
+
+msgid "Goal Total"
+msgstr "ግብ ድምር"
+
+msgid "Go Back"
+msgstr "ተመለስ"
+
+msgid "Ask Your friends to Contribute"
+msgstr "ጓደኞችዎን እንዲያበረክቱ ይጠይቋቸው"
+
+msgid "Easy to Contribute"
+msgstr "ለማበርከት ቀላል"
+
+msgid "Group Gift Summary"
+msgstr "የቡድን የስጦታ ማጠቃለያ"
+
+msgid "Gift to"
+msgstr "ስጦታ ለ"
+
+msgid "Group Gift Total"
+msgstr "የቡድን የስጦታ ድምር"
+
+msgid "This group gift is valid for"
+msgstr "ይህ የቡድን ስጦታ ልክ ነው"
+
+msgid "days"
+msgstr "ቀናት"
+
+msgid "Select The Country"
+msgstr "አገሩን ይምረጡ"
+
+msgid "Credits"
+msgstr "ምስጋናዎች"
+
+msgid "Available Credits"
+msgstr "የሚገኙ ክሬዲቶች"
+
+msgid "Credits can be applied on your purchases during checkout"
+msgstr "ክፍያ በሚፈጽሙበት ጊዜ ክሬዲቶች በግዢዎችዎ ላይ ሊተገበሩ ይችላሉ"
+
+msgid "Earn more credits by"
+msgstr "ተጨማሪ ዱቤዎችን ያግኙ በ"
+
+msgid "Invite Friends"
+msgstr "ጓደኞችን ይጋብዙ"
+
+msgid "No History"
+msgstr "ታሪክ የለም"
+
+msgid "Credit History"
+msgstr "የብድር ታሪክ"
+
+msgid "Username"
+msgstr "የተጠቃሚ ስም"
+
+msgid "Amount"
+msgstr "መጠን"
+
+msgid "From Group Gift"
+msgstr "ከቡድን ስጦታ"
+
+msgid "Your Credit amount is empty"
+msgstr "የእርስዎ የብድር መጠን ባዶ ነው"
+
+msgid "Earn more credits by"
+msgstr "ተጨማሪ ዱቤዎችን ያግኙ በ"
+
+msgid "Today\'s Deal"
+msgstr "የዛሬው ስምምነት"
+
+msgid "VIEW ALL"
+msgstr "ሁሉንም ይመልከቱ"
+
+msgid "Most Commented Products"
+msgstr "በጣም አስተያየቶች ምርቶች"
+
+msgid "Featured Products"
+msgstr "ተለይተው የቀረቡ ምርቶች"
+
+msgid "Dispute Buyer"
+msgstr "የክርክር ገዢ"
+
+msgid "Back to disputes"
+msgstr "ወደ አለመግባባቶች ተመለስ"
+
+msgid "Dispute ID"
+msgstr "የክርክር መታወቂያ"
+
+msgid "Responded"
+msgstr "ምላሽ ተሰጥቷል"
+
+msgid "Reply"
+msgstr "መልስ"
+
+msgid "Buyer"
+msgstr "ገዢ"
+
+msgid "Seller"
+msgstr "ሻጭ"
+
+msgid "Invoice"
+msgstr "ደረሰኝ"
+
+msgid "Order ID"
+msgstr "የትእዛዝ መታወቂያ"
+
+msgid "Purchase Amount"
+msgstr "የግዢ መጠን"
+
+msgid "Resolved"
+msgstr "ተፈትቷል"
+
+msgid "Negotiation"
+msgstr "ድርድር"
+
+msgid "Download File"
+msgstr "ሰነድ አውርድ"
+
+msgid "Click to choose file"
+msgstr "ፋይልን ለመምረጥ ጠቅ ያድርጉ"
+
+msgid "Dispute Management"
+msgstr "የክርክር አስተዳደር"
+
+msgid "No Dispute"
+msgstr "ክርክር የለም"
+
+msgid "Active Dispute"
+msgstr "ንቁ ክርክር"
+
+msgid "Closed Dispute"
+msgstr "ዝግ ክርክር"
+
+msgid "Dispute On"
+msgstr "ክርክር በርቷል"
+
+msgid "Other Party"
+msgstr "ሌላ ፓርቲ"
+
+msgid "Dispute Amount"
+msgstr "የክርክር መጠን"
+
+msgid "View"
+msgstr "እይታ"
+
+msgid "No active disputes"
+msgstr "ንቁ ክርክሮች የሉም"
+
+msgid "No closed disputes"
+msgstr "የተዘጋ ክርክር የለም"
+
+msgid "Forgot Password"
+msgstr "መክፈቻ ቁልፉን ረሳኽው"
+
+msgid "Forgot your password? Enter your email address to change it"
+msgstr "የሚስጥራዊውን ቁጥር ረሳህው? ለመለወጥ የኢሜል አድራሻዎን ያስገቡ"
+
+msgid "Email Address"
+msgstr "የ ኢሜል አድራሻ"
+
+msgid "Enter your email address"
+msgstr "የኢሜይል አድራሻዎን ያስገቡ"
+
+msgid "Ordered On"
+msgstr "ታዘዘ"
+
+msgid "View Details"
+msgstr "ዝርዝሮችን ይመልከቱ"
+
+msgid "Your order has been placed"
+msgstr "ትዕዛዝዎ ተሰጥቷል"
+
+msgid "Cancel Order"
+msgstr "ትዕዛዝ ሰርዝ"
+
+msgid "Return"
+msgstr "መመለስ"
+
+msgid "Mark Received"
+msgstr "የተቀበለው ማርክ"
+
+msgid "Claim"
+msgstr "ይገባኛል ጥያቄ"
+
+msgid "View Conversation"
+msgstr "ውይይት ይመልከቱ"
+
+msgid "Contact Seller"
+msgstr "የእውቂያ ሻጭ"
+
+msgid "View Disputes"
+msgstr "ክርክሮችን ይመልከቱ"
+
+msgid "Create Disputes"
+msgstr "ሙግቶች ይፍጠሩ"
+
+msgid "Commented On"
+msgstr "አስተያየት ሰጠ"
+
+msgid "Sub"
+msgstr "ንዑስ"
+
+msgid "Item"
+msgstr "ንጥል"
+
+msgid "day"
+msgstr "ቀን"
+
+msgid "hours"
+msgstr "ሰዓታት"
+
+msgid "hour"
+msgstr "ሰአት"
+
+msgid "minutes"
+msgstr "ደቂቃዎች"
+
+msgid "minute"
+msgstr "ደቂቃ"
+
+msgid "seconds"
+msgstr "ሰከንዶች"
+
+msgid "ago"
+msgstr "በፊት"
+
+msgid "Group Gift History"
+msgstr "የቡድን የስጦታ ታሪክ"
+
+msgid "Title"
+msgstr "ርዕስ"
+
+msgid "Contribution"
+msgstr "አስተዋጽዖ"
+
+msgid "Start Date"
+msgstr "የመጀመሪያ ቀን"
+
+msgid "End Date"
+msgstr "የማብቂያ ቀን"
+
+msgid "EXPIRED"
+msgstr "ተጠናቀቀ"
+
+msgid "COMPLETED"
+msgstr "ተጠናቅቋል"
+
+msgid "ACTIVE"
+msgstr "ንቁ"
+
+msgid "You haven’t created Group Gift yet"
+msgstr "እስካሁን ድረስ የቡድን ስጦታ አልፈጠሩም"
+
+msgid "Last Contributions"
+msgstr "የመጨረሻ መዋጮዎች"
+
+msgid "No Recent Activity"
+msgstr "የቅርብ ጊዜ እንቅስቃሴ የለም"
+
+msgid "Contributed Amount"
+msgstr "የተበረከተ መጠን"
+
+msgid "People"
+msgstr "ሰዎች"
+
+msgid "Creator"
+msgstr "ፈጣሪ"
+
+msgid "Delivery Address"
+msgstr "የተቀባይ አድራሻ"
+
+msgid "Share to Your Friends"
+msgstr "ለጓደኞችዎ ያጋሩ"
+
+msgid "አስተዋጽኦች"
+msgstr "Contributions"
+
+msgid "Pending Amount"
+msgstr "በመጠባበቅ ላይ ያለ መጠን"
+
+msgid "Expired"
+msgstr "ጊዜው አልፎበታል"
+
+msgid "Completed"
+msgstr "ተጠናቅቋል"
+
+msgid "Active"
+msgstr "ንቁ"
+
+msgid "Total Contributors"
+msgstr "ጠቅላላ አስተዋጽዖ አበርካቾች"
+
+msgid "Minimum contribution"
+msgstr "አነስተኛ መዋጮ"
+
+msgid "Enter Amount"
+msgstr "መጠን ያስገቡ"
+
+msgid "Contribute Now"
+msgstr "አሁኑኑ ያበርክቱ"
+
+msgid "This Group Must recieve all contributions by"
+msgstr "ይህ ቡድን ሁሉንም መዋጮዎች በ መቀበል አለበት"
+
+msgid "to be successful"
+msgstr "ስኬታማ ለመሆን"
+
+msgid "Unsuccessful gift will be refunded"
+msgstr "ያልተሳካ ስጦታ ተመላሽ ይደረጋል"
+
+msgid "How it Works"
+msgstr "እንዴት እንደሚሰራ"
+
+msgid "Create a easy and fun way to give gifts to your friends"
+msgstr "ለጓደኞችዎ ስጦታ ለመስጠት ቀላል እና አስደሳች መንገድ ይፍጠሩ"
+
+msgid "Contribute pick any item, Contribute any amount. You are only charged if group gift was successful"
+msgstr "ማንኛውንም ንጥል ይምረጡ ያዋጡ ፣ ማንኛውንም መጠን ያዋጡ። እርስዎ እንዲከፍሉ የተደረጉት የቡድን ስጦታ ስኬታማ ከነበረ ብቻ ነው"
+
+msgid "Invite your friends to contribute. Once you meet your target,"
+msgstr "ጓደኞችዎን እንዲያበረክቱ ይጋብዙ። ዒላማዎን አንዴ ካሟሉ ፣"
+
+msgid "will take care of rest"
+msgstr "እረፍት ይንከባከባል"
+
+msgid "Start Shopping"
+msgstr "መግዛት ይጀምሩ"
+
+msgid "Select Gift"
+msgstr "ስጦታን ይምረጡ"
+
+msgid "Create Group Gift"
+msgstr "የቡድን ስጦታ ይፍጠሩ"
+
+msgid "Invite Your Friends"
+msgstr "ጓደኞችዎን ይጋብዙ"
+
+msgid "Reach Target"
+msgstr "ግብ ላይ መድረስ"
+
+msgid "Result"
+msgstr "ውጤት"
+
+msgid "Commented On"
+msgstr "አስተያየት ሰጠ"
+
+msgid "No comments found"
+msgstr "አስተያየቶች አልተገኙም"
+
+msgid "Popular Hashtags"
+msgstr "ታዋቂ ሃሽታጎች"
+
+msgid "Who to follow"
+msgstr "ማንን መከተል እንዳለበት"
+
+msgid "No more suggestions"
+msgstr "ከእንግዲህ የአስተያየት ጥቆማዎች የሉም"
+
+msgid "products"
+msgstr "ምርቶች"
+
+msgid "Invite Friends to Join in "
+msgstr "ጓደኞች እንዲቀላቀሉ ይጋብዙ"
+
+msgid "Invite Your Friends and Earn Credits When They Join"
+msgstr "ጓደኞችዎን ይጋብዙ እና ሲቀላቀሉ ክሬዲት ያግኙ"
+
+msgid "Social Network"
+msgstr "ማህበራዊ አውታረ መረቦች"
+
+msgid "Invite Friends to "
+msgstr "ጓደኞችን ይጋብዙ"
+
+msgid " from Your Social Network"
+msgstr "ከእርስዎ ማህበራዊ አውታረ መረብ"
+
+msgid "Facebook"
+msgstr "ፌስቡክ"
+
+msgid "Twitter"
+msgstr "ትዊተር"
+
+msgid "Gmail"
+msgstr "Gmail"
+
+msgid "Google+"
+msgstr "በጉግል መፈለግ+"
+
+msgid "We won\"t share your contacts with anybody without your consent"
+msgstr "ያለ እርስዎ ፈቃድ እውቂያዎችዎን ለማንም አናጋራም"
+
+msgid "Referral Link"
+msgstr "የማጣቀሻ አገናኝ"
+
+msgid "Use this link to share on Twitter, Facebook or on an Email"
+msgstr "በትዊተር ፣ በፌስቡክ ወይም በኢሜል ለማጋራት ይህንን አገናኝ ይጠቀሙ"
+
+msgid "Tip!"
+msgstr "ጠቃሚ ምክር!"
+
+msgid "Earn more credits by sharing your link with friends on social network"
+msgstr "በማህበራዊ አውታረ መረብ ላይ ለጓደኞችዎ አገናኝዎን በማጋራት ተጨማሪ ክሬዲቶችን ያግኙ"
+
+msgid "Invite via Email"
+msgstr "በኢሜል ይጋብዙ"
+
+msgid "Invite your friends to "
+msgstr "ጓደኞችዎን ይጋብዙ"
+
+msgid " via email"
+msgstr "በኢሜል በኩል"
+
+msgid "Enter email address"
+msgstr "የኢሜል አድራሻ ያስገቡ"
+
+msgid "Enter your Message"
+msgstr "መልእክትዎን ያስገቡ"
+
+msgid "Send Invites"
+msgstr "ግብዣዎችን ይላኩ"
+
+msgid "Enter valid email"
+msgstr "ትክክለኛ ኢሜል ያስገቡ"
+
+msgid "Bonus!"
+msgstr "ጉርሻ!"
+
+msgid "You will be rewarded with "
+msgstr "ይሸለማሉ"
+
+msgid " if your friend signs up and makes a purchase within 60 days"
+msgstr "ጓደኛዎ ከተመዘገበ እና በ 60 ቀናት ውስጥ ግዢ ከፈፀመ"
+
+msgid "Login to"
+msgstr "በመለያ ይግቡ"
+
+msgid "Email"
+msgstr "ኢሜል"
+
+msgid "Enter your password"
+msgstr "የይለፍ ቃልዎን ያስገቡ"
+
+msgid "Remember me"
+msgstr "አስታወስከኝ"
+
+msgid "OR"
+msgstr "ወይም"
+
+msgid "New to"
+msgstr "አዲስ ለ"
+
+msgid "Sign up now"
+msgstr "አሁን ይመዝገቡ"
+
+msgid "No Conversations"
+msgstr "ውይይቶች የሉም"
+
+msgid "Contact Seller Conversations"
+msgstr "የሻጭ ውይይቶችን ያነጋግሩ"
+
+msgid "Message box empty"
+msgstr "የመልዕክት ሳጥን ባዶ ነው"
+
+msgid "Email Settings"
+msgstr "የኢሜል ቅንብሮች"
+
+msgid "When someone follows you"
+msgstr "አንድ ሰው ሲከተልዎት"
+
+msgid "When someone comments on a thing you added"
+msgstr "አንድ ሰው እርስዎ ባከሉት ነገር ላይ አስተያየት ሲሰጥ"
+
+msgid "Web and push settings"
+msgstr "የድር እና የግፋ ቅንብሮች"
+
+msgid "Activity that involves you"
+msgstr "እርስዎን ያሳተፈ እንቅስቃሴ"
+
+msgid "When someone mentions you"
+msgstr "አንድ ሰው ሲጠቅስዎት"
+
+msgid "When someone"
+msgstr "አንድ ሰው መቼ"
+
+msgid "one of your things"
+msgstr "ከእርስዎ ነገሮች አንዱ"
+
+msgid "When someone comments on a thing you"
+msgstr "አንድ ሰው እርስዎ በአንዱ ነገር ላይ አስተያየት ሲሰጡ"
+
+msgid "Store & Friends activity"
+msgstr "የመደብር እና የጓደኞች እንቅስቃሴ"
+
+msgid "When product Added by followed Store or profile"
+msgstr "ምርት በሚከተለው መደብር ወይም መገለጫ ሲታከል"
+
+msgid "When a friend posts a comment"
+msgstr "ጓደኛዎ አስተያየት ሲለጥፉ"
+
+msgid "Updates"
+msgstr "ዝመናዎች"
+
+msgid "Updates from"
+msgstr "ዝመናዎች ከ"
+
+msgid "Send news about"
+msgstr "ስለ ዜና ላክ"
+
+msgid "Change Password"
+msgstr "የሚስጥር ቁልፍ ይቀይሩ"
+
+msgid "Existing Password"
+msgstr "ነባር የይለፍ ቃል"
+
+msgid "New Password"
+msgstr "አዲስ የይለፍ ቃል"
+
+msgid "New password at least 6 characters"
+msgstr "አዲስ የይለፍ ቃል ቢያንስ 6 ቁምፊዎች"
+
+msgid "Confirm Password"
+msgstr "የይለፍ ቃል አረጋግጥ"
+
+msgid "Change Password"
+msgstr "የሚስጥር ቁልፍ ይቀይሩ"
+
+msgid "Find New People"
+msgstr "አዲስ ሰዎችን ያግኙ"
+
+msgid "Follow People to discover new things"
+msgstr "አዳዲስ ነገሮችን ለማግኘት ሰዎችን ይከተሉ"
+
+msgid "Please enter value to search"
+msgstr "እባክዎን ለመፈለግ እሴት ያስገቡ"
+
+msgid "No People"
+msgstr "ህዝብ የለም"
+
+msgid "VIEW ALL Peoples"
+msgstr "ሁሉንም ሕዝቦች ይመልከቱ"
+
+msgid "Edit Profile"
+msgstr "መገለጫ አርትዕ"
+
+msgid "View Profile"
+msgstr "መገለጫ ይመልከቱ"
+
+msgid "Photo"
+msgstr "ፎቶ"
+
+msgid "Your real name, so your friends can find you"
+msgstr "የእርስዎ እውነተኛ ስም ፣ ስለዚህ ጓደኞችዎ እርስዎን እንዲያገኙዎት ነው"
+
+msgid "Website"
+msgstr "ድህረገፅ"
+
+msgid "Location"
+msgstr "አካባቢ"
+
+msgid "e.g. New York, NY"
+msgstr "ለምሳሌ ኒው ዮርክ ፣ ኒው ዮርክ"
+
+msgid "Birthday"
+msgstr "የልደት ቀን"
+
+msgid "Year"
+msgstr "አመት"
+
+msgid "Month"
+msgstr "ወር"
+
+msgid "Day"
+msgstr "ቀን"
+
+msgid "About"
+msgstr "ስለ"
+
+msgid "Write somthing about yourself"
+msgstr "ስለራስዎ የሆነ ነገር ይጻፉ"
+
+msgid "characters left"
+msgstr "ቁምፊዎች ቀርተዋል"
+
+msgid "Email will not be publicly displayed"
+msgstr "ኢሜል በይፋ አይታይም"
+
+msgid "Age"
+msgstr "ዕድሜ"
+
+msgid "Gender"
+msgstr "ፆታ"
+
+msgid "Male"
+msgstr "ወንድ"
+
+msgid "Female"
+msgstr "ሴት"
+
+msgid "Unspecified"
+msgstr "አልተገለጸም"
+
+msgid "Activate My Account"
+msgstr "መለያዬን አግብር"
+
+msgid "Deactivate My Account"
+msgstr "መለያዬን አቦዝን"
+
+msgid "No Order"
+msgstr "ትዕዛዝ የለም"
+
+msgid "Recent Orders"
+msgstr "የቅርብ ጊዜ ትዕዛዞች"
+
+msgid "No Purchase Found"
+msgstr "ምንም ግዢ አልተገኘም"
+
+msgid "Create a Dispute"
+msgstr "ሙግት ይፍጠሩ"
+
+msgid "Choose One"
+msgstr "አንዱን ይምረጡ"
+
+msgid "Orders"
+msgstr "ትዕዛዞች"
+
+msgid "Items"
+msgstr "ዕቃዎች"
+
+msgid "Create Dispute"
+msgstr "ክርክር ይፍጠሩ"
+
+msgid "Referrals Status"
+msgstr "የማጣቀሻዎች ሁኔታ"
+
+msgid "No Referral"
+msgstr "ሪፈራል የለም"
+
+msgid "Joined"
+msgstr "ተቀላቅሏል"
+
+msgid "Invited"
+msgstr "ተጋብዘዋል"
+
+msgid "Invite More Friends"
+msgstr "ተጨማሪ ጓደኞችን ይጋብዙ"
+
+msgid "You haven\'t invited anyone yet"
+msgstr "እስካሁን ማንንም አልጋበዙም"
+
+msgid "Things"
+msgstr "ነገሮች"
+
+msgid "No Peoples"
+msgstr "ሕዝቦች የሉም"
+
+msgid "Return Order"
+msgstr "ተመላሽ ትዕዛዝ"
+
+msgid "Reason For Return"
+msgstr "የመመለስ ምክንያት"
+
+msgid "Confirm Return"
+msgstr "መመለሻን ያረጋግጡ"
+
+msgid "No Address"
+msgstr "አድራሻ የለም"
+
+msgid "Your Saved Shipping Addresses"
+msgstr "የተቀመጠ የመላኪያ አድራሻዎ"
+
+msgid "Remove"
+msgstr "አስወግድ"
+
+msgid "Default"
+msgstr "ነባሪ"
+
+msgid "Change"
+msgstr "ለውጥ"
+
+msgid "Join"
+msgstr "ይቀላቀሉ"
+
+msgid "User Name"
+msgstr "የተጠቃሚ ስም"
+
+msgid "Enter your User Name"
+msgstr "የተጠቃሚ ስምዎን ያስገቡ"
+
+msgid "By clicking the \"Join"
+msgstr "\ "ተቀላቀል" ን ጠቅ በማድረግ"
+
+msgid "you are agree that you have read and agree the"
+msgstr "እርስዎ እንዳነበቡት እና እንደተስማሙም ተስማምተዋል"
+
+msgid "\"Terms and Conditions\""
+msgstr "\"አተገባበሩና ​​መመሪያው\""
+
+msgid "or use your mail"
+msgstr "ወይም ደብዳቤዎን ይጠቀሙ"
+
+msgid "Already a member"
+msgstr "ቀድሞውኑ አባል"
+
+msgid "Get started"
+msgstr "መጀመር"
+
+msgid "Today"
+msgstr "ዛሬ"
+
+msgid "Can\'t read? Reload"
+msgstr "ማንበብ አይቻልም? እንደገና ጫን"
+
+msgid "<p>Enter security code shown above:</p>"
+msgstr "<p> ከላይ የሚታየውን የደህንነት ኮድ ያስገቡ </ p>"
+
+msgid "Enter security code shown above:"
+msgstr "ከላይ የሚታየውን የደህንነት ኮድ ያስገቡ"
+
+msgid "Site is under Maintenance"
+msgstr "ጣቢያው በጥገና ላይ ነው"
+
+msgid "Please come back in few minutes"
+msgstr "እባክዎን በጥቂት ደቂቃዎች ውስጥ ተመልሰው ይምጡ"
+
+msgid "Check Now"
+msgstr "አሁን ያረጋግጡ"
+
+msgid "All Products"
+msgstr "ሁሉም ምርቶችs"
+
+msgid "News"
+msgstr "ዜና"
+
+msgid "Reviews"
+msgstr "ግምገማዎች"
+
+msgid "Followers"
+msgstr "ተከታዮች"
+
+msgid "Followers will get push notifications and the message will be update in their notification alert"
+msgstr "ተከታዮች የግፋ ማሳወቂያዎችን ያገኛሉ መልዕክቱ በማሳወቂያ ማንቂያቸው ላይ ይዘመናል"
+
+msgid "All Reviews"
+msgstr "ሁሉም ግምገማዎች"
+
+msgid "Positive"
+msgstr "አዎንታዊ"
+
+msgid "Based on"
+msgstr "በዛላይ ተመስርቶ"
+
+msgid "ratings"
+msgstr "ደረጃዎች"
+
+msgid "No Reviews"
+msgstr "ግምገማዎች የሉም"
+
+msgid "No Followers"
+msgstr "ምንም ተከታዮች የሉም"
+
+msgid "Collection"
+msgstr "ስብስብ"
+
+msgid "Favourite Store"
+msgstr "ተወዳጅ መደብር"
+
+msgid "Following"
+msgstr "በመከተል ላይ"
+
+msgid "as you"
+msgstr "እንደ እርስዎ"
+
+msgid "always"
+msgstr "ሁል ጊዜ"
+
+msgid "My Collections"
+msgstr "የእኔ ስብስብ"
+
+msgid "No List"
+msgstr "ዝርዝር የለም"
+
+msgid "FAVOURITE STORE"
+msgstr "ተወዳጅ መደብር"
+
+msgid "No Following"
+msgstr "መከተል የለም"
+
+msgid "WELCOME TO"
+msgstr "እንኩአን ደህና መጡ"
+
+msgid "Thanks for activating your account. Exciting shopping experience is waiting for you."
+msgstr "መለያዎን ስላነቁ እናመሰግናለን። አስደሳች የግብይት ተሞክሮ እርስዎን እየጠበቀ ነው።"
+
+msgid "SKIP"
+msgstr "ዝለል"
+
+msgid "NEXT"
+msgstr "ቀጣይ"
+
+msgid "FOLLOW"
+msgstr "ተከተል"
+
+msgid "PEOPLE"
+msgstr "ሰዎች"
+
+msgid "Follow a few top contributors to discover great things."
+msgstr "ታላላቅ ነገሮችን ለማግኘት ጥቂት ከፍተኛ አስተዋጽዖ አበርካቾችን ይከተሉ።"
+
+msgid "STORES"
+msgstr "መደብሮች"
+
+msgid "WELL DONE"
+msgstr "ጥሩ ስራ"
+
+msgid "Happy Shopping"
+msgstr "ደስተኛ ግብይት"
+
+msgid "Message Detail"
+msgstr "የመልዕክት ዝርዝር"
+
+msgid "Back to messages"
+msgstr "ወደ መልዕክቶች ተመለስ"
+
+msgid "Please select the recipient to gift"
+msgstr "እባክዎ ተቀባዩን ወደ ስጦታ ይምረጡ"
+
+msgid "Please enter your message"
+msgstr "እባክዎን መልእክትዎን ያስገቡ"
+
+msgid "Account Info"
+msgstr "የመለያ መረጃ"
+
+msgid "for iPhone & iPad"
+msgstr "ለ iPhone እና iPad"
+
+msgid "for Android"
+msgstr "ለ android"
+
+msgid "Mobile No"
+msgstr "ተንቀሳቃሽ ስልክ ቁጥር"
+
+msgid "Contact Address"
+msgstr "የእውቂያ አድራሻ"
+
+msgid "Your Name"
+msgstr "የአንተ ስም"
+
+msgid "Your Email Address"
+msgstr "የእርስዎ ኢሜይል አድራሻ"
+
+msgid "Select a topic"
+msgstr "አንድ ርዕስ ይምረጡ"
+
+msgid "User account"
+msgstr "የተጠቃሚ መለያ"
+
+msgid "Forgot my password"
+msgstr "የይለፍ ቃሌን ረሳሁ"
+
+msgid "Order Inquiry"
+msgstr "የትእዛዝ ጥያቄ"
+
+msgid "Payment Issues"
+msgstr "የክፍያ ጉዳዮች"
+
+msgid "Returns and Refunds"
+msgstr "ተመላሾች እና ተመላሾች"
+
+msgid "Site Features"
+msgstr "የጣቢያ ገፅታዎች"
+
+msgid "Mobile Features"
+msgstr "የሞባይል ባህሪዎች"
+
+msgid "Partnership Opportunities"
+msgstr "የአጋርነት ዕድሎች"
+
+msgid "Copyright Issue"
+msgstr "የቅጂ መብት ጉዳይ"
+
+msgid "Order Number"
+msgstr "የትእዛዝ ቁጥር"
+
+msgid "User Account"
+msgstr "የተጠቃሚ መለያ"
+
+msgid "Message"
+msgstr "መልእክት"
+
+msgid "Maximum 250 characters only"
+msgstr "ከፍተኛው 250 ቁምፊዎች ብቻ"
+
+msgid "Submit"
+msgstr "አስገባ"
+
+msgid "Business"
+msgstr "ንግድ"
+
+msgid "Add to"
+msgstr "አክል ወደ"
+
+msgid "Be a part of the"
+msgstr "የ አካል ይሁኑ"
+
+msgid "community and add your favorite things."
+msgstr "ማህበረሰብ እና ተወዳጅ ነገሮችዎን ያክሉ።"
+
+msgid "Button"
+msgstr "ቁልፍ"
+
+msgid "Drag this"
+msgstr "ይህንን ጎትት"
+
+msgid "button"
+msgstr "አዝራር"
+
+msgid "into your Bookmarks Bar"
+msgstr "ወደ የእርስዎ ዕልባቶች አሞሌ ውስጥ"
+
+msgid "The bookmarklet lets you save things and products from any site to your own "
+msgstr "ዕልባታው ነገሮችን እና ምርቶችን ከማንኛውም ጣቢያ ወደራስዎ እንዲያስቀምጡ ያስችልዎታል"
+
+msgid " catalog."
+msgstr " ካታሎግ."
+
+msgid "To install the "
+msgstr "ለመጫን"
+
+msgid " bookmarklet in Chrome, follow these steps:"
+msgstr "በ Chrome ውስጥ ዕልባት (መጽሐፍ), የሚከተሉትን ደረጃዎች ይከተሉ:"
+
+msgid " bookmarklet in Firefox, follow these steps:"
+msgstr "በፋየርፎክስ ውስጥ ዕልባት ፣ የሚከተሉትን ደረጃዎች ይከተሉ"
+
+msgid "Drag bookmarklet"
+msgstr "ዕልባት ጎትት
+
+msgid "Drag the blue"
+msgstr "ሰማያዊውን ጎትት"
+
+msgid "button above to your Bookmarks bar."
+msgstr "ከላይ ወደ የእርስዎ ዕልባቶች አሞሌ ላይ ያለው ቁልፍ"
+
+msgid "You’re finished"
+msgstr "ጨርሰዋል"
+
+msgid "When you are browsing a webpage, click"
+msgstr "አንድ ድረ-ገጽ ሲያሰሱ ጠቅ ያድርጉ"
+
+msgid "to add things to your personal catalog."
+msgstr "ነገሮችን በግል ካታሎግዎ ላይ ለማከል።"
+
+msgid "Some one commented on your product - Product ID"
+msgstr "አንድ ሰው በእርስዎ ምርት ላይ አስተያየት ሰጠ - የምርት መታወቂያ"
+
+msgid "There is a user commented on your product"
+msgstr "በምርትዎ ላይ አስተያየት የሰጠ ተጠቃሚ አለ"
+
+msgid "Hello"
+msgstr "ሰላም"
+
+msgid "Link to your product"
+msgstr "ወደ ምርትዎ አገናኝ"
+
+msgid "Regards"
+msgstr "ከሰላምታ ጋር"
+
+msgid "Comment"
+msgstr "አስተያየት"
+
+msgid "Team"
+msgstr "ቡድን"
+
+msgid "You have a message from"
+msgstr "መልእክት አለዎት"
+
+msgid "has sent message to you."
+msgstr "መልእክት ልኮልዎታል ፡፡."
+
+msgid "Dispute has been successfully initiated - Order ID is"
+msgstr "ሙግት በተሳካ ሁኔታ ተጀምሯል - የትእዛዝ መታወቂያ ነው"
+
+msgid "This email is to acknowledge receipt of your dispute raised on your recent order"
+msgstr "ይህ ኢሜል በቅርብ ትዕዛዝዎ ላይ ለተነሳው ክርክርዎ ደረሰኝ ለመቀበል ነው"
+
+msgid "from the seller"
+msgstr "ከሻጩ"
+
+msgid "The same notification has been sent to the seller email address and we are expecting the favorable response from the seller"
+msgstr "ተመሳሳይ ማሳወቂያ ለሻጩ ኢሜል ተልኳል ከሻጩም ጥሩውን ምላሽ እየጠበቅን ነው"
+
+msgid "Your dispute reference number is"
+msgstr "የክርክርዎ ማጣቀሻ ቁጥር ነው"
+
+msgid "We recommend you to explain the issues of your order clearly to the seller to take necessary action against this dispute"
+msgstr "በዚህ ክርክር ላይ አስፈላጊውን እርምጃ እንዲወስድ ለሻጩ የትእዛዝዎን ጉዳዮች በግልፅ እንዲያብራሩ እንመክርዎታለን"
+
+msgid "The final decision will be made by the administrators of"
+msgstr "የመጨረሻው ውሳኔ የሚከናወነው በአስተዳዳሪዎች ነው"
+
+msgid "based on the communication between the buyer and seller. The final decision made by"
+msgstr "በገዢ እና በሻጩ መካከል ባለው ግንኙነት ላይ የተመሠረተ ፡፡ የመጨረሻው ውሳኔ በ"
+
+msgid "can not be changed"
+msgstr "ሊለወጥ አይችልም"
+
+msgid "You can keep tracking the status of the disputes in your profile settings in the website. We will also keep you notified to your email address if there is any response from the seller"
+msgstr "በድር ጣቢያው ውስጥ በመገለጫ ቅንብሮችዎ ውስጥ ያሉ ክርክሮችን ሁኔታ መከታተል መቀጠል ይችላሉ። እንዲሁም ከሻጩ የተሰጠ ምላሽ ካለ ለኢሜል አድራሻዎ ማሳወቂያ እናደርግልዎታለን"
+
+msgid "NOTE: If you fail to respond on any latest reply on any disputes in a certain time, there is a possibility of closing the dispute and resulting the dispute in favor of the other party. So, we recommend to act immediately on disputes"
+msgstr "ማሳሰቢያ-በማንኛውም ወቅት በሚነሱ ማናቸውም አለመግባባቶች ላይ በማንኛውም ወቅታዊ ምላሽ ላይ መልስ መስጠት ካልቻሉ ክርክሩን መዝጋት እና አለመግባባቱን ለሌላኛው ወገን የማድረግ ዕድል አለ ፡፡ ስለዚህ, አለመግባባቶች ላይ ወዲያውኑ እርምጃ እንዲወስዱ እንመክራለን"
+
+msgid "Thanks for your co-operations"
+msgstr "ስለ ትብብርህ አመሰግናለሁ"
+
+msgid "There is a dispute in your order ID"
+msgstr "በትእዛዝ መታወቂያዎ ውስጥ ክርክር አለ"
+
+msgid "from"
+msgstr "ከ"
+
+msgid "This email is to notify that there is a dispute raised on your order"
+msgstr "ይህ ኢሜል በትእዛዝዎ ላይ የተነሳ ክርክር እንዳለ ለማሳወቅ ነው"
+
+msgid "We would like you to take this dispute on high priority and start communicating with the buyer to get this problem sorted out as soon as possible"
+msgstr "ይህንን ችግር በተቻለ ፍጥነት እንዲፈታ ይህንን ክርክር በከፍተኛ ትኩረት ወስደው ከገዢው ጋር መግባባት እንዲጀምሩ እንወዳለን ፡፡"
+
+msgid "by"
+msgstr "በ"
+
+msgid "based on the communication between the buyer and seller and the same cannot can not be changed"
+msgstr "በገዢ እና በሻጩ መካከል ባለው ግንኙነት ላይ የተመሠረተ እና ተመሳሳይ ሊለወጥ አይችልም"
+
+msgid "You can keep tracking the status of the disputes in your profile settings in the website. We will also keep you notified to your email address if there is any response from the buyer"
+msgstr "በድር ጣቢያው ውስጥ በመገለጫ ቅንብሮችዎ ውስጥ ያሉ ክርክሮችን ሁኔታ መከታተል መቀጠል ይችላሉ። እኛም ከገዢው መልስ ካለ ለኢሜል አድራሻዎ ማሳወቂያ እናደርግልዎታለን"
+
+msgid "Dispute initiated for your order"
+msgstr "ለትእዛዝዎ የተጀመረው ክርክር"
+
+msgid "Dispute Created"
+msgstr "ክርክር ተፈጠረ"
+
+msgid "Dispute initiated on your order"
+msgstr "በትእዛዝዎ ላይ የተጀመረው ክርክር"
+
+msgid "Your new password has arrived"
+msgstr "አዲሱ የይለፍ ቃልዎ ደርሷል"
+
+msgid "Welcome, please verify your new account"
+msgstr "እንኳን በደህና መጡ ፣ እባክዎ አዲሱን መለያዎን ያረጋግጡ"
+
+msgid "Congratulations, your new account is ready"
+msgstr "እንኳን ደስ አለዎት ፣ አዲሱ መለያዎ ዝግጁ ነው"
+
+msgid "Following you on"
+msgstr "እርስዎን እየተከተሉ"
+
+msgid "Following your store on"
+msgstr "የእርስዎን ሱቅ በመከተል ላይ"
+
+msgid "There is a fashion uploaded on your product"
+msgstr "በምርትዎ ላይ የተጫነ ፋሽን አለ"
+
+msgid "You have got a message"
+msgstr "መልእክት ደርሶዎታል"
+
+msgid "Your order has been cancelled by the buyer"
+msgstr "ትዕዛዝዎ በገዢው ተሰር hasል"
+
+msgid "Your order"
+msgstr "ትእዛዝህ"
+
+msgid "shipment was delivered"
+msgstr "ጭነት ተላል .ል"
+
+msgid "Your order has been claimed by the buyer"
+msgstr "ትዕዛዝዎ በገዢው ይገባኛል ጥያቄ ቀርቧል"
+
+msgid "There is a response on the dispute"
+msgstr "በክርክሩ ላይ ምላሽ አለ"
+
+msgid "Dispute Resolved"
+msgstr "ክርክር ተፈታ"
+
+msgid "Group gift created on your product in"
+msgstr "ውስጥ በእርስዎ ምርት ላይ የተፈጠረ የቡድን ስጦታ"
+
+msgid "You have created group gift on the product in"
+msgstr "ውስጥ ባለው ምርት ላይ የቡድን ስጦታ ፈጥረዋል"
+
+msgid "You got a review"
+msgstr "ግምገማ አግኝተዋል"
+
+msgid "Your order has been cancelled"
+msgstr "ትዕዛዝዎ ተሰር hasል"
+
+msgid "has cancelled your order"
+msgstr "ትዕዛዝዎን ሰርዞታል"
+
+msgid "Your order has been claimed"
+msgstr "የእርስዎ ትዕዛዝ የይገባኛል ጥያቄ ቀርቧል"
+
+msgid "has made a claim request on your order"
+msgstr "በትእዛዝዎ ላይ የይገባኛል ጥያቄ አቅርቧል"
+
+msgid "You have a got a message from"
+msgstr "አንድ መልዕክት አግኝተዋል"
+
+msgid "has sent you a message. To reply to this user, please login and go to the message section and write your reply"
+msgstr "የሚል መልእክት ልኮልዎታል ፡፡ ለዚህ ተጠቃሚ መልስ ለመስጠት እባክዎ በመለያ ይግቡ እና ወደ የመልዕክት ክፍል ይሂዱ እና መልስዎን ይፃፉ"
+
+msgid "Some one commented on your product - Product ID"
+msgstr "አንድ ሰው በእርስዎ ምርት ላይ አስተያየት ሰጠ - የምርት መታወቂያ"
+
+msgid "You have created group gift on the product in"
+msgstr "ውስጥ ባለው ምርት ላይ የቡድን ስጦታ ፈጥረዋል"
+
+msgid "You have created a group gift on the product"
+msgstr "በምርቱ ላይ የቡድን ስጦታ ፈጥረዋል"
+
+msgid "Group Gift Link"
+msgstr "የቡድን የስጦታ አገናኝ"
+
+msgid "created group gift on your product in"
+msgstr "ውስጥ በእርስዎ ምርት ላይ የተፈጠረ የቡድን ስጦታ"
+
+msgid "created a group gift on your product"
+msgstr "በምርትዎ ላይ የቡድን ስጦታ ፈጥረዋል"
+
+msgid "The shipment was successfully delivered to buyer - Order ID"
+msgstr "ጭነቱ በተሳካ ሁኔታ ለገዢ ተላል --ል - የትእዛዝ መታወቂያ"
+
+msgid "This email confirms your shipment on your order"
+msgstr "ይህ ኢሜል በትእዛዝዎ ላይ ጭነትዎን ያረጋግጣል"
+
+msgid "was successfully delivered to the buyer"
+msgstr "በተሳካ ሁኔታ ለገዢው ተላልል"
+
+msgid "accounts team will review this order and your fund for this order will be delivered within 3 working days"
+msgstr "የሂሳብ ቡድን ይህንን ትዕዛዝ ይገመግማል እናም ለዚህ ትዕዛዝ ገንዘብዎ በ 3 የሥራ ቀናት ውስጥ ይሰጣል"
+
+msgid "If you do not receive your fund within the time, kindly send an email"
+msgstr "ገንዘብዎን በወቅቱ ካልተቀበሉ በደግነት ኢሜል ይላኩ"
+
+msgid "Name"
+msgstr "ስም"
+
+msgid "Ship to"
+msgstr "የሚላከው"
+
+msgid "Buyer has resolved the dispute - Dispute ID is"
+msgstr "ገዢው ክርክሩን ፈትቷል - የክርክር መታወቂያ ነው"
+
+msgid "has resolved the dispute on the order"
+msgstr "በትእዛዙ ላይ የተፈጠረውን አለመግባባት ፈትቷል"
+
+msgid "Dispute ID"
+msgstr "የክርክር መታወቂያ"
+
+msgid "Buyer has responded to the dispute - Dispute ID is"
+msgstr "በትእዛዙ ላይ ለተነሳው ክርክር መልስ ሰጥቷል"
+
+msgid "has replied to the dispute raised on the order"
+msgstr "a répondu au différend soulevé sur la commande"
+
+msgid "Kindly check the response and get back to the buyer as soon as possible to take necessary actions"
+msgstr "ምላሹን በደግነት ያረጋግጡ እና አስፈላጊ እርምጃዎችን ለመውሰድ በተቻለ ፍጥነት ወደ ገዢው ይመለሱ"
+
+msgid "Message from buyer"
+msgstr "መልእክት ከገዢ"
+
+msgid "NOTE: If you fail to respond on any latest reply on any disputes	in a certain time, there is a possibility of closing the dispute and resulting the dispute in favor of the other party. So, we recommend to act immediately on disputes"
+msgstr "ማሳሰቢያ-በማንኛውም ወቅት በሚነሱ ማናቸውም አለመግባባቶች ላይ በማንኛውም ወቅታዊ ምላሽ ላይ መልስ መስጠት ካልቻሉ ክርክሩን የመዝጋት እና አለመግባባቱን በሌላኛው ወገን የማግኘት ዕድል አለ ፡፡ ስለዚህ, አለመግባባቶች ላይ ወዲያውኑ እርምጃ እንዲወስዱ እንመክራለን"
+
+msgid "follows you on"
+msgstr "ይከተላችኋል"
+
+msgid "now"
+msgstr "አሁን"
+
+msgid "follows you in"
+msgstr "ይከተላችኋል"
+
+msgid "You can view his profile by clicking the following link"
+msgstr "የሚከተለውን አገናኝ ጠቅ በማድረግ የእርሱን መገለጫ ማየት ይችላሉ"
+
+msgid "Link"
+msgstr "አገናኝ"
+
+msgid "You have Contributed the product for Group gift . Soon your friend  will get the Product from"
+msgstr "ለቡድን ስጦታ ምርቱን አበርክተዋል ፡፡ ልጅዎ ጓደኛዎ ምርቱን ከ ያገኛል"
+
+msgid "You have Created the item for Group gift . Soon your friend  will get the Item from"
+msgstr "እቃውን ለቡድን ስጦታ ፈጥረዋል። ብዙም ሳይቆይ ጓደኛዎ እቃውን ከእዚህ ያገኛል"
+
+msgid "There is an order placed on you shop at"
+msgstr "እርስዎ በሚገዙበት ላይ ትዕዛዝ የተሰጠበት አለ"
+
+msgid "Hi there, your friend"
+msgstr "ታዲያስ ፣ ጓደኛዎ"
+
+msgid "has sent a gift card"
+msgstr "የስጦታ ካርድ ልኳል"
+
+msgid "Your friend"
+msgstr "ጓደኛህ"
+
+msgid "has bought a gift card for you from"
+msgstr "የስጦታ ካርድ ገዝቶልዎታል"
+
+msgid "and you can use the this gift for buying any product from"
+msgstr "እና ማንኛውንም ስጦታ ለመግዛት ይህንን ስጦታ መጠቀም ይችላሉ"
+
+msgid "If you have an existing activated account with"
+msgstr "አንድ ነባር የነቃ መለያ ካለዎት በ"
+
+msgid "using this same email address, this gift details will be available under your profile page. If you have not registered yet, please click the following link and register your new account. Please make sure you will use this same email address for creating the new account and to avail this gift card"
+msgstr "ይህንን ተመሳሳይ የኢሜል አድራሻ በመጠቀም ይህ የስጦታ ዝርዝሮች በመገለጫ ገጽዎ ስር ይገኛሉ ፡፡ እስካሁን ካልተመዘገቡ እባክዎ የሚከተለውን አገናኝ ጠቅ ያድርጉ እና አዲሱን መለያዎን ያስመዝግቡ ፡፡ እባክዎ አዲሱን መለያ ለመፍጠር እና ይህን የስጦታ ካርድ ለመጠቀም ይህንን ተመሳሳይ የኢሜል አድራሻ መጠቀሙን ያረጋግጡ"
+
+msgid "Your Gift Card code"
+msgstr "የእርስዎ የስጦታ ካርድ ኮድ"
+
+msgid "Not yet registered? Claim your gift now by click this link"
+msgstr "እስካሁን አልተመዘገበም? ይህንን አገናኝ ጠቅ በማድረግ አሁን ስጦታዎን ይጠይቁ"
+
+msgid "click"
+msgstr "ጠቅ ያድርጉ"
+
+msgid "Message from your friend"
+msgstr "መልእክት ከጓደኛዎ"
+
+msgid "How to use"
+msgstr "እንዴት መጠቀም እንደሚቻል"
+
+msgid "This special gift card shared by your friend is just a code and it will work only for your account which is using this email address. You can use this code at the time of payment mode and this can be found In the cart page as an entry of \"Gift Card Codes\" with the input text box and apply button. You can enter this code and click the apply button to see the change in the actual product price. If you are happy you can hit the \"Checkout\" button and that\'s it. You will also be able see the collection of gift card you received and it\'s used under your profile page"
+msgstr "በጓደኛዎ የተጋራው ይህ ልዩ የስጦታ ካርድ ኮድ ብቻ ነው እና የሚሰራው ይህንን የኢሜል አድራሻ ለሚጠቀም መለያዎ ብቻ ነው ፡፡ በክፍያ ሁኔታ ወቅት ይህንን ኮድ መጠቀም ይችላሉ እና ይህ በጋሪው ገጽ ውስጥ እንደ “የስጦታ ካርድ ኮዶች \” መግቢያ በግብዓት የጽሑፍ ሳጥን እና የመተግበሪያ አዝራር ውስጥ ይገኛል ፡፡ በእውነተኛው የምርት ዋጋ ላይ ያለውን ለውጥ ለማየት ይህንን ኮድ ማስገባት እና የአመልካች አዝራሩን ጠቅ ማድረግ ይችላሉ። ደስተኛ ከሆኑ የ \ "Checkout \" ቁልፍን መምታት ይችላሉ እና ያ ነው። እንዲሁም የተቀበሉትን የስጦታ ካርድ ስብስብ ማየት እና በመገለጫ ገጽዎ ስር ጥቅም ላይ የዋለውን ማየት ይችላሉ"
+
+msgid "Terms & Conditions"
+msgstr "ውሎች እና ሁኔታዎች"
+
+msgid "This gift card code is an auto generated one and should not be shared with anyone else. Any accidental damage caused by the usage of this gift card code will be reversible in the system by the administrators of"
+msgstr "ይህ የስጦታ ካርድ ኮድ በራስ ሰር የተፈጠረ ስለሆነ ለሌላ ሰው መጋራት የለበትም። በዚህ የስጦታ ካርድ ኮድ አጠቃቀም ምክንያት የሚከሰት ማንኛውም ድንገተኛ ጉዳት በአስተዳዳሪዎች በስርዓቱ ሊቀለበስ ይችላል"
+
+msgid "If you have any problem in using the gift card code, you are recommended to write to the support team email address"
+msgstr "የስጦታ ካርዱን ኮድ ለመጠቀም ችግር ካለብዎ ወደ የድጋፍ ቡድኑ የኢሜል አድራሻ እንዲጽፉ ይመከራል"
+
+msgid "here"
+msgstr "እዚህ"
+
+msgid "Enjoy gifting"
+msgstr "በስጦታ ይደሰቱ"
+
+msgid "Your Group gift Product"
+msgstr "የእርስዎ ቡድን ስጦታ ምርት"
+
+msgid "had expired. Soon you will be refunded from"
+msgstr "ጊዜው አልፎበታል ፡፡ በቅርቡ ተመላሽ ይደረጋሉ"
+
+msgid "Your order confirmation - The order ID(s)"
+msgstr "የትእዛዝዎ ማረጋገጫ - የትእዛዝ መታወቂያ (ዶች)"
+
+msgid "Thank you for shopping on"
+msgstr "በርቶ ስለገዙ አመሰግናለሁ"
+
+msgid "Kindly note down the order ID(s)"
+msgstr "የትእዛዝ መታወቂያዎችን (ሎች) በደግነት ልብ ይበሉ"
+
+msgid "as a reference number for this purchase"
+msgstr "ለዚህ ግዢ እንደ ማጣቀሻ ቁጥር"
+
+msgid "Your order is confirmed. The same has been notified to the seller too. Once the order is shipped by the seller, we will send you an email with the shipment details from the seller. In case if you have ordered multiple items from multiple sellers, all your orders may be delivered separately. All your orders can be seen and tracked through your"
+msgstr "የእርስዎ ትዕዛዝ ተረጋግጧል። ያው ለሻጩም እንዲያውቅ ተደርጓል ፡፡ ትዕዛዙ በሻጩ ከተላከ በኋላ ከሻጩ የመጫኛ ዝርዝሮች ጋር ኢሜል እንልክልዎታለን ፡፡ ከብዙ ሻጮች ብዙ እቃዎችን ካዘዙ ፣ ሁሉም ትዕዛዞችዎ በተናጠል ሊቀርቡ ይችላሉ ፡፡ ሁሉም ትዕዛዞችዎ በእርስዎ በኩል ሊታዩ እና ሊከታተሉ ይችላሉ"
+
+msgid "account also"
+msgstr "መለያ እንዲሁ"
+
+msgid "Your order details"
+msgstr "የትእዛዝዎ ዝርዝሮች"
+
+msgid "Order ID(s)"
+msgstr "የትእዛዝ መታወቂያ (ዶች)"
+
+msgid "Discount"
+msgstr "ቅናሽ"
+
+msgid "Grand Total"
+msgstr "አጠቃላይ ድምር"
+
+msgid "Your order is safe and been monitored closely with the seller when you shop on"
+msgstr "በሚገዙበት ጊዜ የእርስዎ ትዕዛዝ ደህንነቱ የተጠበቀ እና ከሻጩ ጋር በቅርብ ክትትል ተደርጎበታል"
+
+msgid "In case if you don\'t receive your order from the seller(s) or it is delivered in an unsatisfactory condition, you can reach us"
+msgstr "ትዕዛዝዎን ከሻጩ (ሻጮቹ) ካልተቀበሉ ወይም በአጥጋቢ ሁኔታ ውስጥ ከተላለፉ እኛን ማግኘት ይችላሉ"
+
+msgid "When you write to us about any orders, please mention the order ID to get quick response from the support team"
+msgstr "ስለማንኛውም ትዕዛዝ ሲጽፉልን እባክዎ ከድጋፍ ቡድኑ ፈጣን ምላሽ ለማግኘት የትእዛዝ መታወቂያውን ይጥቀሱ"
+
+msgid "Item\'s also recommended to update the system once you received the order from the seller as expected and you are satisfied. In case of any order\'s receipt is not notified in the system will be automatically confirmed as \"Delivered\" and will processed in the favor of sellers. Within this duration you are recommended to reach us in case of any problem in the orders"
+msgstr "እቃው እንደተጠበቀው ከሻጩ ትዕዛዝ ከተቀበሉ በኋላ ስርዓቱን ለማዘመን ይመከራል እና እርካዎ ፡፡ የትኛውም የትዕዛዝ ደረሰኝ በስርዓቱ ውስጥ ካልተገለጸ በራስ-ሰር እንደ \ "ደርሷል '' እና ከሻጮች ጋር በሚደረግ ሂደት ውስጥ ይፈጸማል። በዚህ ጊዜ ውስጥ በትእዛዞቹ ውስጥ ምንም አይነት ችግር ቢኖር እኛን እንዲያገኙ ይመከራል"
+
+msgid "To update receipt of the order, please login and go to profile and settings, then click \"My orders\" and select the \"Actions\" and choose \"Mark as received\""
+msgstr "የትእዛዙን ደረሰኝ ለማዘመን እባክዎን በመለያ ይግቡ እና ወደ መገለጫ እና ቅንብሮች ይሂዱ ፣ ከዚያ \ "የእኔ ትዕዛዞቼ \" ን ጠቅ ያድርጉ እና \ "እርምጃዎች \" ን ይምረጡ እና \ "እንደ ተቀበሉት ምልክት ያድርጉ '' ን ይምረጡ።"
+
+msgid "We look forward to see you again"
+msgstr "እንደገና እርስዎን ለማየት በጉጉት እንጠብቃለን"
+
+msgid "There is an order placed in your account  - The order ID is"
+msgstr "በመለያዎ ውስጥ የተቀመጠ ትዕዛዝ አለ - የትእዛዝ መታወቂያ ነው"
+
+msgid "Congratulations"
+msgstr "እንኳን ደስ አላችሁ"
+
+msgid "There is an order placed in your profile. This email confirms that the same order has been processed and recommend you to proceed with the shipping of this order"
+msgstr "በመገለጫዎ ውስጥ የተቀመጠ ትዕዛዝ አለ ይህ ኢሜል ተመሳሳይ ትዕዛዝ መሰራቱን ያረጋግጣል እናም የዚህን ትዕዛዝ ጭነት እንዲቀጥሉ ይመክራል"
+
+msgid "You have options to confirm this order and mark is as processing. You can also add the shipping details and tracking details to this order from “My Sales” under your profile account"
+msgstr "ይህንን ትዕዛዝ ለማረጋገጥ አማራጮች አሉዎት እና ምልክት እንደ ሂደት ነው። እንዲሁም በመገለጫ መለያዎ ስር ከ “የእኔ ሽያጮች” የመላኪያ ዝርዝሮችን እና የመከታተያ ዝርዝሮችን በዚህ ትዕዛዝ ላይ ማከል ይችላሉ"
+
+msgid "Happy selling"
+msgstr "ደስተኛ መሸጥ"
+
+msgid "Your new password"
+msgstr "አዲሱ የይለፍ ቃልዎ"
+
+msgid "You or (someone else) has filed a request for a new password"
+msgstr "እርስዎ ወይም (ሌላ ሰው) ለአዲስ የይለፍ ቃል ጥያቄ አቅርበዋል"
+
+msgid "To Reset your password, Please go to"
+msgstr "የይለፍ ቃልዎን ዳግም ለማስጀመር እባክዎ ይሂዱ ወደ"
+
+msgid "Product is approved and ready for sale - Product ID"
+msgstr "ምርት ጸድቆ ለሽያጭ ዝግጁ ነው - የምርት መታወቂያ"
+
+msgid "We have reviewed your product details and we have approved your product for sale on"
+msgstr "የምርት ዝርዝሮችዎን ገምግመናል እናም ምርትዎን በሚሸጥበት ጊዜ አፅድቀናል"
+
+msgid "In case of any changes, we will have to approve the changes again"
+msgstr "ማናቸውም ለውጦች ካሉ ለውጦቹን እንደገና ማፅደቅ አለብን"
+
+msgid "You can also edit the products under your profile, by access \"Added\" tab"
+msgstr "እንዲሁም በመገለጫዎ ስር ያሉትን ምርቶች በመድረሻ \ "ታክሏል" ትርን ማርትዕ ይችላሉ"
+
+msgid "Product link"
+msgstr "የምርት አገናኝ"
+
+msgid "Your new account is activated successfully"
+msgstr "አዲሱ መለያዎ በተሳካ ሁኔታ ነቅቷል"
+
+msgid "Thank you for your email address verification. We have successfully activated your new account with"
+msgstr "ስለ ኢሜል አድራሻ ማረጋገጫዎ እናመሰግናለን ፡፡ አዲሱን መለያዎን በተሳካ ሁኔታ ገብረነዋል"
+
+msgid "There are plenty of sales is going on and products added everyday to"
+msgstr "ብዙ ሽያጭዎች እየተከናወኑ እና በየቀኑ የሚጨመሩ ምርቶች አሉ"
+
+msgid "You can write to us"
+msgstr "ለእኛ መጻፍ ይችላሉ"
+
+msgid "and we are happy to assist you in case of any questions"
+msgstr "እና ማንኛውም ጥያቄዎች ቢኖሩዎት እርስዎን በማገዝዎ ደስተኞች ነን"
+
+msgid "Enjoy shopping on"
+msgstr "በርቶ በመግዛት ይደሰቱ"
+
+msgid "Welcome to"
+msgstr "እንኩአን ደህና መጡ"
+
+msgid "Greetings! Thanks for registering with"
+msgstr "ሰላምታ! ስለተመዘገቡ እናመሰግናለን"
+
+msgid "To complete the registration of your new account, please click the following link to verify this email address"
+msgstr "የአዲሱ መለያዎን ምዝገባ ለማጠናቀቅ እባክዎን ይህንን የኢሜል አድራሻ ለማረጋገጥ የሚከተለውን አገናኝ ጠቅ ያድርጉ"
+
+msgid "Click Here"
+msgstr "እዚህ ጠቅ ያድርጉ"
+
+msgid "to confirm your registration"
+msgstr "ምዝገባዎን ለማረጋገጥ"
+
+msgid "If clicking this link does not work, copy and paste the below link directly into the address bar of your browser. If you are still having problem, simply contact our support team by writing"
+msgstr "ይህንን አገናኝ ጠቅ ማድረግ የማይሰራ ከሆነ ከዚህ በታች ያለውን አገናኝ በቀጥታ በአሳሽዎ የአድራሻ አሞሌ ላይ ይለጥፉ እና ይለጥፉ። አሁንም ችግሮች ካጋጠሙዎት በቀላሉ በጽሑፍ የድጋፍ ቡድናችንን ያነጋግሩ"
+
+msgid "Once you do, you will be able to access to the notification of activity and access of other features that requires a valid email address"
+msgstr "አንዴ ካደረጉ በኋላ ትክክለኛ የኢሜል አድራሻ የሚያስፈልጋቸውን የእንቅስቃሴ ማሳወቂያ እና የሌሎች ባህሪያትን መዳረሻ ማግኘት ይችላሉ"
+
+msgid "You have a review from"
+msgstr "ግምገማ አለዎት ከ"
+
+msgid "has wrote a review for your order"
+msgstr "ለትእዛዝዎ ግምገማ ጽ hasል"
+
+msgid "Review"
+msgstr "ግምገማ"
+
+msgid "follows your store on"
+msgstr "ሱቅዎን ይከተሉ"
+
+msgid "follows your store in"
+msgstr "ውስጥ የእርስዎን መደብር ይከተላል"
+
+msgid "now. You can view his profile by clicking the following link"
+msgstr "አሁን ፡፡ የሚከተለውን አገናኝ ጠቅ በማድረግ የእርሱን መገለጫ ማየት ይችላሉ"
+
+msgid "uploaded a fashion on your product, it is waiting for your approval"
+msgstr "በምርትዎ ላይ አንድ ፋሽን ሰቅሏል ፣ ማረጋገጫዎን እየጠበቀ ነው"
+
+msgid "There is a user uploaded his fashion photo on the following product link. To make it public you need to review the pictures and please approve the same"
+msgstr "በሚከተለው የምርት አገናኝ ላይ የፋሽን ፎቶውን የሰቀለ ተጠቃሚ አለ። ይፋዊ ለማድረግ ስዕሎቹን መገምገም ያስፈልግዎታል እና እባክዎ ተመሳሳይ ያፀድቁ"
+
+msgid "To approve this fashion upload, please login and go to your profile page and click \"User Fashion\" tab and click \"Show\" button"
+msgstr "ይህንን የፋሽን ጭነት ለማጽደቅ እባክዎን ይግቡ እና ወደ የመገለጫ ገጽዎ ይሂዱ እና \ "የተጠቃሚ ፋሽን \" ትርን ጠቅ ያድርጉ እና \ "አሳይ \" ቁልፍን ጠቅ ያድርጉ"
+
+msgid "Link for your fashion upload"
+msgstr "ለፋሽን ሰቀላዎ አገናኝ"
+
+msgid "accepted your invitation"
+msgstr "ግብዣዎን ተቀበሉ"
+
+msgid "accepted your invitation and joined"
+msgstr "ግብዣዎን ተቀብሎ ተቀላቀለ"
+
+msgid "You can follow"
+msgstr "መከተል ይችላሉ"
+
+msgid "by visiting the profile"
+msgstr "መገለጫውን በመጎብኘት"
+
+msgid "is now following you"
+msgstr "አሁን እየተከተለዎት ነው"
+
+msgid "Enquiry from a user"
+msgstr "ከተጠቃሚ ጥያቄ"
+
+msgid "Query From"
+msgstr "ጥያቄ ከ"
+
+msgid "User Name"
+msgstr "የተጠቃሚ ስም"
+
+msgid "User Email"
+msgstr "የተጠቃሚ ኢሜል"
+
+msgid "Topic"
+msgstr "ርዕስ"
+
+msgid "Order No"
+msgstr "ትዕዛዝ የለም"
+
+msgid "User Account"
+msgstr "የተጠቃሚ መለያ"
+
+msgid "Message"
+msgstr "መልእክት"
+
+msgid "Group Gift Notification"
+msgstr "የቡድን የስጦታ ማስታወቂያ"
+
+msgid "Order notification"
+msgstr "የትዕዛዝ ማስታወቂያ"
+
+msgid "Order placed an order in your shop"
+msgstr "ትዕዛዝ በሱቅዎ ውስጥ ትዕዛዝ ተሰጥቷል"
+
+msgid "Confirmation of your order number(s)"
+msgstr "የትእዛዝ ቁጥሮችዎን ማረጋገጥ"
+
+msgid "Wow! You got a gift from"
+msgstr "ዋዉ! ስጦታ አግኝተዋል"
+
+msgid "Group Gift Soldout"
+msgstr "የቡድን ስጦታ ተሸጧል"
+
+msgid "updated a commission"
+msgstr "ኮሚሽን ያዘምኑ"
+
+msgid "posted a news"
+msgstr "ዜና ለጥ postedል"
+
+msgid "Your account has been credited"
+msgstr "መለያዎ እውቅና አግኝቷል"
+
+msgid "by for refund of"
+msgstr "ተመላሽ ለማድረግ"
+
+msgid "Your account has been credited %s by for refund of %s"
+msgstr "መለያዎ በ% s ተመላሽ ገንዘብ በ% s ተመዝግቧል"
+
+msgid "Your account has been credited for the refund of the order"
+msgstr "ለትእዛዙ ተመላሽ ገንዘብ ሂሳብዎ እውቅና ተሰጥቶታል"
+
+msgid "Your account has been credited for the order"
+msgstr "ለትእዛዙ መለያዎ እውቅና ተሰጥቶታል"
+
+msgid "Your product has been approved"
+msgstr "ምርትዎ ጸድቋል"
+
+msgid "added a product"
+msgstr "አንድ ምርት ታክሏል"
+
+msgid "replied for the dispute"
+msgstr "ለክርክሩ መልስ ሰጠ"
+
+msgid "Commision details:Min_value"
+msgstr "የኮሚሽኑ ዝርዝሮች-የሚን_ ዋጋ"
+
+msgid "Max_value"
+msgstr "ከፍተኛ_እሴት"
+
+msgid "Amount"
+msgstr "መጠን"
+
+msgid "added your product in their collection "
+msgstr "በክምችታቸው ውስጥ ምርትዎን አክሏል"
+
+msgid "sent a query on your product: "
+msgstr "በምርትዎ ላይ ጥያቄ ልከዋል "
+
+msgid "mentioned you in a comment on: "
+msgstr "በሚከተለው ላይ ጠቅሰሃል "
+
+msgid "commented on"
+msgstr "አስተያየት ሰጥቷል"
+
+msgid "placed an order in your shop, order id : "
+msgstr "በሱቅዎ ውስጥ ትዕዛዝ ሰጠ ፣ የትእዛዝ መታወቂያ"
+
+msgid "You have received a gift card "
+msgstr "የስጦታ ካርድ ተቀብለዋል "
+
+msgid "accepted your invitation"
+msgstr "ግብዣዎን ተቀበሉ"
+
+msgid "is now following your Store"
+msgstr "አሁን የእርስዎን መደብር እየተከተለ ነው"
+
+msgid "uploaded fashion image on your product"
+msgstr "በእርስዎ ምርት ላይ የፋሽን ምስል ሰቅሏል"
+
+msgid "created a dispute on your order : "
+msgstr "በትእዛዝዎ ላይ ክርክር ፈጥረዋል "
+
+msgid "Your order has been cancelled by the buyer"
+msgstr "ትዕዛዝዎ በገዢው ተሰር hasል"
+
+msgid "sent a message"
+msgstr "መልእክት ላከ"
+
+msgid "Your order has been marked as processing"
+msgstr "የእርስዎ ትዕዛዝ እንደ ሂደት ምልክት ተደርጎበታል"
+
+msgid "Your order has been claimed by the buyer"
+msgstr "ትዕዛዝዎ በገዢው ይገባኛል ጥያቄ ቀርቧል"
+
+msgid "Your order has been marked as shipped"
+msgstr "የእርስዎ ትዕዛዝ እንደተላከ ምልክት ተደርጎበታል"
+
+msgid "Buyer Replied For the Dispute  : "
+msgstr "ገዢው ለክርክሩ መልስ ሰጠ- "
+
+msgid "Buyer Cancelled the Dispute  : "
+msgstr "ገዢው ክርክሩን ሰርanceል- "
+
+msgid "Buyer Resolved the Dispute : "
+msgstr "ገዢው ክርክሩን ፈትቷል "
+
+msgid "liked your status"
+msgstr "የእርስዎን ሁኔታ ወደውታል"
+
+msgid "mentioned you in a livefeed comment"
+msgstr "በቀጥታ ምግብ አስተያየት ውስጥ ጠቅሶዎታል"
+
+msgid "mentioned you in a livefeed status comment on : "
+msgstr "በቀጥታ ስርጭት ሁኔታ አስተያየት ላይ ጠቅሶዎታል-"
+
+msgid "mentioned you in the status"
+msgstr "በሁኔታው ላይ ጠቅሶዎታል"
+
+msgid "commented on your status"
+msgstr "በእርስዎ ሁኔታ ላይ አስተያየት ሰጥቷል"
+
+msgid "shared your status"
+msgstr "የእርስዎን ሁኔታ አጋርተዋል"
+
+msgid "shared the status"
+msgstr "ሁኔታውን አጋርቷል"
+
+msgid "posted a status"
+msgstr "ሁኔታ ለጥ postedል"
+
+msgid "mentioned you in a livefeed status"
+msgstr "በቀጥታ ምግብ ሁኔታ ውስጥ ጠቅሶዎታል"
+
+msgid "Created a group gift on your product, Group Gift Id :"
+msgstr "በእርስዎ ምርት ላይ የቡድን ስጦታ ተፈጠረ ፣ የቡድን ስጦታ መታወቂያ"
+
+msgid "You have created a group gift on the product"
+msgstr "በምርቱ ላይ የቡድን ስጦታ ፈጥረዋል"
+
+msgid "your product"
+msgstr "የእርስዎ ምርት"
+
+msgid "wrote a review for you"
+msgstr "ግምገማ ለእርስዎ ይፃፉ"
+
+msgid "Url is not valid"
+msgstr "ዩ.አር.ኤል ትክክለኛ አይደለም"
+
+msgid "The item you are searching was not found."
+msgstr "የሚፈልጉት እቃ አልተገኘም ፡፡"
+
+msgid "Unfortunately Item is not Available now."
+msgstr "እንደ አለመታደል ሆኖ ንጥል አሁን አይገኝም።"
+
+msgid "Item added to cart successfully."
+msgstr "እቃ በተሳካ ሁኔታ ወደ ጋሪ ታክሏል።"
+
+msgid "Sorry! Kindly check your braintree credentials"
+msgstr "ይቅርታ! በደግነት የርስዎን የመጀመሪያ ምስክርነቶች ያረጋግጡ"
+
+msgid "Your account has been disabled please contact our support."
+msgstr "መለያዎ ተሰናክሏል እባክዎ የእኛን ድጋፍ ያነጋግሩ።"
+
+msgid "Item removed"
+msgstr "ንጥል ተወግዷል"
+
+msgid "Your Shopping Cart is Empty"
+msgstr "የግዢ ጋሪዎ ባዶ ነው
+"
+
+msgid "Item removed successfully"
+msgstr "ንጥል በተሳካ ተወግዷል"
+
+msgid "Payment didn't go through Please try again"
+msgstr "ክፍያው አልተላለፈም እባክዎ እንደገና ይሞክሩ"
+
+msgid "Please Check your email immediately."
+msgstr "እባክዎን ኢሜልዎን ወዲያውኑ ያረጋግጡ ፡፡"
+
+msgid "Please Activate your account."
+msgstr "እባክዎ መለያዎን ያግብሩ"
+
+msgid "Email id is not found Please register to our site."
+msgstr "የኢሜል መታወቂያ አልተገኘም እባክዎ ወደ ጣቢያችን ይመዝገቡ ፡፡"
+
+msgid "Your new password was generated successfully."
+msgstr "አዲሱ የይለፍ ቃልዎ በተሳካ ሁኔታ ተፈጠረ ፡፡"
+
+msgid "Access Denied."
+msgstr "መዳረሻ ተከልክሏል"
+
+msgid "Please fix the following error(s):"
+msgstr "እባክዎን የሚከተሉትን ስህተቶች ያስተካክሉ"
+
+msgid "Invalid username or password, try again"
+msgstr "ልክ ያልሆነ የተጠቃሚ ስም ወይም ይለፍ ቃል ፣ እንደገና ይሞክሩ"
+
+msgid "Please visit Merchant site to login if you have merchant id"
+msgstr "የነጋዴ መታወቂያ ካለዎት ለመግባት እባክዎ የነጋዴ ጣቢያውን ይጎብኙ"
+
+msgid "Please activate your account by the email sent to you"
+msgstr "Veuillez activer votre compte par l'email qui vous a été envoyé"
+
+msgid "Your account has been disabled please contact our support"
+msgstr "መለያዎ ተሰናክሏል እባክዎ የእኛን ድጋፍ ያነጋግሩ"
+
+msgid "username and email already exists"
+msgstr "የተጠቃሚ ስም እና ኢሜይል አስቀድሞ አለ"
+
+msgid "username already exists"
+msgstr "የተጠቃሚ ስም አስቀድሞ አለ"
+
+msgid "Email already exists"
+msgstr "ኢሜል አስቀድሞ አለ"
+
+msgid "Captcha code Invalid"
+msgstr "የካፕቻ ኮድ ልክ ያልሆነ"
+
+msgid "An email was sent to your mail box, please activate your account and login."
+msgstr "ኢሜል ወደ የመልዕክት ሳጥንዎ ተልኳል ፣ እባክዎ መለያዎን ያግብሩ እና ይግቡ።"
+
+msgid "Your account has been created, please login to your account"
+msgstr "መለያዎ ተፈጥሯል ፣ እባክዎ ወደ መለያዎ ይግቡ"
+
+msgid "Your account was already Verified"
+msgstr "የእርስዎ መለያ አስቀድሞ ተረጋግጧል"
+
+msgid "You are not authenticated.Please signup"
+msgstr "አልተረጋገጡም እባክዎ ይመዝገቡ"
+
+msgid "User has been saved."
+msgstr "ተጠቃሚው ተቀምጧል"
+
+msgid "You cannot follow yourself"
+msgstr "ራስዎን መከተል አይችሉም"
+
+msgid "Password updated successfully"
+msgstr "የይለፍ ቃል በተሳካ ሁኔታ ዘምኗል"
+
+msgid "Existing password is incorrect"
+msgstr "ያለው የይለፍ ቃል የተሳሳተ ነው"
+
+msgid "Sorry ! No such record was found"
+msgstr "ይቅርታ ! እንደዚህ ዓይነት መዝገብ አልተገኘም"
+
+msgid "Store has not Found"
+msgstr "መደብር አልተገኘም"
+
+msgid "No Conversation Found"
+msgstr "ውይይት አልተገኘም"
+
+msgid "Sorry ! No such record was Found"
+msgstr "ይቅርታ ! እንደዚህ ዓይነት መዝገብ አልተገኘም"
+
+msgid "You can not view other\'s order details"
+msgstr "ዝርዝሮችን ለማዘዝ ሌሎች ማየት አይችሉም"
+
+msgid "Product was already delivered"
+msgstr "ምርት አስቀድሞ ደርሷል"
+
+msgid "Please mention a valid Hashtag"
+msgstr "እባክዎ የሚሰራ ሃሽታግን ይጥቀሱ"
+
+msgid "Gift card can not be send to your own"
+msgstr "የስጦታ ካርድ ወደ እርስዎ መላክ አይቻልም"
+
+msgid "Something went wrong, please try again."
+msgstr "የሆነ ችግር ተፈጥሯል ፣ እባክዎ እንደገና ይሞክሩ።"
+
+msgid "About"
+msgstr "ስለ"
+
+msgid "Documentation"
+msgstr "ሰነድ"
+
+msgid "Press"
+msgstr "ይጫኑ"
+
+msgid "Pricing"
+msgstr "ዋጋ አሰጣጥ"
+
+msgid "Talk"
+msgstr "ማውራት"
+
+msgid "posted a news:"
+msgstr "አንድ ዜና ለጥ postedል"
+
+msgid "mentioned you in a item comment"
+msgstr "በንጥል አስተያየት ውስጥ ጠቅሰዎታል"
+
+msgid "You have Created the item for Group gift. Soon your friend  will get the Item from"
+msgstr "እቃውን ለቡድን ስጦታ ፈጥረዋል። ብዙም ሳይቆይ ጓደኛዎ እቃውን ከእዚህ ያገኛል"
+
+msgid "Contributed the product for Group gift . Soon your friend  will get the Product from"
+msgstr "ለቡድን ስጦታ ምርቱን አበርክቷል ፡፡ በቅርቡ ጓደኛዎ ምርቱን ከ ያገኛል"
+
+msgid "You have received a"
+msgstr "መልእክት ደርሶሃል"
+
+msgid "credit regarding your friends first purchase"
+msgstr "የጓደኞችዎን የመጀመሪያ ግዢ በተመለከተ ክሬዲት"
+
+msgid "You have received a Gift card from your friend"
+msgstr "ከጓደኛዎ የስጦታ ካርድ ተቀብለዋል"
+
+msgid "Group gift you have created with the item is expired"
+msgstr "ከእቃው ጋር የፈጠሩት የቡድን ስጦታ ጊዜው አልፎበታል"
+
+msgid "Group gift you have created with the item is sold out"
+msgstr "ከእቃው ጋር የፈጠሩት የቡድን ስጦታ ተሽጧል"
+
+msgid "Enter your Coupon Code"
+msgstr "የእርስዎን የኩፖን ኮድ ያስገቡ"
+
+msgid "Error Occurs, Can't login with merchant email."
+msgstr "ስህተት ይከሰታል ፣ በነጋዴ ኢሜይል መግባት አልተቻለም።"
+
+msgid "Ratings"
+msgstr "ደረጃዎች"
+
+msgid "Reviews"
+msgstr "ግምገማዎች"
+
+msgid "POPULAR PRODUCTS"
+msgstr "ታዋቂ ምርቶች"
+
+msgid "NEW ARRIVALS"
+msgstr "አዲስ የመጡ"
+
+msgid "Categories"
+msgstr "ምድቦች"
+
+msgid "Top Rated Products"
+msgstr "ከፍተኛ ደረጃ የተሰጣቸው ምርቶች"
+
+msgid "Write review"
+msgstr "ግምገማ ይጻፉ"
+
+msgid "Edit review"
+msgstr "ግምገማ አርትዕ"
+
+
+msgid "Post a Question"
+msgstr "ጥያቄዎን ይለጥፉ"
+
+msgid "Post Your Question"
+msgstr "ጥያቄዎን ይለጥፉ"
+
+msgid "No Answer"
+msgstr "መልስ የለም"
+
+msgid "No answer"
+msgstr "መልስ የለም"
+
+msgid "View All Questions and Answers"
+msgstr "ሁሉንም ጥያቄዎች እና መልሶች ይመልከቱ"
+
+msgid "WRITE A QUESTION"
+msgstr "ጥያቄ ፃፍ"
+
+msgid "Write a Question about"
+msgstr "አንድ ጥያቄ ፃፍ"
+
+msgid "Write a question about"
+msgstr "ስለ አንድ ጥያቄ ይጻፉ"
+
+msgid "Write a Review"
+msgstr "አንድ ግምገማ ጻፍ"
+
+msgid "Discount Items"
+msgstr "የቅናሽ ዕቃዎች"
+
+msgid "Write answer"
+msgstr "መልስ ጻፍ"
+
+msgid "Featured Items"
+msgstr "ተለይተው የቀረቡ ዕቃዎች"
+
+msgid "Top Stores"
+msgstr "ከፍተኛ ታሪኮች"
+
+msgid "Questions and Answers"
+msgstr "ጥያቄዎች እና መልሶች"
+
+msgid "Suggested Items"
+msgstr "የተጠቆሙ ዕቃዎች"
+
+msgid "Reviews & Ratings"
+msgstr "ግምገማዎች እና ደረጃዎች"
+
+msgid "Post your query here.."
+msgstr "ጥያቄዎን እዚህ ይለጥፉ .."
+
+msgid "Men's Fashion"
+msgstr "የወንዶች ፋሽን"
+
+msgid "Women's Fashion"
+msgstr "የሴቶች ፋሽን"
+
+msgid "Home appliances"
+msgstr "የቤት ውስጥ መገልገያዎች"
+
+msgid "Beauty and Personal care"
+msgstr "ውበት እና የግል እንክብካቤ"
+
+msgid "Electronics"
+msgstr "ኤሌክትሮኒክስ"
+
+msgid "Home and Furnitures"
+msgstr "የቤት እና የቤት እቃዎች"
+
+msgid "Gym accessories"
+msgstr "የጂም መለዋወጫዎች"
+
+msgid "E-Readers & eBooks"
+msgstr "ኢ-አንባቢዎች እና ኢ-መጽሐፍት"
+
+msgid "Mobiles & Computers"
+msgstr "ሞባይል እና ኮምፒተሮች"
+
+msgid ""
+msgstr ""

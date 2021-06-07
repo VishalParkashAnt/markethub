@@ -1,0 +1,149 @@
+/******************** 32.Merchant-Landing page*******************************/
+.header-landing {
+    padding-top: 20px;
+}
+.bgimg-1{
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-landing h1 img {
+    height: 35px;
+}
+.bgimg-1 {
+  background-image: url("../images/background/landing-bg.jpg");
+  height: 100%;
+}
+.caption {
+  position: absolute;
+  left: 0;
+  top: 35%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+.landing-bottom {
+    position: absolute;
+    bottom: 0;
+    background-color: #fff;
+    width: 100%;
+}
+.header-landing .navbar-brand {
+    padding: 0 0;
+    height: auto;
+    margin: 15px 0;
+}
+.header-landing a {
+    color: #fff;
+}
+.header-landing h1 {
+    margin: 0;
+}
+.header-landing .navbar-toggle .icon-bar {
+    background: #fff;
+}
+.header-landing .navbar-toggle {
+    margin: 25px 0;
+    padding: 0;
+}
+.landing-quick-access li {
+    display: inline-block;
+    margin: 5px 20px;
+}
+.landing-quick-access {
+    text-align: center;
+    padding: 25px 0;
+}
+.landing-quick-access li a{
+    color: #444444;
+}
+.landing-quick-access li .check-img {
+    background: url("../images/background/check-circle.png") no-repeat scroll left center;
+    display: inline-block;
+    height: 20px;
+    width: 30px;
+    float: left;
+}
+h1.landing-title {
+    font-size: 24px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+p.paragrp {
+    color: #fff;
+    width: 440px;
+    margin: 20px auto;
+    font-size: 18px;
+}
+.wrapper-landing .bgimg-1 .view-all-btn {
+    padding: 10px 20px;
+}
+.wrapper-landing .bgimg-1 .view-all-btn a {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.header-landing .nav li a {
+    background: transparent;
+}
+
+@media (min-width:320px) and (max-width: 480px){
+.caption {
+    top: 20%;
+}
+p.paragrp {
+    width: 90%;
+}
+
+}
+
+@media (min-width:481px) and (max-width: 599px){
+.caption {
+    top: 25%;
+}
+p.paragrp {
+    width: 80%;
+}
+
+}
+@media (min-width:600px) and (max-width: 767px){
+.caption {
+    top: 30%;
+}
+p.paragrp {
+    width: 440px;
+}
+
+}
+@media (min-width:768px) and (max-width: 1023px){
+.header-landing #myNavbar {
+    top: -20px;
+    right: 0;
+    width: 40%;
+    float: right;
+}
+.navbar-right {
+    float: unset !important;
+    margin: 10px 0;
+}
+.header-landing .nav li {
+    margin: 0px !important;
+}
+
+}
+
+@media (min-width:320px) and (max-width: 1023px){
+.landing-quick-access ul {
+    text-align: left;
+}
+.header-landing #myNavbar {    border: unset;    background-color: rgb(0,0,0,0.7);    position: relative;    z-index: 99;    background-color: #000;    opacity: 0.7;}
+.header-landing .nav li {
+    margin: 0 10px;
+}
+.header-landing .nav li:hover {
+    background: rgb(255,255,255,0.2);
+}
+
+}
+/****************************************************************************/
