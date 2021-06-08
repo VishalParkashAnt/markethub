@@ -19,9 +19,125 @@ $sliderstyle = "style='box-shadow:none;height:".$sliderProperty['sliderheight'].
 
 $widgetSettings = json_decode($homepageModel['widget_settings']);
 ?>
+<div class=" card main-side-nav-card left_sidebar scrollbar_hide    multi-collapse">
+    <div class="sidebar_inner">
+        <div class="card-body with-nav">
+            <div class=" left_sidebar_inner ">
+                <ul class=" main-left-side-nav ">
+                    <li class="">
+                        <a href="<?php echo STRATUS_LATEST ?>" class="">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/favoritesN.svg" class="">
+                            </div>
+                            <span class="nav-text">Latest Posts</span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class=" main-left-side-nav local_hub_nav_item">
+                    <li class=" ">
+                        <a href="<?php echo STRATUS_URL ?>">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/local_hubN.svg" class="">
+                            </div>
+                            <span class="nav-text">Local Hub</span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class=" main-left-side-nav global_hub_nav_item">
+                    <li class=" ">
+                        <a href="<?php echo STRATUS_GLOBAL ?>">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/globle_hubN.svg" class="">
+                            </div>
+                            <span class="nav-text">Global Hub</span>
+                        </a>
+                    </li>
+                </ul>
 
+
+                <ul class=" main-left-side-nav video_hub_list">
+                  <li class="<?php echo ($pt->page == 'home') ? 'active' : ''; ?>">
+                        <a href="{{LINK }}">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/video_hub_icon.svg" class="">
+                            </div>
+                            <span class="nav-text">Video Hub</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <ul class=" main-left-side-nav ">
+                    <li class="">
+                        <a href="<?php echo STRATUS_BLOG ?>">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/blog_hubN.svg" class="">
+                            </div>
+                            <span class="nav-text"> Blog Hub </span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class=" main-left-side-nav">
+                    <li class="">
+                        <a href="<?php echo STRATUS_ADS ?>">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/ad_hubN.svg" class="">
+                            </div>
+                            <span class="nav-text"> Ads Hub </span>
+                        </a>
+                    </li>
+                </ul>
+
+                <!-- investment module -->
+                <ul class=" main-left-side-nav ">
+                    <li class="">
+                    <a href="<?php echo INVESTMENT_HUB ?>">
+                    <div class="svg-container ">
+                    <img src="http://localhost/markethub//img/svg_icon/Wallet-active.svg" class="whiteicon">
+                    </div>
+                    <span class="nav-text"> Investment </span>
+                    </a>
+                    </li>
+                    </ul>
+                    <!-- -->
+
+
+
+                <ul class=" main-left-side-nav">
+                    <li class="">
+                        <a href="<?php echo STRATUS_MARKET ?>">
+                            <div class="svg-container ">
+                                <img src="http://localhost/markethub//img/svg_icon/market_hubN.svg" class="">
+                            </div>
+                            <span class="nav-text"> Market Hub </span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class=" main-left-side-nav ">
+                    <li class="">
+                        <a href="<?php echo STRATUS_WALLET ?>">
+                            <div class="svg-container ">
+                                <img src="http://localhost/markethub//img/svg_icon/Wallet-active.svg" class="whiteicon">
+                            </div>
+                            <span class="nav-text"> Wallet </span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class=" main-left-side-nav left-sidebar-five-ul">
+                    <li>
+                        <a href="{{LINK logout}}">
+                            <div class="svg-container">
+                                <img src="http://localhost/markethub//img/svg_icon/logOut_activeNew.svg" class="whiteicon">
+                            </div>
+                            <span class="nav-text"> Log Out </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
  <div class="row parent_reverce">
-      <section class="col-md-9 col-sm-12 no-hor-padding ">
+      <section class="inner_body">
       <section class="side-collapse-container mainPage">
 
          <section class="slider">
@@ -437,7 +553,8 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
         </div>
       </section>
  -->
-  <section class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+ <div id="right-sidebar " class="right-sidebar scrollbar_hide">
+  <section class="">
         <div class="cateGory">
           <div class="category">
             <div id="sidebar">
@@ -528,7 +645,7 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
         </div>
       </section>
    <!-- E O filters -->
-     
+   </div>
    </div>
 
 
