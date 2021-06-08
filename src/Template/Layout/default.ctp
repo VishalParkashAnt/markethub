@@ -144,6 +144,8 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
         <?= $this->fetch('css') ?>
         <?= $this->fetch('script') ?>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pushbar.js@1.0.0/src/pushbar.min.css">
+          <?= $this->Html->css('custom_style.css') ?>
+          <?= $this->Html->css('media.css') ?>
         <style type="text/css">
           .test
           {
@@ -162,448 +164,472 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
         <?php
         $baseurl = Router::url('/');
         ?>
-        <header>
-      
-      <nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container-fluid navHeader">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <div data-pushbar-id="sidepushbar" data-pushbar-direction="left" class="mob_sidebar">
-            <!-- <button data-pushbar-close class="close_btn">Close</button> -->
-            <div class="profile-section">
-              <div class="d-flex align-items-center">
-                 <?php if(count($userDetailss)==0){
-                    $img=SITE_URL.'/img/profile@2x.png';
-                    $user_imges = "usrimg.jpg";
-                    $name="Guest";
-                    
-                  } 
-                  else{
-                    $user_imges = $userDetailss['profile_image'];
-                    $name=$userDetailss['first_name'];
-                  }
-
-             
-                  ?>
-
-                <div class="profile-circle"><span class="">
-                    <img src="<?php echo SITE_URL.'media/avatars/thumb70/'.$user_imges;?>" style="width:100%;height:100%;">
-                  </span></div>
-                <div class="welcome-text">
-
-                  <div class="welcome">Welcome</div>
-                 
-                  <div class="name"><?php echo $name;?></div>
-
-                </div>
-              </div>
-            </div>
-            <div class="panel-group" id="accordion">
-                      <?php if(count($loguser)==0)
-                {
-
-                ?>
-              <div class="panel-heading">
-                <h3 class="panel-title">
-                  <a class="accordion-toggle" href="<?php echo SITE_URL.'login';?>">
-
-                    <div class="d-flex align-items-center">
-                
-                      <div><img src="<?php echo SITE_URL.'img/affli@2x.png';?>" class="w-35" style="margin-right: 10px;">
-                      </div>
-                      <span class="header_color"><?php echo __d('user','Affiliate');?></span>
-                     
-                    </div>
-                  </a>
-                </h3>
-              </div> <?php } else{?>
-                 <div class="panel-heading">
-                <h3 class="panel-title">
-                  <a class="accordion-toggle" href="<?php echo SITE_URL.'affiliateproducts';?>">
-
-                    <div class="d-flex align-items-center">
-                
-                      <div><img src="<?php echo SITE_URL.'img/affli@2x.png';?>" class="w-35" style="margin-right: 10px;">
-                      </div>
-                      <span class="header_color"><?php echo __d('user','Affiliate');?></span>
-                     
-                    </div>
-                  </a>
-                </h3>
-              </div>
-              <?php }?>
+      <header>
+         <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid navHeader d-flex align-items-center">
+               <!-- Brand and toggle get grouped for better mobile display -->
+               <div class="navbar-header">
+                  <div data-pushbar-id="sidepushbar" data-pushbar-direction="left" class="mob_sidebar">
+                     <!-- <button data-pushbar-close class="close_btn">Close</button> -->
+                     <div class="profile-section">
+                        <div class="d-flex align-items-center">
+                           <?php if(count($userDetailss)==0){
+                              $img=SITE_URL.'/img/profile@2x.png';
+                              $user_imges = "usrimg.jpg";
+                              $name="Guest";
+                              } 
+                              else{
+                              $user_imges = $userDetailss['profile_image'];
+                              $name=$userDetailss['first_name'];
+                              }
+                              ?>
+                           <div class="profile-circle"><span class="">
+                              <img src="<?php echo SITE_URL.'media/avatars/thumb70/'.$user_imges;?>" style="width:100%;height:100%;">
+                              </span>
+                           </div>
+                           <div class="welcome-text">
+                              <div class="welcome">Welcome</div>
+                              <div class="name"><?php echo $name;?></div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="panel-group" id="accordion">
+                        <?php if(count($loguser)==0)
+                           { ?>
+                        <div class="panel-heading">
+                           <h3 class="panel-title">
+                              <a class="accordion-toggle" href="<?php echo SITE_URL.'login';?>">
+                                 <div class="d-flex align-items-center">
+                                    <div><img src="<?php echo SITE_URL.'img/affli@2x.png';?>" class="w-35" style="margin-right: 10px;">
+                                    </div>
+                                    <span class="header_color"><?php echo __d('user','Affiliate');?></span>
+                                 </div>
+                              </a>
+                           </h3>
+                        </div>
+                        <?php } else{?>
+                        <div class="panel-heading">
+                           <h3 class="panel-title">
+                              <a class="accordion-toggle" href="<?php echo SITE_URL.'affiliateproducts';?>">
+                                 <div class="d-flex align-items-center">
+                                    <div><img src="<?php echo SITE_URL.'img/affli@2x.png';?>" class="w-35" style="margin-right: 10px;">
+                                    </div>
+                                    <span class="header_color"><?php echo __d('user','Affiliate');?></span>
+                                 </div>
+                              </a>
+                           </h3>
+                        </div>
+                        <?php }?>
                         <?php if(count($loguser)>0)
-                { ?>
-              <div class="panel-heading">
-                <h3 class="panel-title">
-                  <a class="accordion-toggle" href="<?php echo SITE_URL.'cart';?>">
-                    <div class="d-flex align-items-center">
-                      <div><img src="<?php echo SITE_URL.'img/Cart@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
-                      <span class="header_color"><?php echo __d('user','Cart');?></span>
-                    </div>
-                  </a>
-                </h3>
-              </div>
-          
-              <div class="panel-heading">
-                <h3 class="panel-title">
-                  <a class="accordion-toggle" href="<?php echo SITE_URL.'push_notifications';?>">
-                    <div class="d-flex align-items-center">
-                      <div><img src="<?php echo SITE_URL.'/img/Notification@2x.png'?>" class="w-35" style="margin-right: 10px;"></div>
-                      <span class="header_color"><?php echo __d('user','Notification');?></span>
-                    </div>
-                  </a>
-                </h3>
-              </div>
-               <div class="panel-heading">
-                <h3 class="panel-title">
-                  <a class="accordion-toggle" href="<?php echo SITE_URL.'livefeeds';?>">
-                    <div class="d-flex align-items-center">
-                      <div><img src="<?php echo SITE_URL.'/img/Activity@2x.png'?>" class="w-35" style="margin-right: 10px;"></div>
-                      <span class="header_color"><?php echo __d('user','Live Feeds');?></span>
-                    </div>
-                  </a>
-                </h3>
-              </div>
-                <?php }?>
-
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h3 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#currency">
-                      <span class="arrow"></span>
-                      <div class="d-flex align-items-center">
-                        <div><img src="<?php echo SITE_URL.'/img/Currency@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
-                        <span class="header_color"><?php echo __d('user','Currency');?></span>
-                      </div>
-                    </a>
-                  </h3>
-                </div>
-                <div id="currency" class="panel-collapse collapse">
-                  <div class="panel-body" style="padding: 5px 0 0 60px;">
-                    <?php
-                    $uniquecountrycodes = array();
-                foreach ($languages as $lang) {
-                  if (!in_array($lang['countrycode'], $uniquecountrycodes)) {
-                    echo '<p class="header_color"><a href="' . SITE_URL . 'changecurrency/' . $lang['countrycode'] . '">' . $lang['countrycode'] . '</a></p>';
-                    array_push($uniquecountrycodes, $lang['countrycode']);
-                  }
-                }
-                    ?>
-                  
+                           { ?>
+                        <div class="panel-heading">
+                           <h3 class="panel-title">
+                              <a class="accordion-toggle" href="<?php echo SITE_URL.'cart';?>">
+                                 <div class="d-flex align-items-center">
+                                    <div><img src="<?php echo SITE_URL.'img/Cart@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
+                                    <span class="header_color"><?php echo __d('user','Cart');?></span>
+                                 </div>
+                              </a>
+                           </h3>
+                        </div>
+                        <div class="panel-heading">
+                           <h3 class="panel-title">
+                              <a class="accordion-toggle" href="<?php echo SITE_URL.'push_notifications';?>">
+                                 <div class="d-flex align-items-center">
+                                    <div><img src="<?php echo SITE_URL.'/img/Notification@2x.png'?>" class="w-35" style="margin-right: 10px;"></div>
+                                    <span class="header_color"><?php echo __d('user','Notification');?></span>
+                                 </div>
+                              </a>
+                           </h3>
+                        </div>
+                        <div class="panel-heading">
+                           <h3 class="panel-title">
+                              <a class="accordion-toggle" href="<?php echo SITE_URL.'livefeeds';?>">
+                                 <div class="d-flex align-items-center">
+                                    <div><img src="<?php echo SITE_URL.'/img/Activity@2x.png'?>" class="w-35" style="margin-right: 10px;"></div>
+                                    <span class="header_color"><?php echo __d('user','Live Feeds');?></span>
+                                 </div>
+                              </a>
+                           </h3>
+                        </div>
+                        <?php }?>
+                        <div class="panel panel-default">
+                           <div class="panel-heading">
+                              <h3 class="panel-title">
+                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#currency">
+                                    <span class="arrow"></span>
+                                    <div class="d-flex align-items-center">
+                                       <div><img src="<?php echo SITE_URL.'/img/Currency@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
+                                       <span class="header_color"><?php echo __d('user','Currency');?></span>
+                                    </div>
+                                 </a>
+                              </h3>
+                           </div>
+                           <div id="currency" class="panel-collapse collapse">
+                              <div class="panel-body" style="padding: 5px 0 0 60px;">
+                                 <?php
+                                    $uniquecountrycodes = array();
+                                    foreach ($languages as $lang) {
+                                    if (!in_array($lang['countrycode'], $uniquecountrycodes)) {
+                                    echo '<p class="header_color"><a href="' . SITE_URL . 'changecurrency/' . $lang['countrycode'] . '">' . $lang['countrycode'] . '</a></p>';
+                                    array_push($uniquecountrycodes, $lang['countrycode']);
+                                    }
+                                    }
+                                    ?>
+                              </div>
+                           </div>
+                        </div>
+                        <?php 
+                           if(count($loguser)==0) {
+                           ?>
+                        <div class="panel-heading">
+                           <h3 class="panel-title">
+                              <a class="accordion-toggle" href="<?php echo SITE_URL.'login'?>">
+                                 <div class="d-flex align-items-center">
+                                    <div><img src="<?php echo SITE_URL.'/img/profile@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
+                                    <span class="header_color"><?php echo __d('user','Profile');?></span>
+                                 </div>
+                              </a>
+                           </h3>
+                        </div>
+                        <?php } else{?>
+                        <div class="panel panel-default">
+                           <div class="panel-heading">
+                              <h3 class="panel-title">
+                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#profile">
+                                    <span class="arrow"></span>
+                                    <div class="d-flex align-items-center">
+                                       <div><img src="<?php echo SITE_URL.'/img/profile@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
+                                       <span class="header_color"><?php echo __d('user','Profile');?></span>
+                                    </div>
+                                 </a>
+                              </h3>
+                           </div>
+                           <div id="profile" class="panel-collapse collapse">
+                              <div class="panel-body" style="padding: 5px 0 0 60px;">
+                                 <a href="<?php echo SITE_URL.'people/'.$userDetailss['username_url'];?>">
+                                    <p class="header_color"><?php echo __d('user', 'My Profile'); ?></p>
+                                 </a>
+                                 <a href="<?php echo SITE_URL.'search/people';?>">
+                                    <p class="header_color"><?php echo __d('user', 'Find Friends'); ?></p>
+                                 </a>
+                                 <a class="header_color" href="<?php echo SITE_URL.'invite_friends';?>">
+                                    <p class="header_color"><?php echo __d('user', 'Invite Friends'); ?></p>
+                                 </a>
+                                 <a class="header_color" href="<?php echo SITE_URL.'group_gift_lists';?>">
+                                    <p class="header_color"><?php echo __d('user', 'Group Gift List'); ?></p>
+                                 </a>
+                                 <a class="header_color" href="<?php echo SITE_URL.'purchases';?>">
+                                    <p><?php echo __d('user', 'Track Orders'); ?></p>
+                                 </a>
+                                 <a class="header_color" href="<?php echo SITE_URL.'profile';?>">
+                                    <p><?php echo __d('user', 'Settings'); ?></p>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                        <?php }?>
+                     </div>
+                     <?php if(count($loguser)>0)
+                        { ?>
+                     <div class="logSignin"><a href="<?php echo SITE_URL.'logout';?>" class="logSignin"><?php echo __d('user', 'Logout'); ?> </a></div>
+                     <?php }?>
+                     <?php if(count($loguser)==0) {?>
+                     <div class="logSignin"><a href="<?php echo SITE_URL.'login';?>" class="logSignin"><?php echo __d('user', 'Login'); ?> </a>
+                        <a href="<?php echo SITE_URL.'signup';?>" class="sigUp"> &nbsp;<?php echo __d('user', 'Signup'); ?></a>
+                     </div>
+                     <?php }?>;
                   </div>
-                </div>
-              </div>
-              <?php 
-              if(count($loguser)==0) {
-              ?>
-              <div class="panel-heading">
-                <h3 class="panel-title">
-                  <a class="accordion-toggle" href="<?php echo SITE_URL.'login'?>">
-                    <div class="d-flex align-items-center">
-                      <div><img src="<?php echo SITE_URL.'/img/profile@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
-                      <span class="header_color"><?php echo __d('user','Profile');?></span>
-                    </div>
-                  </a>
-                </h3>
-              </div>
-          <?php } else{?>
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h3 class="panel-title">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#profile">
-                      <span class="arrow"></span>
-                      <div class="d-flex align-items-center">
-                        <div><img src="<?php echo SITE_URL.'/img/profile@2x.png';?>" class="w-35" style="margin-right: 10px;"></div>
-                        <span class="header_color"><?php echo __d('user','Profile');?></span>
-                      </div>
-                    </a>
-                  </h3>
-                </div>
-                <div id="profile" class="panel-collapse collapse">
-                  <div class="panel-body" style="padding: 5px 0 0 60px;">
-                    <a href="<?php echo SITE_URL.'people/'.$userDetailss['username_url'];?>"><p class="header_color"><?php echo __d('user', 'My Profile'); ?></p></a>
-                   <a href="<?php echo SITE_URL.'search/people';?>"> <p class="header_color"><?php echo __d('user', 'Find Friends'); ?></p></a>
-                   <a class="header_color" href="<?php echo SITE_URL.'invite_friends';?>"> <p class="header_color"><?php echo __d('user', 'Invite Friends'); ?></p></a>
-                  <a class="header_color" href="<?php echo SITE_URL.'group_gift_lists';?>"> <p class="header_color"><?php echo __d('user', 'Group Gift List'); ?></p></a>
-                 <a class="header_color" href="<?php echo SITE_URL.'purchases';?>"> <p><?php echo __d('user', 'Track Orders'); ?></p></a>
-                  <a class="header_color" href="<?php echo SITE_URL.'profile';?>"> <p><?php echo __d('user', 'Settings'); ?></p></a>
+                  <div class="d-flex align-items-center custom_header_nav">
+                     <button class="sidebar_icon" data-pushbar-target="sidepushbar"></button>
+                     <li class="drop">
+                        <a href="<?php echo SITE_URL;?>" class=""> <img src="<?php echo SITE_URL.'/img/Logo@2x.png';?>" alt="homepage" class="logo"></a>
 
+                           <!-- <a href="<?php echo SITE_URL;?>" class=""> <img src="<?php echo SITE_URL.'/img/Logo@2x.png';?>"
+                alt="homepage" class="logo"></a> -->
+                        <!-- <a href="http://services.hitasoft.in/dev/stratus/" > -->
+                        <!-- <a href="#" id="logo_dropdown" class="dropdown-toggle loGo" data-toggle="dropdown" role="button"
+                           aria-haspopup="true" aria-expanded="false">
+                           <div class="logoArrow "><i class="fa fa-angle-down"></i></div>
+                           <!--  </a> --
+                        </a> -->
+                        <ul class="dropdown-menu logoDropDown">
+                           <li><a href="<?php echo SITE_URL.'merchant';?>"><span class="headImg"><img
+                              src="<?php echo SITE_URL.'/img/Sell@2x.png';?>" alt="Sell"></span>
+                              <span><?php echo __d('user','Sell');?></span></a>
+                           </li>
+                           <?php if(count($loguser)==0)
+                              {
+                                echo '<li><a href="'.SITE_URL.'login"><span class="headImg"><img src="'.SITE_URL.'/img/Gifts@2x.png" alt="Gift"></span>
+                              <span>'.__d('user','Gift').'</span></a></li>';
+                              }
+                              else
+                              {
+                                echo '<li><a href="'.SITE_URL.'creategiftcard"><span class="headImg"><img src="'.SITE_URL.'/img/Gifts@2x.png" alt="Gift"></span>
+                              <span>'.__d('user','Gift').'</span></a></li>';
+                              } ?>
+                           <li><a href="" data-toggle="modal" data-dismiss="modal" data-target="#app-modal"><span class="headImg"><img src="<?php echo SITE_URL.'/img/Our app.png';?>" alt="Our App"></span><span><?php echo __d('user','Our App');?></span></a></li>
+                           <li><a href="<?php echo SITE_URL.'allstores';?>"><span class="headImg"><img src="<?php echo SITE_URL.'/img/Stores@2x.png';?>" alt="Stores"></span><span><?php echo __d('user','All Stores');?></span></a></li>
+                        </ul>
+                     </li>
+                     <span class="navbar-form navbar-left searchBar header_cmn_wraper" style="border:none;">
+                        <div class="header_back_btn">
+                          <a href="javascript:window.history.back()" class="back_btn  headerBackButtonGlobal"><i
+                          class="fa fa-chevron-left"></i> <span>Back</span></a>
+                        </div>
+                        <div class="form-group inputSearch search_wrapper">
+                        <form class="header-search-form" role="search"method="GET">
+                        <div class="search-input-icon">
+                          <img itemprop="" src="https://videohub.stratus-stage.xyz//themes/default/img/svg_img/Search2.svg" alt="{{CONFIG title}}">
+                        </div>
+                           <input id="search-query" name="q" class="form-control" autocomplete="off" onkeyup="indexSearch(event);"
+                              type="text" placeholder="<?php echo __d('user','Search for products, brands and more...');?>">
+                           <div class="feed-search nodisply" style="display: none;">
+                              <ul id="usesrch" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front custom_search_dropdown_content"
+                                 style="display: none;"></ul>
+                           </div>
+                        </div>
+                        <div class="searchHeader">
+                           <button type="submit" class="btn btn-default search1" onclick="indcall(event);"><?php echo __d('user','Search');?></button>
+                        </div>
+                            </form>
+                     </span>
                   </div>
-                </div>
-              </div>
-            <?php }?>
-             
-            </div>
-            <?php if(count($loguser)>0)
-                { ?>
-             <div class="logSignin"><a href="<?php echo SITE_URL.'logout';?>" class="logSignin"><?php echo __d('user', 'Logout'); ?> </a></div>
-            <?php }?>
-             <?php if(count($loguser)==0) {?>
-            <div class="logSignin"><a href="<?php echo SITE_URL.'login';?>" class="logSignin"><?php echo __d('user', 'Login'); ?> </a>
-              <a href="<?php echo SITE_URL.'signup';?>" class="sigUp"> &nbsp;<?php echo __d('user', 'Signup'); ?></a>
-            </div> <?php }?>;
-
-          </div>
-        
-          <div class="d-flex align-items-center custom_header_nav">
-            <button class="sidebar_icon" data-pushbar-target="sidepushbar"></button>
-         
-          <li class="drop">
-            <a href="<?php echo SITE_URL;?>" class=""> <img src="<?php echo SITE_URL.'/img/Logo@2x.png';?>"
-                alt="homepage" class="logo"></a>
-            <!-- <a href="http://services.hitasoft.in/dev/stratus/" > -->
-            <a href="#" id="logo_dropdown" class="dropdown-toggle loGo" data-toggle="dropdown" role="button"
-              aria-haspopup="true" aria-expanded="false">
-              <div class="logoArrow "><i class="fa fa-angle-down"></i></div><!--  </a> -->
-            </a>
-            
-            <ul class="dropdown-menu logoDropDown">
-              <li><a href="<?php echo SITE_URL.'merchant';?>"><span class="headImg"><img
-                      src="<?php echo SITE_URL.'/img/Sell@2x.png';?>" alt="Sell"></span>
-                  <span><?php echo __d('user','Sell');?></span></a></li>
-           <?php if(count($loguser)==0)
-                {
-                  echo '<li><a href="'.SITE_URL.'login"><span class="headImg"><img src="'.SITE_URL.'/img/Gifts@2x.png" alt="Gift"></span>
-               <span>'.__d('user','Gift').'</span></a></li>';
-                }
-                else
-                {
-                  echo '<li><a href="'.SITE_URL.'creategiftcard"><span class="headImg"><img src="'.SITE_URL.'/img/Gifts@2x.png" alt="Gift"></span>
-               <span>'.__d('user','Gift').'</span></a></li>';
-                } ?>
-             <li><a href="" data-toggle="modal" data-dismiss="modal" data-target="#app-modal"><span class="headImg"><img src="<?php echo SITE_URL.'/img/Our app.png';?>" alt="Our App"></span><span><?php echo __d('user','Our App');?></span></a></li>
-                <li><a href="<?php echo SITE_URL.'allstores';?>"><span class="headImg"><img src="<?php echo SITE_URL.'/img/Stores@2x.png';?>" alt="Stores"></span><span><?php echo __d('user','All Stores');?></span></a></li>
-
-            </ul>
-
-          </li>
-           <span class="navbar-form navbar-left searchBar" style="border:none;">
-            <div class="form-group inputSearch">
-              <input id="search-query" name="q" class="form-control" autocomplete="off" onkeyup="indexSearch(event);"
-                type="text" placeholder="<?php echo __d('user','Search for products, brands and more...');?>">
-              <div class="feed-search nodisply" style="display: none;">
-                <ul id="usesrch" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front custom_search_dropdown_content"
-                  style="display: none;"></ul>
-              </div>
-            </div>
-            <div class="searchHeader">
-              <button type="submit" class="btn btn-default search1" onclick="indcall(event);"><?php echo __d('user','Search');?></button>
-            </div>
-          </span>
-        </div>
-
-          <!-- <a class="navbar-brand" href="#">Brand</a> -->
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navBarcollapse" id="bs-example-navbar-collapse-1">
-
-         <!--  <span class="navbar-form navbar-left searchBar">
-            <div class="form-group inputSearch">
-              <input id="search-query" name="q" class="form-control" autocomplete="off" onkeyup="indexSearch(event);"
-                type="text" placeholder="Search for products, brands and more...">
-              <div class="feed-search nodisply" style="display: none;">
-                <ul id="usesrch" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front"
-                  style="display: none; top: 93px; left: 222px; width: 350px;border-radius:20px;"></ul>
-              </div>
-            </div>
-            <div class="searchHeader">
-              <button type="submit" class="btn btn-default search1" onclick="indcall(event);">Search</button>
-            </div>
-          </span> -->
-             <ul class="nav navbar-nav navbar-right riGHt" >
-            <!-- <li  class="myDIV" ><img src="./img/affli@2x.png" alt="Affiliate" onclick="newFn()">
-              <div class="hide">sdfs</div>
-            </li> -->
-           
-             <?php if(count($loguser)==0)
-                {
-                  echo '<li class="affi"><a href="'.SITE_URL.'login"><img src="'.SITE_URL.'/img/affli@2x.png" alt="Affiliate"><span class="affiText">'.__d('user','Affiliate').'</span></a></li>';
-                }
-                else
-                {
-                  echo '<li class="affi"><a href="'.SITE_URL.'affiliateproducts"><img src="'.SITE_URL.'/img/affli@2x.png" alt="Affiliate"><span class="affiText">'.__d('user','Affiliate').'</span></a></li>';
-                  
-                }
-                ?>
-            <!-- <li class="currenCy">
-              <img src="./img/Currency@2x.png" alt="Affiliate">
-              <span class="currText">Currency</span>
-            </li> -->
-            <li class="currenCy">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <img src="<?php echo SITE_URL.'/img/Currency@2x.png';?>" alt="Affiliate" />
-              
-              <span class="currText">
-                
-                <?php
-                      if(isset($_SESSION['currency_code']))
-                        echo $_SESSION['currency_code'];
-                      else
-                      {
-                       //echo '<pre>';print_r($languages[0]);die;
-                        echo $languages[0]['countrycode'];
-                      }
-                      ?></span>
-              </a>
-              <ul class="dropdown-menu currencyDropDown">
-                <?php
-                /* latest fixes 4.1 */
-                $uniquecountrycodes = array();
-                foreach ($languages as $lang) {
-                  if (!in_array($lang['countrycode'], $uniquecountrycodes)) {
-                    echo '<li><a href="' . SITE_URL . 'changecurrency/' . $lang['countrycode'] . '">' . $lang['countrycode'] . '</a></li>';
-                    array_push($uniquecountrycodes, $lang['countrycode']);
-                  }
-                }
-                /* latest fixes 4.1 */
-                ?>
-              </ul>
-
-            </li>
-            <?php 
-            if(count($loguser)==0){ 
-              echo '<a href="'.SITE_URL.'login"><li class="pRofile">
-                
-                <img src="'.SITE_URL.'/img/profile@2x.png" alt="Affiliate">
-                <span class="pRofileText">'. __d('user','Profile').'</span>
-                
-              </li></a>';
-            }
-            else{
-
-             //  echo '<li class="affi"><a href="'.SITE_URL.'people/'.$loguser['username_url'].'"><img src="'.SITE_URL.'/img/profile@2x.png" alt="Profile"><span class="pRofileText"></span></a></li>';
-            }
-
-               ?>
-
-           
-            <?php
-              if(count($loguser)>0)
-              {
-                echo '<li class="dropdown caRt" style="cursor:pointer;">
-                           <img src="'.SITE_URL.'/img/Cart@2x.png" data-toggle="dropdown" alt="cart" onclick="showcarthov();">';
-                
-           
-                    if(isset($defaultcart_total_itms) && !empty($defaultcart_total_itms) && $defaultcart_total_itms>0)
-                       echo '<div class="dot"></div>';
-                      //echo '<span id="cartnoti" class="counter-label">'.$defaultcart_total_itms.'</span>';
-                   
-                  echo'</a>
-                    <ul class="notification-dd dropdown-menu">
-                      <li class="dd-heading bold-font">'.__d('user','My cart').':</li>
-                      <div class="notification-list-cnt" id="cartmousehoverval">';
-            // CART SECTION
-                        $imageurl=$baseurl.'listing/'.base64_encode($setcart['itemid']."_".rand(1,9999));
-                        foreach($defaultcart as $setcart){
-                          if ($setcart['image']!="")
-                            { $itemimageurl=SITE_URL.'media/items/thumb70/'.$setcart['image'];
-                        }else{
-                          $itemimageurl=$baseurl.'media/items/original/usrimg.jpg';
-                        }
-                        echo '<li class="notification-list">
-                        <a class="square-profile" href="'.$imageurl.'">
-                          <div class="profile-square" style="background:url('.$itemimageurl.')" ></div></a>
-                          <div class="notification-detail">
-                            <a href="'.SITE_URL.'cart">
-                              <span class="product-name-text extra_text_tablecell test">'.$setcart['name'].'</span>
-                              <span class="product-qty">'.__d('user','Qty').' :'.$setcart['qty'].'</span>
-                              <span class="product-price-text">'.__d('user','Price').' :'.$setcart['price'].'</span>
-                            </a>
-                          </div>
-                        </li>';
-
-                      }
-                      echo'</div>
-                      <li class="dd-footer top-border">
-                        <div class="all-notification-text"><a class="centered-text" href="'.SITE_URL.'cart">'.__d('user','Checkout').'</a></div>
-                      </li>
-                    </ul>
-                  </li>';
-                  echo '<input type="hidden" id="logguserid" value="'.$loguser['id'].'">';
-                }
-                ?>
-                 <?php
-                if(count($loguser)>0){
-
-                   echo '<li class="liveFeeds"><a href="'.SITE_URL.'livefeeds"><img src="'.SITE_URL.'/img/Activity@2x.png" alt="Activity"></a></li>';
-              
-                }
-                else{
-                  echo '<li class="logSignin"><a href="'.SITE_URL.'login" class="logSignin">'.__d('user','Login').' / </a> <a href="'.SITE_URL.'signup"class="sigUp"> &nbsp;Signup</a></li>';
-                  echo '<input type="hidden" id="logguserid" value="0">';
-                }
-            ?>
-              <?php
-              if(count($userDetailss)>0){
-                //print_r('userdetail '.$userdetail);
-                 $user_imges = $userDetailss['profile_image'];
-              if ($user_imges == "") $user_imges = "usrimg.jpg";
-              else $user_imges = $userDetailss['profile_image'];
-               ?>
-                <li class="userProfDrop">
-                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                     <div class="prOfileDropdown">
-                       <img src="<?php echo SITE_URL.'media/avatars/thumb70/'.$user_imges ;?>" alt="user">
-                       <div>
-                         <div class="headName"><?php echo $userDetailss['first_name'];?></div>
-                         <div class="headText">@<?php echo $userDetailss['username_url'];?></div>
+                  <!-- <a class="navbar-brand" href="#">Brand</a> -->
+               </div>
+               <!-- Collect the nav links, forms, and other content for toggling -->
+               <div class="collapse navbar-collapse navBarcollapse" id="bs-example-navbar-collapse-1">
+                  <!--  <span class="navbar-form navbar-left searchBar">
+                     <div class="form-group inputSearch">
+                       <input id="search-query" name="q" class="form-control" autocomplete="off" onkeyup="indexSearch(event);"
+                         type="text" placeholder="Search for products, brands and more...">
+                       <div class="feed-search nodisply" style="display: none;">
+                         <ul id="usesrch" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front"
+                           style="display: none; top: 93px; left: 222px; width: 350px;border-radius:20px;"></ul>
                        </div>
                      </div>
-                   </a>
-                   
-                   <ul class="dropdown-menu usProfHeader">
-                    <a href="<?php echo SITE_URL.'people/'.$userDetailss['username_url'];?>" class="header_color"><li><?php echo __d('user', 'My Profile'); ?></li></a>
-                    <a href="<?php echo SITE_URL.'search/people';?>" class="header_color"><li><?php echo __d('user', 'Find Friends'); ?></li></a>
-                    <a href="<?php echo SITE_URL.'invite_friends';?>" class="header_color"><li><?php echo __d('user', 'Invite Friends'); ?></li></a>
-                    <a href="<?php echo SITE_URL.'group_gift_lists';?>" class="header_color"><li><?php echo __d('user', 'Group Gift List'); ?></li></a>
-                    <a href="<?php echo SITE_URL.'purchases';?>" class="header_color"><li><?php echo __d('user', 'Track Orders'); ?></li></a>
-                    <a href="<?php echo SITE_URL.'profile';?>" class="header_color"><li><?php echo __d('user', 'Settings'); ?></li></a>
-                    <li role="separator" class="divider"></li>
-                    <a href="<?php echo SITE_URL.'logout';?>" class="header_color"><li><?php echo __d('user', 'Logout'); ?></li></a>
-
-                   </ul>
-                </li>
-                <li class="notiFicationHead dropdown notif" >
-                  <!-- <a class="nav-menu-padding" href="javascript:void(0)" data-toggle="dropdown" onclick="shownoti();"><img src="<?php //echo SITE_URL.'/img/Notification@2x.png'?>" alt="Notification"> -->
-
-                   <a class="nav-menu-padding" href="<?php echo SITE_URL.'push_notifications'?>" onclick="shownoti();" ><img src="<?php echo SITE_URL.'/img/Notification@2x.png'?>" alt="Notification">
-                    <?php if($userDetailss['unread_notify_cnt']>0){?>
-                      <!-- <span id="noticnt" class="counter-label"><?php //echo $userDetailss['unread_notify_cnt'];?></span> -->
-                      <div class="dot"></div>
-                      <?php }?>
-                      </a>
-                  <ul class="notification-dd dropdown-menu" id="pushappend">
-                      <li class="notification-text"></li>
-                    </ul>
-                </li>
-                <?php 
-                // echo '<li class="dropdown notif"><a class="nav-menu-padding" data-toggle="dropdown" href="javascript:void(0)" onclick="shownoti();"><span class="notification"></span>';
-                //     //echo $loguser['unread_notify_cnt'];
-                //     if($userDetailss['unread_notify_cnt']>0)
-                //       echo '<span id="noticnt" class="counter-label">'.$userDetailss['unread_notify_cnt'].'</span>';
-                //     echo '<span class="mobile-menu-txt">';echo __d('user','Notifications'); echo'</span></a>
-                    
-                //   </li>';
-             } ?>
-            <li class="dropdown open hide1">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-              aria-expanded="false">Dropdown <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="#">Separated link</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>
-      
-  </header>
+                     <div class="searchHeader">
+                       <button type="submit" class="btn btn-default search1" onclick="indcall(event);">Search</button>
+                     </div>
+                     </span> -->
+                  <ul class="nav navbar-nav navbar-right riGHt" >
+                     <!-- <li  class="myDIV" ><img src="./img/affli@2x.png" alt="Affiliate" onclick="newFn()">
+                        <div class="hide">sdfs</div>
+                        </li> -->
+                     <!-- <?php if(count($loguser)==0)
+                        {
+                          echo '<li class="affi"><a href="'.SITE_URL.'login"><img src="'.SITE_URL.'/img/affli@2x.png" alt="Affiliate"><span class="affiText">'.__d('user','Affiliate').'</span></a></li>';
+                        }
+                        else
+                        {
+                          echo '<li class="affi"><a href="'.SITE_URL.'affiliateproducts"><img src="'.SITE_URL.'/img/affli@2x.png" alt="Affiliate"><span class="affiText">'.__d('user','Affiliate').'</span></a></li>';
+                          
+                        }
+                        ?> -->
+                     <!-- <li class="currenCy">
+                        <img src="./img/Currency@2x.png" alt="Affiliate">
+                        <span class="currText">Currency</span>
+                        </li> -->
+                     <!-- <li class="currenCy">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <img src="<?php echo SITE_URL.'/img/Currency@2x.png';?>" alt="Affiliate" />
+                        <span class="currText">
+                        <?php
+                           if(isset($_SESSION['currency_code']))
+                             echo $_SESSION['currency_code'];
+                           else
+                           {
+                            //echo '<pre>';print_r($languages[0]);die;
+                             echo $languages[0]['countrycode'];
+                           }
+                           ?></span>
+                        </a>
+                        <ul class="dropdown-menu currencyDropDown">
+                           <?php
+                              /* latest fixes 4.1 */
+                              $uniquecountrycodes = array();
+                              foreach ($languages as $lang) {
+                                if (!in_array($lang['countrycode'], $uniquecountrycodes)) {
+                                  echo '<li><a href="' . SITE_URL . 'changecurrency/' . $lang['countrycode'] . '">' . $lang['countrycode'] . '</a></li>';
+                                  array_push($uniquecountrycodes, $lang['countrycode']);
+                                }
+                              }
+                              /* latest fixes 4.1 */
+                              ?>
+                        </ul>
+                     </li> -->
+                     <a class="cmn_icon_style" href="#">
+                        <li class="plus_icon">
+                              <span class="svg_icon">
+                                 <img src="http://localhost/markethub//img/svg_icon/plus_icon.svg" alt="Affiliate">
+                              </span>
+                        </li>
+                     </a>
+                     <a class="cmn_icon_style" href="#">
+                        <li class="email_icon">
+                              <span class="svg_icon">
+                                 <img src="http://localhost/markethub//img/svg_icon/Email_icon.svg" alt="Affiliate">
+                              </span>
+                        </li>
+                     </a>
+                     <?php 
+                        if(count($loguser)==0){ 
+                          echo '<a class="cmn_icon_style" href="'.SITE_URL.'login"><li class="pRofile ">
+                            <span class="svg_icon">
+                              <img src="'.SITE_URL.'/img/profile@2x.png" alt="Affiliate">
+                            </span>
+                            <span class="pRofileText">'. __d('user','Profile').'</span>
+                            
+                          </li></a>';
+                        }
+                        else{
+                        
+                         //  echo '<li class="affi"><a href="'.SITE_URL.'people/'.$loguser['username_url'].'"><img src="'.SITE_URL.'/img/profile@2x.png" alt="Profile"><span class="pRofileText"></span></a></li>';
+                        }
+                        
+                           ?>
+                     <!-- <?php
+                        if(count($loguser)>0)
+                        {
+                          echo '<li class="dropdown caRt" style="cursor:pointer;">
+                                     <img src="'.SITE_URL.'/img/Cart@2x.png" data-toggle="dropdown" alt="cart" onclick="showcarthov();">';
+                          
+                        
+                              if(isset($defaultcart_total_itms) && !empty($defaultcart_total_itms) && $defaultcart_total_itms>0)
+                                 echo '<div class="dot"></div>';
+                                //echo '<span id="cartnoti" class="counter-label">'.$defaultcart_total_itms.'</span>';
+                             
+                            echo'</a>
+                              <ul class="notification-dd dropdown-menu">
+                                <li class="dd-heading bold-font">'.__d('user','My cart').':</li>
+                                <div class="notification-list-cnt" id="cartmousehoverval">';
+                        // CART SECTION
+                                  $imageurl=$baseurl.'listing/'.base64_encode($setcart['itemid']."_".rand(1,9999));
+                                  foreach($defaultcart as $setcart){
+                                    if ($setcart['image']!="")
+                                      { $itemimageurl=SITE_URL.'media/items/thumb70/'.$setcart['image'];
+                                  }else{
+                                    $itemimageurl=$baseurl.'media/items/original/usrimg.jpg';
+                                  }
+                                  echo '<li class="notification-list">
+                                  <a class="square-profile" href="'.$imageurl.'">
+                                    <div class="profile-square" style="background:url('.$itemimageurl.')" ></div></a>
+                                    <div class="notification-detail">
+                                      <a href="'.SITE_URL.'cart">
+                                        <span class="product-name-text extra_text_tablecell test">'.$setcart['name'].'</span>
+                                        <span class="product-qty">'.__d('user','Qty').' :'.$setcart['qty'].'</span>
+                                        <span class="product-price-text">'.__d('user','Price').' :'.$setcart['price'].'</span>
+                                      </a>
+                                    </div>
+                                  </li>';
+                        
+                                }
+                                echo'</div>
+                                <li class="dd-footer top-border">
+                                  <div class="all-notification-text"><a class="centered-text" href="'.SITE_URL.'cart">'.__d('user','Checkout').'</a></div>
+                                </li>
+                              </ul>
+                            </li>';
+                            echo '<input type="hidden" id="logguserid" value="'.$loguser['id'].'">';
+                          }
+                          ?>
+                     <?php
+                        if(count($loguser)>0){
+                        
+                           echo '<li class="liveFeeds"><a href="'.SITE_URL.'livefeeds"><img src="'.SITE_URL.'/img/Activity@2x.png" alt="Activity"></a></li>';
+                        
+                        }
+                        // else{
+                        //   echo '<li class="logSignin"><a href="'.SITE_URL.'login" class="logSignin">'.__d('user','Login').' / </a> <a href="'.SITE_URL.'signup"class="sigUp"> &nbsp;Signup</a></li>';
+                        //   echo '<input type="hidden" id="logguserid" value="0">';
+                        // }
+                        ?>-->
+                     <?php
+                        if(count($userDetailss)>0){
+                          //print_r('userdetail '.$userdetail);
+                           $user_imges = $userDetailss['profile_image'];
+                        if ($user_imges == "") $user_imges = "usrimg.jpg";
+                        else $user_imges = $userDetailss['profile_image'];
+                         ?>
+                     <li class="userProfDrop cmn_icon_style">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                           <div class="prOfileDropdown">
+                              <span class="svg_icon">
+                              <img src="<?php echo SITE_URL.'media/avatars/thumb70/'.$user_imges ;?>" alt="user">
+                           </span>
+                              <div>
+                                 <div class="headName"><?php echo $userDetailss['first_name'];?></div>
+                                 <div class="headText">@<?php echo $userDetailss['username_url'];?></div>
+                              </div>
+                           </div>
+                        </a>
+                        <ul class="dropdown-menu usProfHeader">
+                           <a href="<?php echo SITE_URL.'people/'.$userDetailss['username_url'];?>" class="header_color">
+                              <li><?php echo __d('user', 'My Profile'); ?></li>
+                           </a>
+                           <a href="<?php echo SITE_URL.'search/people';?>" class="header_color">
+                              <li><?php echo __d('user', 'Find Friends'); ?></li>
+                           </a>
+                           <a href="<?php echo SITE_URL.'invite_friends';?>" class="header_color">
+                              <li><?php echo __d('user', 'Invite Friends'); ?></li>
+                           </a>
+                           <a href="<?php echo SITE_URL.'group_gift_lists';?>" class="header_color">
+                              <li><?php echo __d('user', 'Group Gift List'); ?></li>
+                           </a>
+                           <a href="<?php echo SITE_URL.'purchases';?>" class="header_color">
+                              <li><?php echo __d('user', 'Track Orders'); ?></li>
+                           </a>
+                           <a href="<?php echo SITE_URL.'profile';?>" class="header_color">
+                              <li><?php echo __d('user', 'Settings'); ?></li>
+                           </a>
+                           <li role="separator" class="divider"></li>
+                           <a href="<?php echo SITE_URL.'logout';?>" class="header_color">
+                              <li><?php echo __d('user', 'Logout'); ?></li>
+                           </a>
+                        </ul>
+                     </li>
+                     <li class="notiFicationHead dropdown notif cmn_icon_style" >
+                        <!-- <a class="nav-menu-padding" href="javascript:void(0)" data-toggle="dropdown" onclick="shownoti();"><img src="<?php //echo SITE_URL.'/img/Notification@2x.png'?>" alt="Notification"> -->
+                        <a class="nav-menu-padding" href="<?php echo SITE_URL.'push_notifications'?>" onclick="shownoti();" >
+                           <span class="svg_icon">
+                              <img src="<?php echo SITE_URL.'/img/svg_icon/notification_icon.svg'?>" alt="Notification">
+                          </span>
+                           <?php if($userDetailss['unread_notify_cnt']>0){?>
+                           <!-- <span id="noticnt" class="counter-label"><?php //echo $userDetailss['unread_notify_cnt'];?></span> -->
+                           <div class="dot"></div>
+                           <?php }?>
+                        </a>
+                        <ul class="notification-dd dropdown-menu" id="pushappend">
+                           <li class="notification-text"></li>
+                        </ul>
+                     </li>
+                     <?php 
+                        // echo '<li class="dropdown notif"><a class="nav-menu-padding" data-toggle="dropdown" href="javascript:void(0)" onclick="shownoti();"><span class="notification"></span>';
+                        //     //echo $loguser['unread_notify_cnt'];
+                        //     if($userDetailss['unread_notify_cnt']>0)
+                        //       echo '<span id="noticnt" class="counter-label">'.$userDetailss['unread_notify_cnt'].'</span>';
+                        //     echo '<span class="mobile-menu-txt">';echo __d('user','Notifications'); echo'</span></a>
+                            
+                        //   </li>';
+                        } ?>
+                     <li class="dropdown open hide1">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">Dropdown <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                           <li><a href="#">Action</a></li>
+                           <li><a href="#">Another action</a></li>
+                           <li><a href="#">Something else here</a></li>
+                           <li role="separator" class="divider"></li>
+                           <li><a href="#">Separated link</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </div>
+               <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+         </nav>
+      </header>
 
 <!--- Modal Codes -->
 <!--Login popup-->
