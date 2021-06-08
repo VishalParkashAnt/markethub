@@ -1490,17 +1490,11 @@ header .navbar-inverse .navbar-nav>.open>a:hover {
   z-index: 98;
 }
 
-.footer_container {
-  padding-top: 40px;
-}
-
 .footer_column:nth-child(1) {
-  border: medium none;
   padding-left: 0;
 }
 
 .footer_column {
-  border-left: 1px solid #f1f1f1;
   padding-left: 45px;
   padding-right: 45px;
 }
@@ -14293,23 +14287,6 @@ body {
   margin-left: 20px !important;
   margin-right: 20px !important;
   margin-top: 22px !important;
-}
-
-.inputSearch input {
-  width: 100% !important;
-  border-radius: 5px 0px 0px 5px;
-  padding: 18px;
-  background-image: url("../img/search-header.png");
-  background-repeat: no-repeat;
-  background-position: 7px center;
-  background-size: 26px;
-  padding-left: 40px;
-  font-size: 14px;
-  font-family: regular-font;
-  border: 1px solid #e1e9f5;
-  box-shadow: 0px 0px 1px 0.3px #808DD7 !important;
-  border-right: none;
-  padding-right: 10px;
 }
 
 input::placeholder {

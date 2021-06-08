@@ -1493,17 +1493,11 @@ top: -7px;
     z-index: 98;
   }
   
-  .footer_container {
-    padding-top: 40px;
-  }
-  
   .footer_column:nth-child(1) {
-    border: medium none;
     padding-left: 0;
   }
   
   .footer_column {
-    border-left: 1px solid #f1f1f1;
     padding-left: 45px;
     padding-right: 45px;
   }
