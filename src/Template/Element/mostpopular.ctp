@@ -151,7 +151,7 @@ use Cake\I18n\Time;
 
              
                ?>
-              <div class="item1 box_shadow_img">
+              <div class="item1 box_shadow_img custom_style2">
                 <div class="product_cnt clearfix">
                   <a class="img-hover1" href="<?php echo $popular['product_url'];?>">
                     <div class="bg_product">
