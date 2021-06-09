@@ -144,8 +144,9 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
         <?= $this->fetch('css') ?>
         <?= $this->fetch('script') ?>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pushbar.js@1.0.0/src/pushbar.min.css">
-          <?= $this->Html->css('custom_style.css') ?>
-          <?= $this->Html->css('media.css') ?>
+        <?= $this->Html->css('custom_style.css') ?>
+        <?= $this->Html->css('custom_ui_ux.css') ?>
+        <?= $this->Html->css('media.css') ?>
         <style type="text/css">
           .test
           {
@@ -909,7 +910,7 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
       </section>
       <input type="hidden" id="languagecode" value="<?php echo $_SESSION['languagecode'];?>">
       <!--section class="container-fluid no-hor-padding sticker-cnt"-->
-      <section class="container-fluid side-collapse-container fullPage">
+      <section class="container-fluid side-collapse-container fullPage ">
         <?php $a=$this->request->controller.'/'.$this->request->action; 
         if($a!='Users/login') { ?>
         <?= $this->Flash->render() ?>
@@ -920,145 +921,76 @@ if(isset($metavalue) && $metavalue == 'itemdetails')
 
       <footer class="container-fluid footer_section margin-top40" id="footer">
         <div class="container">
-          <div class="footer_container col-xs-12 col-sm-12 col-md-12 col-lg-12 no-hor-padding">
+          <div class="footer_container col-xs-12 col-sm-12 col-md-12 col-lg-12 padding-top30 padding-bottom30">
             <div class="footer_column col-xs-12 col-sm-4 col-md-4 col-lg-4 no-hor-padding">
               <ul class="no-hor-padding">
+                 <!-- <?php 
+                // echo '<li class="footer_links"><a href="'.SITE_URL.'help/faq">'.__d('user','FAQ').'</a></li>
+                // <li class="footer_links"><a href="'.SITE_URL.'help/contact">'.__d('user','Contact').'</a></li>
+                // <li class="footer_links"><a href="'.SITE_URL.'help/copyright">'.__d('user','Copyright policy').'</a></li>
+                // <li class="footer_links"><a href="'.SITE_URL.'help/terms_sales">'.__d('user','Terms of sales').'</a></li>
+                // <li class="footer_links"><a href="'.SITE_URL.'help/terms_service">'.__d('user','Terms of service').'</a></li>
+                // <li class="footer_links"><a href="'.SITE_URL.'help/terms_condition">'.__d('user','Terms & condition').'</a></li>
+                // <li class="footer_links"><a href="'.SITE_URL.'help/privacy">'.__d('user','Privacy').'</a></li>';
+                // ?>-->
                 <?php
-                echo '<li class="footer_links"><a href="'.SITE_URL.'help/faq">'.__d('user','FAQ').'</a></li>
-                <li class="footer_links"><a href="'.SITE_URL.'help/contact">'.__d('user','Contact').'</a></li>
-                <li class="footer_links"><a href="'.SITE_URL.'help/copyright">'.__d('user','Copyright policy').'</a></li>
-                <li class="footer_links"><a href="'.SITE_URL.'help/terms_sales">'.__d('user','Terms of sales').'</a></li>
-                <li class="footer_links"><a href="'.SITE_URL.'help/terms_service">'.__d('user','Terms of service').'</a></li>
-                <li class="footer_links"><a href="'.SITE_URL.'help/terms_condition">'.__d('user','Terms & condition').'</a></li>
-                <li class="footer_links"><a href="'.SITE_URL.'help/privacy">'.__d('user','Privacy').'</a></li>';
+                echo '<li class="footer_links"><a href="'.SITE_URL.'help/faq">'.__d('user','Apparel & Accessories').'</a></li>
+                <li class="footer_links"><a href="'.SITE_URL.'help/contact">'.__d('user','Autos & Vehicles').'</a></li>
+                <li class="footer_links"><a href="'.SITE_URL.'help/copyright">'.__d('user','Baby & Children’s Products').'</a></li>
+                <li class="footer_links"><a href="'.SITE_URL.'help/terms_sales">'.__d('user','Beauty Products & Servises').'</a></li>';
                 ?>
               </ul>
             </div>
-
-            <div class="vertical_line"></div>
-
             <div class="footer_column col-xs-12 col-sm-4 col-md-4 col-lg-4 no-hor-padding">
               <ul class="no-hor-padding">
+                <!-- <?php
+                // if(count($loguser)>0)
+                // {
+                  // echo '<li class="footer_links"><a href="'.SITE_URL.'profile">'.__d('user','My account').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'cart">'.__d('user','My cart').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'purchases">'.__d('user','Track orders').'</a></li>
+                  // ';
+                // }
+                // else
+                // {
+                  // echo '<li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','My account').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','My cart').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','Track orders').'</a></li>
+                  // ';
+                // }
+                ?> -->
                 <?php
-                if(count($loguser)>0)
-                {
-                  echo '<li class="footer_links"><a href="'.SITE_URL.'profile">'.__d('user','My account').'</a></li>
-                  <li class="footer_links"><a href="'.SITE_URL.'cart">'.__d('user','My cart').'</a></li>
-
-                  <li class="footer_links"><a href="'.SITE_URL.'purchases">'.__d('user','Track orders').'</a></li>
-                  ';
-                }
-                else
-                {
-                  echo '<li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','My account').'</a></li>
-                  <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','My cart').'</a></li>
-
-                  <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','Track orders').'</a></li>
-                  ';
-                }
+                echo '<li class="footer_links"><a href="'.SITE_URL.'profile">'.__d('user','Computers & Peripherals').'</a></li>
+                <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','Consumer Electronics').'</a></li>
+                <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','Dating Services').'</a></li>
+                <li class="footer_links"><a href="'.SITE_URL.'login">'.__d('user','Gifts & Occasions').'</a></li>';
                 ?>
               </ul>
-              <div class="hor_footer_divider"></div>
-              <ul class="no-hor-padding">
-                <li class="footer_labels">
-                  <?php echo __d('user','Interested in selling?');?></li>
-                  <li class="footer_links padding-top0"><a class="primary-color-txt txt-uppercase" href="<?php echo SITE_URL.'merchant';?>"><?php echo __d('user','get started');?></a></li>
-                </ul>
               </div>
-
               <div class="footer_column col-xs-12 col-sm-4 col-md-4 col-lg-4 no-hor-padding">
                 <ul class="no-hor-padding">
+                  <!-- <?php
+                  // echo '<li class="footer_links"><a href="'.SITE_URL.'help/about">'.__d('user','About').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'help/documentation">'.__d('user','Documentation').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'help/press">'.__d('user','Press').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'help/pricing">'.__d('user','Pricing').'</a></li>
+                  // <li class="footer_links"><a href="'.SITE_URL.'help/talk">'.$setngs['site_name'].' '.__d('user','Talk').'</a></li>';
+                  ?> -->
                   <?php
-                  echo '<li class="footer_links"><a href="'.SITE_URL.'help/about">'.__d('user','About').'</a></li>
-                  <li class="footer_links"><a href="'.SITE_URL.'help/documentation">'.__d('user','Documentation').'</a></li>
-                  <li class="footer_links"><a href="'.SITE_URL.'help/press">'.__d('user','Press').'</a></li>
-                  <li class="footer_links"><a href="'.SITE_URL.'help/pricing">'.__d('user','Pricing').'</a></li>
-                  <li class="footer_links"><a href="'.SITE_URL.'help/talk">'.$setngs['site_name'].' '.__d('user','Talk').'</a></li>';
+                  echo '<li class="footer_links"><a href="'.SITE_URL.'help/about">'.__d('user','Home & Garden').'</a></li>
+                  <li class="footer_links"><a href="'.SITE_URL.'help/documentation">'.__d('user','Finantical Services').'</a></li>
+                  <li class="footer_links"><a href="'.SITE_URL.'help/press">'.__d('user','Other').'</a></li>';
                   ?>
                 </ul>
-                <div class="hor_footer_divider"></div>
-                <ul class="no-hor-padding">
-                  <li class="footer_links_bold"><?php echo __d('user','Social media');?></li>
-                  
-                   <li class="social_icons">
-                     <div class="sociaLang">
-                       <div class="socIcons">
-                         <?php
-                          $socialLink = $setngs['social_page'];
-                          $socialLink = json_decode($socialLink,true);
-                          echo '<a href="'.$socialLink['facebook_link'].'" target="_blank"><span class="social_icon_fb"></span></a>
-                          <a href="'.$socialLink['twitter_link'].'" target="_blank"><span class="social_icon_twitter"></span></a>
-                          <a href="'.$socialLink['instagram_link'].'" target="_blank"><span class="social_icon_instagram"></span></a>';
-                          ?>
-                       </div>
-                        <div class="lanGu">
-                     <label for="lang" class="lanGuage">Language:</label>
-                    <div class="langSelect">
-                        <select class="selectpicker languageSelect">
-                        <?php
-                              $sel = "";
-                              foreach ($languages as $lang) {
-                                if($lang['languagename']==$_SESSION['languagename']){
-                                  echo "<option value='".$lang['languagename']."' selected>".$lang['languagename']."</option>";
-                                }else{
-                                    echo "<option value='".$lang['languagename']."'>".$lang['languagename']."</option>";
-                                  
-                                }
-                              }
-                              ?>
-                        
-                        </select>
-                    </div>
-                  </div>
-                       
-                    </div>
-                  </li>
-
-                </ul>
               </div>
-              <?php
-              if($setngs['footer_active'] == 'yes')
-              {
-                echo '<div class="copyrights col-xs-12 col-sm-12 col-md-12 col-lg-12 no-hor-padding margin-top20 margin-bottom20">';
-                ?>
-                <div class="powerd-by">
-                 <?php echo $setngs->footer_left; ?>
-               </div>
-               <div class="product-name">
-                 <?php echo $setngs->footer_right; ?>
-               </div>
-
-
-             </div>
-             <?php }
-             ?>
            </div>
          </div>
        </footer>
         <!-- script for header dropdown  -->
     <script>
-    /*   $( ".logo" ).hover(function() {
-   $('.logoArrow i').toggleClass('rotate');
-    $('.logoArrow i').toggleClass('rotate-reset');
-       });
-       $( ".logoArrow" ).click(function() {
-   $('.logoArrow i').toggleClass('rotate');
-    $('.logoArrow i').toggleClass('rotate-reset');
-       });*/
     </script>
   <script>
-  //   $(".currenCy").mouseover(function(){
-  //     $( '.dropdown-toggle', this ).trigger( 'click' );
-  //   $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
-  // });
   if($(window).width() > 767){
- //    $('.currenCy').hover(function() {
-     
- //     $( '.dropdown-toggle', this ).trigger( 'click' );
- //   $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
- // }, function() {
- //   $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
- // });
   $('.currenCy').click(function() {
      
      $( '.dropdown-toggle', this ).trigger( 'click' );

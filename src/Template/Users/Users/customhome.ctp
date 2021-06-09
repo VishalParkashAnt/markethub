@@ -19,7 +19,6 @@ $sliderstyle = "style='box-shadow:none;height:".$sliderProperty['sliderheight'].
 
 $widgetSettings = json_decode($homepageModel['widget_settings']);
 ?>
-
 <div class=" card main-side-nav-card left_sidebar scrollbar_hide    multi-collapse">
     <div class="sidebar_inner">
         <div class="card-body with-nav">
@@ -137,7 +136,6 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
         </div>
     </div>
 </div>
-
  <div class="row parent_reverce">
       <section class="inner_body">
       <section class="side-collapse-container mainPage">
@@ -635,7 +633,7 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
  </div>
 
    <!-- E O filters -->
-     
+   </div>
    </div>
 
 
