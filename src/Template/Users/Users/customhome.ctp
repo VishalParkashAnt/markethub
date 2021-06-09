@@ -553,13 +553,12 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
         </div>
       </section>
  -->
- <div id="right-sidebar " class="right-sidebar scrollbar_hide">
-  <section class="">
+ <div id="right-sidebar " class="right-sidebar scrollbar_hide ">
+ <section id="" class=" ">
         <div class="cateGory">
           <div class="category">
             <div id="sidebar">
-              <div class="sidebar__inner border_right_grey" style="position: relative; ">
-               
+              <div class="sidebar__inner" style="position: relative; ">
                 <div id="accordion1" class="panel-group margin-bottom0">
                   <div id="" class="panel panel-default box_shadow0">
                     <div class="panel-heading padding0">
@@ -568,7 +567,6 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
                         <h4 class="panel-title bold-font filter_accordion accordion_shop primary-color-bg white-txt">
                           <div class="inlined-display shop_filter_menu_padding">
                             <?php echo __d('user','Filters');?></div><i class="more-less glyphicon glyphicon-plus bold-font"></i>
-
                         </h4>
                       </a>
                     </div>
@@ -576,21 +574,21 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
                       <div class="no-hor-padding padding-top0">
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                            <div class="parent">
-                  <form action="<?php echo SITE_URL.'searchproduct'?>" method="post">
-                  <input type="search" placeholder="<?php echo __d('user','Search here...');?>" class="" name="searchkey">
-                  <div class="price_range">
-                    <p><?php echo __d('user','Price Range');?></p>
-                    <div class="priceSlider">
-                   
-                      <input id="range" type="range" min="0" max="5000" value="5000">
-                    </div>
-                      <span id="value" ></span>
-                     <input type="hidden" id="price_value"  name="price" />
-                  </div>
+                              <form action="<?php echo SITE_URL.'searchproduct'?>" method="post">
+                              <input type="search" placeholder="<?php echo __d('user','Search here...');?>" class="" name="searchkey">
+                              <div class="price_range">
+                                <p><?php echo __d('user','Price Range');?></p>
+                                <div class="priceSlider">
+                              
+                                  <input id="range" type="range" min="0" max="5000" value="5000">
+                                </div>
+                                  <span id="value" ></span>
+                                <input type="hidden" id="price_value"  name="price" />
+                              </div>
 
-                  <input type="submit" class="btn primary-color-bg primary-color-bg deals" value="<?php echo __d('user','Search');?>" />
-                </form>
-                </div>
+                              <input type="submit" class="btn primary-color-bg primary-color-bg deals" value="<?php echo __d('user','Search');?>" />
+                            </form>
+                            </div>
                           <div class="panel panel-default">
                             <div class="panel-heading padding0" role="tab" id="headingOne">
                               <a role="button" class="accordion_one" data-toggle="collapse" data-parent="#accordion"
@@ -598,18 +596,15 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
                                 <h4 class="panel-title accordion_shop bold-font">
                                   <div class="inlined-display shop_filter_menu_padding">
                                     <?php echo __d('user','Categories');?></div><!-- <i class="more-less glyphicon glyphicon-minus"></i> -->
-
                                 </h4>
                               </a>
                             </div>
-
                             <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel"
                               aria-labelledby="headingOne">
                               <div class="panel-body list_menu" style="max-height: 350px">
 
                                 <?php foreach($parent_categories as $parent_cat){
                                         $imageurl = SITE_URL.'images/category/'.$parent_cat->category_webicon;
-
                                   ?>
                                 <a class="shop_menu" data-parent="#nested"
                                   href="<?php echo SITE_URL.'shop/'.$parent_cat->category_urlname;?>">
@@ -619,20 +614,11 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
                                   <h4 class="panel-title sub_menu_panel"><?php echo $parent_cat->category_name?></h4>
                                 </a>
                                 <?php }?>
-                              
-
-                               
                               </div>
                             </div>
                           </div>
-
-
                         </div>
-
-
-
                       </div>
-
                     </div>
                   </div>
                 </div>
@@ -644,6 +630,8 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
           </div>
         </div>
       </section>
+ </div>
+
    <!-- E O filters -->
    </div>
    </div>
