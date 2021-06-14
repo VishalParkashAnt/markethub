@@ -221,7 +221,7 @@ $widgetSettings = json_decode($homepageModel['widget_settings']);
                 price_val="$100"></span><a href="<?php echo SITE_URL.'shop/'.$cat->category_urlname;?>" id="user_n"
                 usernameval=""><span id="img"
                 class="nodisply"><?php echo $imageurl;?></span>
-              <div class="product_cnt clearfix col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <div class="product_cnt clearfix col-xs-12 col-sm-4 col-md-4 col-lg-4 custom_col_1">
                 <div class="bg_product" id="item_cnt97">
                   <img src="<?php echo $imageurl;?>" class="img-responsive">
                 </div>
