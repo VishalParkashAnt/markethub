@@ -8,23 +8,17 @@
      @$password = $_SESSION['media_server_password'];
      @$hostname = $_SESSION['media_host_name'];
 ?>
-
-
-<!-- breadcrumb start -->
-<div class="container-fluid margin-top10 no_hor_padding_mobile">
-  <div class="container">
-<div class="breadcrumb col-xs-12 col-sm-12 col-md-12 col-lg-12 margin_top_150_tab margin-bottom10">
-     <div class="breadcrumb">
-      <a href="<?php echo $baseurl;?>"><?php echo __d('user','Home');?></a>
-      <span class="breadcrumb-divider1">/</span>
-      <a href="#"><?php echo __d('user','Profile');?></a>
-     
-     </div>
-    </div>
-     
-  </div>
-    </div>
-    <!-- breadcrumb end -->
+	<!-- breadcrumb start -->
+	<div class="container-fluid margin-top10 no_hor_padding_mobile">
+			<div class="breadcrumb col-xs-12 col-sm-12 col-md-12 col-lg-12 margin_top_150_tab margin-bottom10">
+				<div class="breadcrumb">
+					<a href="<?php echo $baseurl;?>"><?php echo __d('user','Home');?></a>
+					<span class="breadcrumb-divider1">/</span>
+					<a href="#"><?php echo __d('user','Profile');?></a>
+				</div>
+			</div>
+	</div>
+	<!-- breadcrumb end -->
 	<div class="container-fluid margin-top10 margin_top165_mobile">
 	
 
